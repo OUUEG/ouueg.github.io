@@ -1,0 +1,77 @@
+---
+id: 426
+title: 'Not the Bamse expedition (or &#8216;what else can go wrong?&#8217;), March 2008'
+date: '2008-09-21T23:30:43+01:00'
+author: ouuegoxford
+layout: post
+guid: 'http://ouueg.com/?p=426'
+permalink: '/?p=426'
+mfn-post-love:
+    - '0'
+hefo_before:
+    - '0'
+hefo_after:
+    - '0'
+slide_template:
+    - default
+mfn-post-hide-content:
+    - '0'
+mfn-post-sidebar:
+    - '0'
+mfn-post-sidebar2:
+    - '0'
+mfn-post-slider:
+    - '0'
+mfn-post-slider-layer:
+    - '0'
+mfn-post-hide-title:
+    - '0'
+mfn-post-remove-padding:
+    - '0'
+mfn-post-hide-image:
+    - '0'
+mfn-post-template:
+    - intro
+mfn-post-header-bg:
+    - 'http://ouueg.com/wp-content/uploads/2008/09/20960565455_95d0a4d7d7_k.jpg'
+categories:
+    - 'Expedition Reports'
+tags:
+    - '2008'
+    - Porthkerris
+    - Technical
+    - Weekend
+---
+
+*Dates: March 2008,*   
+*Author: Luke*
+
+I’ve been meaning to write up this report for some time, but haven’t yet found the time to sit for long enough trying to remember everything that happened (and there was a lot!). So here goes… Way back in March, on the pre-ET trip, over a case of beer and a couple of bottles of scotch (and between discussions of Eddie’s ‘problem’, we came up with a daring plan to spend a week diving a single shipwreck located off Porthkerris. The plan seemed simple – get a team of like minded, willing and trained individuals, spend the season getting fully dived up and then head down there with the boat to dive it! In practice, it turned out to be much, much more complex…
+
+The team comprised Paul, Eddie, Tim Miles and myself. We identified early on that we’d need a boat driver and decided that someone would do something about that. Come July, we realised that we still didn’t have one, and we set about in earnest getting one! Step forward Martin who volunteered to help out for a few days in exchange for us sharing our vast knowledge of technical diving (little did he know how little we knew…).
+
+Logistically, the trip was cursed from early on. The particular wreck we were diving was called either the Bamse or something else and Paul and Eddie had found a nice brass depth gauge on the deck several years earlier. We wanted to survey the wreck and see if there were any further artifacts lying around that would be worth recovering. The only problem – the wreck was lying in 65m of water. This is much too deep to dive safely on air and so we needed to use trimix (a mixture of helium, oxygen and nitrogen used to reduce narcosis). For this we needed helium, and lots of it. We were all diving on twinsets with two stage cylinders of Nitrox each (for decompression) and so gas requirements overall were significant. We decided to mix the gas ourselves, to keep the cost down (yeah, right!) and so asked Mike, who runs the operation at PK to get us in some cylinders of helium. Then came the first bombshell. Three days before we were due to leave, Mike told us that he wouldn’t be able to get us gas in time. In stepped a contact at the university who managed to order us a huge cylinder of industrial / research helium.
+
+Next up, the rope we’d ordered to make a shot line that would reach the wreck didn’t arrive, so we had to make a frankenstein version from half a dozen short bits of line. The plan to get there was to leave from London on the Friday night, head to Oxford to get the boat kit and helium and then head to Bristol to get Eddie. On arriving in Oxford, Paul realised that he had left his regs in London, so back he and Tim went to pick them up, after a friendly security man let us help ourselves to the helium that had been delivered. I headed over to Eddie’s, arriving at about 2 am. Next morning, Paul, Eddie and Tim headed to Portland to pick up the boat while I drove on to Taunton to pick up Martin, then on to Plymouth for gas fills before finally heading down to PK to drop off the helium and find the caravan site.
+
+Without getting too badly lost, we got everything sorted. Gas fills were a bit off and a bit miserly (170 bar nitrox and only 200 of trimix) and very expensive (150 quid for just eddie’s and my first dive!) and we arrived last at the campsite so got lumped with the living room (no bed…). Next morning (Sunday) was to be the first day of diving. We got to the beach nice and early, set everything up and checked everything, then launched the boat. We had allowed ourselves an hour to find the wreck (we only had rough coordinates). Come slacks we’d found…nothing. The next six hours were spent driving around first in spirals and then in stripes, looking for the wreck on the echo sounder. Nothing. It was also obvious that there was a pretty major problem with the steering on the boat, so we kept topping up the hydraulic fluid.
+
+Back onshore, we hit the pub, stopping off en route at Gary Fox’s place, where he kindly gave us the exact coordinates of the wreck. We had a beer and then headed back to make dinner and get an early night, ready for the days diving tomorrow. Next day on the beach, after kitting up, loading up the boat and sending for the tractor to launch us, we noticed that the steering now didn’t work at all. We took the only decision possible and canned the day of diving. Being a bank holiday meant we couldn’t even contact a repair place to get it fixed that day, and as we couldn’t get on a charter for Tuesday, we resigned ourselves to two days of not diving. So we hit the pub! Martin had to head back to work and so he managed to cadge a lift from his parents back to Taunton (after a cream tea and a nice dinner!). Next morning, Tim and I took the boat in to be repaired and we managed to book onto a charter for Wednesday and Thursday. The damage was serious – the entire hydraulic system needed replacing. Fortunately, they could do that in a day, so we left it with them and headed back to Helston, where we decided to visit the AP Valves factory.
+
+As well as making the buddy range of BCDs, AP make some very nice rebreathers. On arriving saying we were interested in these, Martin, the head of the company, took us on a three hour tour of the factory and research department. Going in, we largely saw rebreathers as a nice idea. Coming out, we were sold… Next day – diving at last!!! With our newly fixed (for now…) boat and the coordinates of the wreck (about 100 yards from where we started looking last time!) we nipped out to check that the wreck was indeed there. We got confirmation from the echo sounder that it was there (and was big!). We then waited for our turn on the charter, leaving at about 4pm.
+
+Kitting up, we checked everything over with nothing alarming. I had a tiny leak from the pressure gauge hose of my 40% stage but didn’t seem like much to worry about – I swapped over the o ring on the swivel and it seemed fine. Kitting up on a rib with twins and two stages is anything but easy… I was diving with Eddie and Paul and Tim were the other pair. They hit the water first and went down to tie the shot in. Eventually, they bouys they’d pulled under resurfaced and we hit the water, did our last minute checks and went down… At the bottom, although dark (as you’d expect at 60m), it was pretty clear with not too bad vis. We started at the bow which we swam around a bit before heading down to the sea bed. Getting a max depth of about 66m, we didn’t see much down there so headed back to the deck. We only had 25m of bottom time (which includes the 5m or so of descent) and soon were checking our timers. Not long left now. And what’s that? Something reflective… Not metal but glass. Oh my…its a porthole! I alerted Eddie and there was much rejoicing. Eddie set about finding a fixing point on it while I had a glance over – it looked pretty intact and there were the attachments to keep it closed still attached. Eddie managed to get a lifting bag attached and sent it up.
+
+At this, we’d used up our bottom time and signalled to ascent to our first deco stop. Deco went according to plan, right until 33m. Then, it really stopped being my day. Turning on my first deco cylinder, a huge cloud of bubbles appeared and my reg started breathing wet. Looking at the pressure gauge, I saw the problem. The swivel was leaking badly and watching the dial, I could see it going down fast. I tried for a while to turn it off between breaths but even this was losing too much gas. I signalled to Eddie that I was switching to my back gas and using the longer decompression plan that this involved. Eddie was still on the original plan so was ascending quicker than me. By the time I was at 24m, he was above me at about 15m, watching down when the next problem struck. It was pretty cold and I must have been breathing quickly as all of a sudden, when breathing in, I got the sucking sensation that told me I was out of gas. Knowing that I had to get another gas supply quickly, I switched back to my leaking cylinder and ascended quickly to Eddie’s level, frantically signalling my plight. Eddie donated the hose with his back gas in and everything seemed okay, for now at least! I’d missed quite a lot of deco on my quick ascent and my computer decided at this point to throw a fit and lock me out, ceasing to provide deco information.
+
+I then signalled to the cover boat that we were having problems and asked for more gas, which came down in the form of a cylinder without a regulator on. The plan had been to put on a reg from a stage bottle, if it was needed, but the only reg I could use for this was the leaking one. Next up, my ear decided to become sticky and wouldn’t clear, with the pressure difference making me extremely dizzy – after a couple of huge attempts, though, it finally came through (fortunately!). At nine metres, I could finally switch to my final deco tank, which I did with no issues at all! I now had another hour or so of deco to complete between here and the surface, and for once, time flew by! At our 3m stop, something obviously decided that things had calmed down too much, as I then developed a sudden searing pain in my leg. Knowing that I’d skipped some earlier deco, I was a little concerned that this could be the first manifestation of DCS, and signalled to Eddie that I had a problem. Eddie thought it was more likely to be cramp and tried to stretch out my leg, which helped a little. He then stuck around as long as his gas would last before handing off his remaining reserves and heading to the surface.
+
+At this point, I was carrying seven (!) cylinders and to top everything off, the pain in my leg returned, joined by an identical pain in the other leg. Knowing what I do about DCS, this was reassuring as was much more likely to be cramp, although it was agony and I couldn’t swim properly! Watching the final minutes run down seemed to take an age and finally, having done some extra deco to try to cover the missed stops, I surfaced to see the boat. Everyone helped me out of my kit and onto the boat, before speeding back to shore. Once there, we dekitted and debriefed, using up the O2 kit as a precaution and then using up every deco bottle remaining to be extra sure! Fortunately, no problems appeared after and we packed the cars and hit the pub to discuss the other story of the day – our porthole!
+
+Next day, we were diving from our boat and I was driving with Eddie, Tim and Paul diving as a three. Everything seemed fine on the descent but conditions on the bottom weren’t ideal, so the dive was aborted and after the long deco schedule, everyone made it safely back on the boat.
+
+Next day, we were off out again with Tim driving the boat. On the way out, the engine warning lights came on as we were approaching the wreck. The dive went like clockwork, apart from us spending time going around in circles as by now, we were running out of helium and had a leaner mix (meaning a bit more narcosis). We managed to find another, smaller, porthole and sent this up, along with a couple of other bits we found. Back on the boat, it was starting to get dark so we quickly de-kitted and slowly drove the boat back. Next day, we contacted the boat supplier about the engine problem and found it was not something we could run the boat with. After frantically trying to find both a charter vessel and trimix fills, we realised that it wasn’t going to happen and that it was time to call it a day. We packed up the cars, called out the RAC to fix Eddie’s car and then headed off home, leaving the boat in Torquay en route.
+
+I finally got home at about 1am and slept well! Other memorable moments: The gas filling whip being supplied with the wrong end, so it leaked out most of the helium during filling (especially from the six year old rusty cylinder from the back of Mike’s hut that looked like a ticking time bomb…). Discussions on how to finance a rebreather on a student budget. Trying to clean the portholes in the shower of the caravan, and then trying to clean the shower! Trying to drive the boat up a narrow alley to the servicing place (well done Tim!). A pretty raucous car journey with Martins parents to find a restaurant. The endless admiration for the incredible filling whip (once it worked!). The diet of soreen and doritos. Eddie’s stories of his ‘educating’ in China. The longest trip I’ve been on when we failed to catch ANY seafood (and had to get fish and chips on the way home to compensate).
+
+Sorry for the long report – a lot happened!

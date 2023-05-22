@@ -1,0 +1,92 @@
+---
+id: 423
+title: 'Summer expedition to the Isle of Man!'
+date: '2008-11-03T23:26:36+00:00'
+author: ouuegoxford
+layout: post
+guid: 'http://ouueg.com/?p=423'
+permalink: '/?p=423'
+mfn-post-love:
+    - '0'
+hefo_before:
+    - '0'
+hefo_after:
+    - '0'
+slide_template:
+    - default
+mfn-post-hide-content:
+    - '0'
+mfn-post-sidebar:
+    - '0'
+mfn-post-sidebar2:
+    - '0'
+mfn-post-slider:
+    - '0'
+mfn-post-slider-layer:
+    - '0'
+mfn-post-hide-title:
+    - '0'
+mfn-post-remove-padding:
+    - '0'
+mfn-post-template:
+    - intro
+mfn-post-header-bg:
+    - 'http://ouueg.com/wp-content/uploads/2008/11/douglas-isle-of-man.jpg'
+mfn-post-hide-image:
+    - '0'
+categories:
+    - 'Expedition Reports'
+tags:
+    - '2008'
+    - 'Easter Expedition'
+    - Expedition
+    - 'Isle of Man'
+    - Training
+---
+
+*Dates: Summer 2008,*   
+*Author: Martin*
+
+Just before the start of a new academic year with hopefully plenty of enthusiastic new divers joining the club, I am putting together a long overdue trip report for this summer’s OUUEG expedition to the Isle of Man (IoM). With 10 divers, 2 cars, 1 boat and bags of kits, 8 days and 7 nights in a “mansion” all to ourselves in the heart of National Trust land surrounded by millions of friendly sheep, with the weather conditions mostly on our side, it was the complete recipe for a fun diving week.
+
+Now first things first: a huge thanks goes to the drivers: Brian Patton and George Hamer. Shipping 10 divers + kit and all the essentials (fuel, food, alcohol…) with only two cars, it was simply the toughest job you can have. A huge thanks also goes to Cherry and Paul, who organized this trip and made it happen!
+
+## Day 0 – The Cross to IoM.
+
+While Brian, Andy G, George and myself took the ferry from Liverpool; Paul, Anthony, Martin and Barnaby set off to the brave journey across the channel in the club Rib. Launching the boat from the Port in Lake District, the weather however, was not quite ideal. With the wind and waves, even the ferry had to close off the open-air top deck and we certainly could feel the ferry rocking as we sailed on. While Paul and Anthony drove the rib, Barnaby forgot his travel sickness pills and therefore lots of fish in the channel were fed during the 6 hour long journey. The Rib finally sailed into our launch site at Port St. Mary on the south coast of the IoM. Brian’s friend Gavin joined the party from Ireland, and we settled at our “home” on the IoM: a house facing the south west coast with a slope leading to the sea; miles of mountain behind and the most beautiful sea view and sunset that accommodated perfectly with BBQ and evening gatherings. Dinner and lots of cans were consumed and we went to bed nice and early, ready for the week of diving…
+
+## Day 1
+
+Since Anthony’s Tooth accident, he couldn’t dive and became the designated boat handler. Weather was a bit cold and windy. First dive was at the Carrick, very shallow, about 11-12m deep. Not too much to see apart from lots of seaweed. So we moved on to the Stack which is on the west side of the Calf. By the time we got there, the sun had come out and it was a pleasant scenic dive, lots of life especially along the wall area. Lots of anemones and dead man’s fingers. The first crab of the trip was caught by Martin, but it had to be released back for being too small… It is also reported that a dogfish apparently was trapped in a lobster cage, looking helpless and at the same time amused the divers. Back to base, it is the night for BBQ, (as we set out to buy couple of disposable ones, came back with a full on complete BBQ stand!) Having the spanking new super BBQ in action, lots of burgers, wings and meat along with even more cans of beer were consumed. Cherry arrived and we finished the night playing Brian’s dice games with lots of whisky…
+
+## Day 2 – Significantly less amount of faffing and much better weather.
+
+The jealousy of not wearing a dry suit had completely gone while watching the dry suit guys sweating! First dive was at Kione ny Halby. It is a scenic dive, with max depth 25m. Very good vis and lots of fish and crabs around. After the first wave of divers came in, we spotted a couple of seals nearby! So as the second wave of divers went in, the others went back into the water snorkeling with the seals near the rock at the shallow water. Barnaby was particularly friendly with them, even told the difference between the male and female ones after being sandwiched by them apparently. The second dive of the day was the exciting sugarloaf caves. It was my first ever cave dive, and it certainly did not disappoint me. The first wave of the divers were dropped in from the west side of the cave and after picking them up, we realized that there was current running from east to west inside the cave, so the guys had to work quite had against it to come out on the other end. Given the conditions, Brian still made lots attempts at catching lobsters. The second wave therefore was dropped from east side, after exploring the V cave, with the beautiful sight of light shining through the gap in the rock and lighting up the green-blue water, we drifted through to the main cave. No sign of lobsters though, probably all gone into hiding after Brian’s invasion earlier. After a successful day of diving, our spirits were high, and the inevitable drinking till 4am finally happened…
+
+## Day 3 – The day Barnaby marshaled with me as the assistant.
+
+The plan was dive the wreck SS Citrine, but as we got up it was incredibly foggy. After a couple of hours of waiting, we decided to head down to the sea anyway and to our surprise, the fog was only dense on top of the hill where our house was, but none existent at the bottom! So we resumed the plan of diving the Citrine, and headed out to find it. Unfortunately with only a rough GPS coordinate combined with the echosounder and Barnaby’s hand-drawn sketchy map, we found nothing promising. Having the knowledge that the wreck had to be there, the divers went in anyway in hopes of finding it… and we didn’t. Though the rocks below were very wreckish like, with a fair amount of life down there, and lots of jelly fish floating about… On the way back, Paul had somehow mysteriously injured his right arm, (with a visible bump). With just one dive done in the day, we made it up with a big delicious Risotto dinner cooked by Brian and Gavin, and picked Top Gun to watch out of nearly 20 of the possible Disney movies.
+
+## Day 4 – A day of Shore diving.
+
+We headed up to Peel at the north of IoM and found the beach was right next to Peel Castle. While Brian and Gavin went in for a massive 1.5hour long snorkeling, Martin and George went lobster hunting, Barnaby and I tried to rescue each other without killing ourselves. Thanks to Andy G, Cherry and Paul’s combined effort in instruction, we finally managed to be able to tick rescuing off the sports diver training list, leaving me amused with myself that I could actually carry a 14-stone dead weight body on land! Afternoon was relaxing and pleasant, especially after a seafood salad for lunch. Ultimate Frisbee was played followed by a BBQ on the beach. As we waited watching the sunset, we got ready for the night dive. As we couldn’t find anywhere to do the airfills, the night dive was short but not short of joy. I was thrilled to see so much life and activities going on when the night falls! With everyone safely back to shore and happy, we headed home in the early hours of the morning, with millions of sheep staring to welcome us returning in the dark.
+
+## Day 5 – A glorious Day.
+
+First dive was to the wreck of the Clan McMaster at Calf sound, where there was a wicked fast current and also plenty of seals hanging around. So after being dropped of into the water, it was quite an effort to swim against the current towards the shot line, but when we got the bottom, things calmed down and the wreck was extensive. Then something amazing happened, a very brave and friendly grey seal turned up, curiously looking at us, so I decided to sit on my back, face to face with her, (I think it was a her), she just looked like a cute underwater puppy dog! She then swam even closer to me and started to nibble my fins! Only realizing that they were not tasty at all, she then moved on to other divers… The second dive was a relaxing wall dive with a mild drift. As George’s Reg suddenly malfunctioned, the divers kept getting sudden sights of George free diving amongst them. And in between waves, everyone had a go at trying to do the 20second boat challenge, i.e. keeping the buoy along side the boat for 20 seconds — and the buoy was killed over every single time. Since it was the last evening that all 10 of us would be here, we went for Curry at Port St Mary and we were even allowed to bring our own beer in!
+
+## Day 6 – “Saving the best till last”
+
+In the final day of diving, this was certainly true in my humble opinion. Launching the boat from Port Erin this time, we kicked off the day with a fantastic drift dive at the Calf Sound, max speed was nearly 5 knots! The drift really picked up when we descended to around 15m and this literally blew Andy G and me backwards for half a minute before we sorted ourselves out while descending down to 20m near the bottom. Then it was just like flying in the water. The bottom was covered by a carpet of white dead man’s finger and orange anemones, occasional crabs and groups of fish trying really hard to swim against the current and just not getting anywhere. Also steering ourselves away from the abundance of drifting jellyfish was rather amusing. After drifting for about 25 minutes, we got to somewhere calmer to send up a blob for ascending, at the same time the battle with the jellyfish who seemed to have a magnet for us had also resumed. As we went to the 6m safety stop, the tentacles of a jellyfish got tangled on Andy’s reel, only after a significant amount of careful maneuvers he managed to get rid of it. It was, however, the shortest 3 min safety stop being entertained by Andy and Jellyfish.
+
+After the 1<sup>st</sup> dive, a group of seals made an appearance around the calf sound. As there is a small sheltered area near the rocks in the middle that has no current, Brian, George and myself decided to join the seals and snorkeled with them. Everyone enjoyed the drift dive so much that we decided to do it again, waiting for the current to pick up again. So to fill the time in between, Paul and Brian had another go at trying to find the wreck of the SS Citrine and at the end of a 45min dive, they finally got to the corner of it. Then surprisingly still having time to kill, George put his water ski board into use. After George’s demonstration of how to water ski properly with rounds of applause, everyone in semi-dries (Brian and myself) had a go too and demonstrated how to drink seawater and not water ski. Andy G was feeling rather left out in the dry suit, so decided he would try water ski in a dry suit without the board. The sight of the boat dragging Andy hanging onto the rope for dear life just emerged at the Bay of Port Erin.
+
+**Final dive of the trip:**
+
+Drift dive again at the sound just the other way round. Diving with Martin this time, we started the drift, and it was not as fast as earlier, but still a very cool feeling, then the current calmed down, and we found ourselves near a wall with plenty of life and a couple of seals kept popping up to us. Then we spotted a large crab and a lobster! We signaled to get it, removed as much stone as we could, then to my surprise, Martin went for the Crab! I was about to signal to him that: there is a tastier seafood next to it, Martin’s cunning plan had presented itself, using the Crab as bait to fight the lobster to get the lobster out of its hole! And it worked! I then grabbed the lobster from behind and there we have it. It was the first time I ever held a live lobster, and with its legs closing on my fingers, I started to hyperventilate and thank god Martin took out a goody bag rapidly. Moving along the wall, we came to a shallower area, and there we found the seals’ den! At least 4 seals were around, then one came close to us and looked like the mother; the others were the babies. They were not bothered by our presence at all, especially the one lying on its back, it just turned its head towards us had a look, and went back to chill out. All divers came in and happy, and that was the end of the diving.
+
+## Day 7 &amp; 8
+
+Day 7 &amp;8: With no more dives to do, the party went on all night and at 5:30am, under the influence of all night drinking, Brian, Martin and I decided to go for a walk down towards the cliff and watch the sunrise. I simply could not find words to describe the amazing view but to say it was the most spectacular sea view I have ever seen. (Photos will be available soon) Even with a nearly half an hour of climbing up the hill to get back to the house, it was still worth it. Later in the day, Paul, Anthony and Andy G launched the boat back to England with a glassy water condition, leaving Brian, George, Martin and me to stay the last night on the IoM before taking the ferry back to Liverpool. The final day went smoothly, especially after having the cheesiest omelet that Martin cooked, we cleaned up the place and the car, headed home and that marks the end of the Summer Expedition.
+
+*Sorry for making it so long, but it was one busy week!*

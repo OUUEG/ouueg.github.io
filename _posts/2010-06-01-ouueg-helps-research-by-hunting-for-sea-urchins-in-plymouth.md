@@ -1,0 +1,63 @@
+---
+id: 414
+title: 'OUUEG helps research by hunting for sea urchins in Plymouth, May 2010'
+date: '2010-06-01T23:03:36+01:00'
+author: ouuegoxford
+layout: post
+guid: 'http://ouueg.com/?p=414'
+permalink: '/?p=414'
+mfn-post-love:
+    - '0'
+hefo_before:
+    - '0'
+hefo_after:
+    - '0'
+slide_template:
+    - default
+mfn-post-hide-content:
+    - '0'
+mfn-post-sidebar:
+    - '0'
+mfn-post-sidebar2:
+    - '0'
+mfn-post-slider:
+    - '0'
+mfn-post-slider-layer:
+    - '0'
+mfn-post-hide-title:
+    - '0'
+mfn-post-remove-padding:
+    - '0'
+mfn-post-hide-image:
+    - '0'
+mfn-post-template:
+    - intro
+mfn-post-header-bg:
+    - 'http://ouueg.com/wp-content/uploads/2010/06/Bearb-5150104.jpg'
+categories:
+    - 'Expedition Reports'
+tags:
+    - '2010'
+    - 'HMS Scylla'
+    - 'Mewstone ledges'
+    - Plymouth
+    - 'SS James Eagan Layne'
+    - Weekend
+---
+
+*Dates: May 2010,*  
+ *Author: Luke*
+
+This trip saw us heading down to Plymouth with a rather unusual mission – looking for sea urchins. While we’re normally on the lookout for anything tasty while diving, I must admit that spiky echinoderms are not usually on the list. Sea urchins eggs are used as an experimental tool in certain labs, however, and the trip was aimed at collecting as many urchins as possible in order to harvest the eggs for use in research. We’d decided to dive from Fort Bovisand and aimed to arrive there nice and early on Saturday to catch high water so that the slipway there would be covered with water (which always makes it handy). Unfortunately, bank holiday traffic conspired against us and by the time we arrived from London, the slip was virtually dry…
+
+Fortunately, with the help of Danny and Dave from the dive centre there, Alex had already got the boat in the water and soon after, we were in the water and underway. Most dive guide books don’t mention the best places to find sea urchins so we’d done a bit of research beforehand and been told that the seaward side of the breakwater and the Mewstone ledges were good sites to find these, so we set off out towards the breakwater for our first dive. The sea was a little lumpy but not enough to cause concern for those of us with steel stomachs. Not being sure of the prevalence of urchins at the site we chose, we put our first pair in with instructions to send up a yellow DSMB in the event of them being found. Down went Paul and Duncan and a short while later, we saw the buoy and the rest of us kitted up and went down. We were in pretty thick kelp and there were a smattering of the small spined globes down there. Limited visibility and the kelp made it difficult to keep track of your buddy so we ended our dive early with only six urchins. Paul had more success, bringing back over a dozen with Piotr and Liz scoring a bagel…
+
+After canvassing local knowledge, we decided to go out to the Mewstone to see whether there was any more there. The sea had picked up a little now and people were looking a bit green but we dropped everyone in and found…urchins! Mike and I managed to fill two goody bags and everyone came back with a serious haul, providing more urchins than the organisers had expected to find on the entire three day trip. We thought about stopping off at one of the local wrecks on the way back for a cheeky third dive but the echo sounder was misbehaving and we seriously doubted our ability to find anything. On top of that, the sea looked to be getting angrier and so we decided to call it a day and go back to Fort Bovisand.
+
+The next day, with our urchin mission done, we were free to go diving. Paul and I had an idea to dive the Foyle, a nice wreck in about 52m. Unfortunately, we’d come unprepared for serious diving and so needed to source some kit… We planned to hire stages from the dive centre and head out there but on arrival at shore, found ourselves stumped. Paul had managed to leave his undersuit at the hotel and so wouldn’t be diving… Not to worry, though – a quick rethink and Piotr and I were now going to be doing the Elk, another nice wreck. We launched and kitted up and then hit the next obstacle… While the echo sounder had been ropey the day before, it was now completely dead. One of the pins in the connector had completely corroded and had come away in the cable and there was no way to get it turned on again. Another quick rethink and the plan became diving the Scylla or the James Egan Layne, both of which we thought were buoyed. The VHF radios had been extremely busy all morning with various vessels getting into difficulty (bank holiday drivers…) and it was quite amusing to hear the coastguards telling all the routine traffic to “go away” while they dealt with real situations. We set off from Bovisand and were heading towards the breakwater when the next call came over the radio. A motor cruiser was in distress, having lost all power and drifting towards the rocks in… Bovisand Bay! We radioed in to the coastguard that we were nearby and were put in touch with the stricken vessel who could see us. Unfortunately, they were out of our view and so we were guided by them telling us “right a bit… right a bit more… straight ahead… keep going…”. On approach, it was clear that they were in real danger. They were stuck half on the rocks and were getting bashed around a lot. We got as close as we thought was safe and I jumped in to go and assist. Swimming through the surf wasn’t easy but we managed to get there and straighten up the boat. One of the guys on board got in as well and we tried to hold it off the rocks while Piotr got a rope over to us. We managed to get this on to their painter eyelet and I swam back out with the rope towards a police support boat which had now arrived on scene. This was a huge RIB and I managed to get the line tied on to a line from their boat with the intention that they’d reverse backwards, pulling out the boat. Somehow, though, they’d managed to navigate their vessel onto another rock and had grounded themselves. They ordered me to untie the line and abandon the boat while they got towed off by the lifeboat, which had now arrived. Paul brought Sea Horse around to pick up the other fisherman and I was recovered into the life boat and transferred back across from there. We then left the scene in the capable hands of the coastguard and headed back towards the wrecks we were planning to dive. Part way there, though, we noticed some strange vibrations from our boat and so had a quick look a the prop, to find that it was completely mangled. We’d managed to hit some rocks while recovering the fisherman and all three blades were badly bent, with large chunks completely missing from two of them. This put paid to our plans of diving for the day and so we headed into Plymouth to try to find a new prop. It being a bank holiday, the only place that would have it in stock was closed and so we had to make do with a lump of lead and a sturdy surface to ‘remodel’ our prop, bringing it back into shape.
+
+We then headed back towards Bovisand to pick up a spare handheld radio for the next part of the plan – rescuing the now abandoned boat. We’d noticed that it was still on the rocks but seemingly afloat, so we thought we’d be the good Samaritans and help the owners get it back, as it was clear it would be wrecked soon afterwards (and it was too small to make an interesting dive site…). Arriving back there, a couple of local experts advised me on how best to get it out, avoiding more rocks, and then the owners arrived and we formulated a plan. I would float the boat off the rocks and out to sea as far as I could get it (it was anchored in) and then Piotr would bring a line from Sea Horse to tow it out again. The boat was listing by now so it was clear it was taking on water and we didn’t have much time. I managed to swim the boat backwards and then recovered the anchor, fully freeing it. Piotr got the line on and then we managed to tow it backwards and then slowly back around to Fort Bovisand where they could then recover it. It amazingly went incredibly smoothly and back on shore, we could inspect the damage. There was a large hole in one side but otherwise, the boat was in surprisingly good condition. The owners were extremely grateful and brought us a case of Fosters for our troubles (they’d been ready to break it up and salvage anything valuable off it before we arrived) and we revelled in our new hero status!
+
+The next day, after a night of celebrations, we went back out with a similar plan to the previous day – to dive the JEL and the Scylla. Still had no echo sounder so we were relying on vague GPS coordinates from our handheld unit and buoys on the wreck. In the morning, we hit the JEL and got some great dives in, with someone recovering a rubber gasket from a second world war tin of bacon (!). Treasure indeed… In the afternoon, we went out to dive the buoy that in the past, had been on the Scylla. Promising to be in about 20m, I was a bit surprised to get to the end and find myself in 25m (at lowish Spring tide) with no sign of the wreck. We swam along the anchor chain for a while and after reaching the end, continued North in the vain hope of finding something exciting. This sadly didn’t happen and after about 10m of swimming over featureless silt, decided to abandon the dive and head for home. Back on shore a short while later, we managed to pack away and get moving before 7pm and were back home by midnight!
+
+All in all, a good weekend trip and a lot of fun, with the added excitement of practicing some skills you don’t get to use very often… Initial indications suggest that we got enough urchin eggs to last a year, but if not, we’ll be back… (as soon as we’ve fixed the boat)

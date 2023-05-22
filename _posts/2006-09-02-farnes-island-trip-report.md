@@ -1,0 +1,77 @@
+---
+id: 431
+title: 'Farnes Island trip report: the boys in blue, May 2006'
+date: '2006-09-02T23:42:17+01:00'
+author: ouuegoxford
+layout: post
+guid: 'http://ouueg.com/?p=431'
+permalink: '/?p=431'
+hefo_before:
+    - '0'
+hefo_after:
+    - '0'
+slide_template:
+    - default
+mfn-post-hide-content:
+    - '0'
+mfn-post-sidebar:
+    - '0'
+mfn-post-sidebar2:
+    - '0'
+mfn-post-slider:
+    - '0'
+mfn-post-slider-layer:
+    - '0'
+mfn-post-hide-title:
+    - '0'
+mfn-post-remove-padding:
+    - '0'
+mfn-post-template:
+    - intro
+mfn-post-header-bg:
+    - 'http://ouueg.com/wp-content/uploads/2006/09/20620146363_b31477507d_o.jpg'
+mfn-post-hide-image:
+    - '0'
+mfn-post-love:
+    - '0'
+categories:
+    - 'Expedition Reports'
+tags:
+    - '2006'
+    - Seals
+    - 'The Farnes'
+    - Weekend
+---
+
+*Dates: May 2006,*  
+ *Author: Luke*
+
+Taking advantage of the long bank holiday weekend, 12 intrepid adventurers set off on the long and dangerous trek into the unchartered territory of the North of England. Fearless in the face of such adversities as bank holiday traffic, hidden train stations, gutteral language and that bit of the map marked only with “Here be dragons” and buoyed by thoughts of cold water, aggressive sea creatures and the Grease soundtrack, it was truly a mammoth expedition.
+
+We set off fairly early on Friday afternoon, some of us being forced to skip lectures or trips to Broadmoor, and began the drive North. After 2 hours we’d got…not very far at all, really. Everyone seemed to be fleeing the South along the same route as us and so progress was slow. Many, many hours later, we finally reached Beadnell, the tiny village where we were staying, travel weary and thirsty. On arrival in the pub, we were welcomed with news that in fact, the boat we’re going out on was double booked, for one reason or another, and so we were going to be diving in shifts. While this initially sounded like a less than ideal situation, it turned out great! Being on the second shift on the Saturday meant that we only had to be on the pier after lunch, so plenty of time for refreshments on Friday night. Unfortunately, this led to the singing of the “OUUEG song” and “Luke’s kit” song, me being beaten up by Sam, Donya and Cherry for no apparent reason and enough beer to make me snore like a “baby elephant”.
+
+Next morning, a massive cooked breakfast and a shopping trip set the scene for the first day’s diving. People later regretted allowing Donya to buy the food for lunch with the criteria of “cheap and sh\*t” and the discovery of ‘turkey ham’ which contained approximately no ham but seemed to have plenty of pig gristle. Nice.
+
+The boat was rather late back with the first load of divers so we sat around sunbathing for a while. Not too much time later, we were finally hitting the water and had a lovely first dive. Lots of crabs and lobsters, big fish, coral and all in a balmy 13 °C (which was actually colder than Scapa had been the week earlier, despite being much further South!). No major incidents and a cup of tea back on the boat – what more could you want? Lots of on-deck banter and seal spotting before the next dive and three of us (Donya, Rhiannon and myself) decided to do a spot of snorkelling. We found the seals to be very inquisitive (and BIG with BIG teeth!), often sitting on the bottom watching us watching them! A couple had a little nibble of my fins (how do they always know to chew the fins and not something more important to you, like your fingers?) but being made of rubber, presumably they didn’t taste too nice so they soon gave up! Back on the boat, we kitted up again and went in with the aim of diving with the seals. A few of us stuck around the shallower depths, playing with the seals while others found the drop off and got to watch seals buzzing past them and nibbling fins again. I found that sea urchins don’t stick to Rhiannon’s head as well as spider crabs and Rhiannon kept pretending to be a seal by grabbing my fins and wiggling them! Cherry had a foot pop out of her drysuit boot and had to have the boat come to her on the surface (I think she was just being lazy!) while Donya did the sensible thing by abandoning her to flounder and getting her cup of tea!
+
+That evening, in the knowledge that we had to be on the boat at about 8 the next morning, we decided to have a quiet night. Yeah right. After a fantastic dinner of thai curry and rogan josh, cooked by yours truly, and ‘some wine’, we went to bed, probably at about 12.00 or 1.00. Or maybe a bit later…
+
+First dive of the next day was incredible… a tremendous expansive of dead man’s fingers occupying every possible surface, fields of brittle stars waving gently in the current and an incredible lobster chase by Paul and I while Chris looked on in disapproval. Sadly, lobbie got away after a concerted effort by the two of us (we nearly had him at least twice!) and in the process, we lost the crab that we’d previously caught from the bag and later, we misinterpreted Steve A’s signal to us – his sign of “there’s a big lobster over there” was read as “you two get closer together so I can get a photo of you – an easy mistake to make!
+
+Back on the surface, there was much posing for photos in what are apparently our customary positions – looking good, as always. We had the collective boys in blue o’three suits (Craig, Steve A, Paul and I all had the same suit), then all the boys (poor Chris being the odd man out) and then all the girls together. Just have to remember where I put my camera now… We decided to have a go at a spot of mackerel fishing in our surface interval and as a result, had 12 lovely big mackerel to take home. At one point, Donya caught three tiddlers that people decided to throw back, resulting in a wailing protest!
+
+Second dive was a lot of fun too – we were meant to be doing a wall dive but Donya had decided that we were going to get some food so we went lobster hunting… The first couple we saw were jammed in their crevices too tightly but the next one was in what looked more like a tunnel. Using a kelp frond, we managed to persuade him out and then chased him for about 5 minutes before finally getting hold of him. He looked pretty small underwater and even more so back on the boat but the skipper verified that he was big enough to keep and since Donya had decided that my lobster was in fact hers, no-one was brave enough to take him off her and throw it back, especially after the fish incident! Back at the accommodation, we cooked up the lobster, mackerel and the single mussel that I’d found and collected in the hope that it was the start of a huge field of mussels (I mean when do you ever find a single mussel underwater?).
+
+When I went for a shower, almost everyone took the opportunity to go out “drive by castling”, leaving Cherry asleep and Paul and I with the beer. 8 cans of wife-beater later, the others returned and we felt that the best course of action would be to head to the pub to keep out of the way while Sam made us all dinner, especially as we were now out of alcohol! Feeling community-spirited, we brought back some bottles of wine and cider, only to find that Viv had beaten us to it. Needless to say, it wasn’t wasted and we finished the evening off with a visit to the pub to drink water!
+
+Next morning, we had to be on the pier at 7 am for slacks at 7.40 so we were up extremely early. Every day, Lisa had made us all incredible breakfasts and made sure that no-one ever went wanting for food or cups of tea! Today, we were planning on breakfasting after the dive so we just grabbed a cuppa before driving down to the dock. We were diving the Somali today – a decent sized wreck in about 30m. Sadly, she’s currently being salvaged for her cargo of copper wires and so we may be some of the last divers to see her in her current state. We were told to be on the look out for plasticine down there (they’re using plastic explosive to modify her) and I was going to get a sample to bring back but sadly didn’t see any. We did see, however, an anglerfish! I’d never seen one before and was very surprised when Viv pointed it out! We took some photos and showed another buddy pair who were equally pleased! Also down there were a couple of lobsters, one hiding by an old car battery, and lots of very friendly wrasse. Cherry led Paul around in a very small circle for most of the dive but I thought the wreck was lovely with lots to see and explore. I was up for entering a big hole I found (some kind of hold, maybe) but Sam was sensibly against it, as we were diving in a 3 and it would have been very easy to lose one or the other of us!). Apparently, I spent the entire dive hovering a couple of metres above the other two but my torch beam/spotlight showed where I was!
+
+Everyone was on the lookout for ‘tat’ with Paul taking a lifting bag for this purpose but I was the only one to actually find some – a strange electrics board that seemed to be some kind of fuse panel. Since I was meant to be sending up the delayed, I passed it to Sam with the intention of passing her the reel once it was up but she very generously and selflessly carried it all the way to the surface, holding it on the deco stop for me and even carrying it up to the side of the boat! Once on board, we all had a look at it and then threw it back on the way back in, having decided that it probably wouldn’t clean up all that well…
+
+After we de-kitted, packed away and got back to the bunkhouse, we had breakfast (thanks Lisa) and packed the cars. Tanks were filled and then the long journey back home started – all before lunchtime! This incredibly early departure was a godsend as it meant that we missed a lot of the traffic and were passing Sam’s house just in time for tea!
+
+All in all, a fantastic time, a great bunch of people along (thanks guys) and some really nice fresh seafood (and the first lobster that I’ve ever caught!). Thanks to Steve for organising it, to Lisa for looking after us all at the bunkhouse and to Sam, Lou, Craig, Viv, Paul, Steve and Lisa for all driving there and back!
+
+Some highlights – Sam gifting me a lobster hook she found on the seabed and me stabbing myself in the hand with it less than 10 seconds later. Donya getting excited about learning how to kill mackerel, seeing a pipefish at 2m on our ascent in open water. Seals, seals, seals! Discussions every morning about who slept the loudest. The showers and toilets being perhaps the most public ever (especially when the shower curtain fell off with Cherry in there, still dressed, thankfully!). ‘People’ singing along enthusiastically to Grease in the car. Persuading Cherry that you could tell if a cylinder was full by shaking it and listening for the air sloshing side to side. Cherry getting a seal stuck to her fins. THE drysuit. Beating Paul at finding tat. Watching tiny shrimps. Viv finding tiny nudibranchs on the wreck. Cherry’s matching cases being massively outdone by Paul’s matching set of three suitcases. Donya wearing everyone else’s clothes to dive in, despite having a huge suitcase, apparently full of nothing apart from a hairdryer…any many many more!
+
+Lasting impression – the Farnes is a very, very long way away, but well worth the trip!
