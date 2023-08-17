@@ -1,47 +1,15 @@
 ---
-id: 691
 title: 'Sunny Sunday at Chesil Beach, 4th May 2014'
 date: '2014-05-16T11:31:12+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=691'
-permalink: '/?p=691'
-geo_public:
-    - '0'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2014/05/14556840749_5629554eb8_k.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
     - '2014'
     - 'Chesil Beach'
 ---
+
+![]()
 
 *Date: 4th, May 2014,*   
 *Author: Mark,*  

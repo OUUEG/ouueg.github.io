@@ -1,11 +1,7 @@
 ---
-id: 3295
 title: 'Plymouth Expedition, 21-22nd July 2018'
 date: '2018-09-26T12:46:36+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3295'
-permalink: '/?p=3295'
 categories:
     - 'Expedition Reports'
 ---

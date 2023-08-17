@@ -1,39 +1,7 @@
 ---
-id: 387
 title: 'May bank holiday trip to St Abbs and the farne islands, May 2011'
 date: '2011-06-13T22:15:45+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=387'
-permalink: '/?p=387'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2011/06/10089096914_5b645d9fc9_k.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -42,6 +10,8 @@ tags:
     - 'St Abbs'
     - Weekend
 ---
+
+![]()
 
 *Dates: May 2011,*   
 *Author: Simon*

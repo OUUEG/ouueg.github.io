@@ -1,15 +1,7 @@
 ---
-id: 4146
 title: 'Lymington 16th October 2021'
 date: '2021-10-17T17:33:28+01:00'
 author: 'Lok Hin Lee'
-layout: post
-guid: 'https://ouueg.com/?p=4146'
-permalink: '/?p=4146'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
 categories:
     - 'Expedition Reports'
     - News

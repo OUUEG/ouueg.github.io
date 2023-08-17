@@ -1,40 +1,7 @@
 ---
-id: 3586
 title: 'Crossing over from another agency'
 date: '2019-09-05T17:20:02+01:00'
 author: 'Patrick Kidger'
-layout: page
-guid: 'https://ouueg.com/?page_id=3586'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
 ---
 
 You can join BSAC and keep diving within the limits of your qualification without having to do further training. However you are encouraged to attend two lectures (see below) to help you understand the BSAC structure, and a crossover session in the pool.

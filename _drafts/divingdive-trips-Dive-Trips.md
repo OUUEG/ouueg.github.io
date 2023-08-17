@@ -1,20 +1,7 @@
 ---
-id: 753
 title: 'Dive Trips'
 date: '2013-09-10T09:45:37+01:00'
 author: ouuegoxford
-layout: page
-guid: 'http://ouueg.com/?page_id=11'
-switch_like_status:
-    - '1'
-sharing_disabled:
-    - '1'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
 ---
 
 One of the exciting opportunities that OUUEG offers is joining on regular dive trips to a variety of fantastic locations – and you can use the [club kit](http://ouueg.com/club-kit/ "Club kit") to rent the gear you need to come along. We dive regularly in the [UK](http://ouueg.com/dive-trips/where-do-we-dive/ "UK diving") throughout the year (alright, less regularly during the winter…) but also organise trips [abroad](http://ouueg.com/dive-trips/abroad-expeditions/ "Abroad expeditions").

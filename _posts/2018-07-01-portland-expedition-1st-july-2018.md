@@ -1,37 +1,7 @@
 ---
-id: 3233
 title: 'Portland Expedition, 1st July 2018'
 date: '2018-07-01T15:05:14+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3233'
-permalink: '/?p=3233'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 ---

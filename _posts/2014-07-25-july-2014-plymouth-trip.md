@@ -1,39 +1,7 @@
 ---
-id: 2522
 title: 'Plymouth Expedition, 19-20th July 2014'
 date: '2014-07-25T19:16:14+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=751'
-permalink: '/?p=2522'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2014/07/2014-plymouth-3.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +12,8 @@ tags:
     - 'SS James Eagan Layne'
     - 'SS Persier'
 ---
+
+![]()
 
 *Dates: 19-20th July 2014, Location: Plymouth (JEL, Shagstone, HMS Scylla, SS Persier), Participants: Ali, Maha (organiser), Holger, Tom, Severin (author)*
 

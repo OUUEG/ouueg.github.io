@@ -1,44 +1,12 @@
 ---
-id: 2988
 title: 'Ocean Diver Block Course in February'
 date: '2017-01-22T15:54:58+00:00'
 author: 'Marko Jung'
-layout: post
-guid: 'https://ouueg.com/?p=2988'
-permalink: '/?p=2988'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-header-bg:
-    - 'https://ouueg.com/wp-content/uploads/2017/01/15800736_10211877540043585_6200776047417655209_o.jpg'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-template:
-    - intro
 categories:
     - News
 ---
+
+![]()
 
 ## Learn to Dive with OUUEG
 

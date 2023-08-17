@@ -1,16 +1,7 @@
 ---
-id: 7495
 title: 'Easter Trip (2022)'
 date: '2023-02-08T09:33:48+00:00'
 author: frost
-layout: page
-guid: 'https://ouueg.com/?page_id=7495'
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
-obfx-footer-scripts:
-    - ''
-obfx-header-scripts:
-    - ''
 ---
 
 Every Easter, OUUEG goes to the beautiful south coast of Cornwall where there is abundant sealife such as scallops, crabs and seals, good value diving and a super fast club RHIB Seahorse, which you may have the chance to drive. Our main dive locations are Porthkerris and Mullion Cove (Porth Mellin). There’s excellent shore diving at both those places and we’ll also use Seahorse to explore the nearby wrecks and reefs.

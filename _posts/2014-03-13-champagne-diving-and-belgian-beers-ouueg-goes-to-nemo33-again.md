@@ -1,39 +1,7 @@
 ---
-id: 636
 title: 'Champagne diving and Belgian beers! OUUEG goes to Nemo33, 22-23rd February 2014'
 date: '2014-03-13T23:36:48+00:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=636'
-permalink: '/?p=636'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2014/03/bruxelles21.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - Nemo33
     - Weekend
 ---
+
+![]()
 
 *Dates: 22-23rd, February 2014,*   
 *Author: Metta*

@@ -1,41 +1,7 @@
 ---
-id: 2464
 title: 'Training trip to NDAC Chepstow, 30th May 2016'
 date: '2016-06-03T13:10:28+01:00'
 author: 'Marko Jung'
-layout: post
-guid: 'http://ouueg.com/?p=2464'
-permalink: '/?p=2464'
-mfn-post-love:
-    - '0'
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2016/06/2016-06-03-NDAC-trip-photo.jpg'
-mfn-post-template:
-    - intro
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +10,8 @@ tags:
     - Quarry
     - Training
 ---
+
+![]()
 
 *Author: Jay Shiao*
 

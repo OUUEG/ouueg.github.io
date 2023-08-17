@@ -1,39 +1,7 @@
 ---
-id: 377
 title: 'Diving Plymouth wrecks, 7-9th September 2012'
 date: '2012-09-12T21:54:22+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=377'
-permalink: '/?p=377'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2012/09/Wreck_Diver_1.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +12,8 @@ tags:
     - 'SS Persier'
     - Weekend
 ---
+
+![]()
 
 *Dates: 7-9th, September 2012 ,*   
 *Author: Nick,*  

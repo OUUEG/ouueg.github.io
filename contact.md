@@ -1,50 +1,7 @@
 ---
-id: 766
 title: Contact
 date: '2013-09-27T00:39:54+01:00'
 author: ouuegoxford
-layout: page
-guid: 'http://ouueg.com/?page_id=159'
-sharing_disabled:
-    - '1'
-switch_like_status:
-    - '1'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 ---
 
 If you have any questions about OUUEG do not hesitate to [email our secretary](mailto:ouueg.secretary.com) or anyone from the [club committee](https://ouueg.com/about/committee/) – we are always happy to help and even if we do not know the answer we will find someone who does.

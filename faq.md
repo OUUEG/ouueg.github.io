@@ -1,46 +1,7 @@
 ---
-id: 580
 title: 'Frequently Asked Questions'
 date: '2013-10-24T14:41:26+01:00'
 author: ouuegoxford
-layout: page
-guid: 'http://ouueg.com/?page_id=580'
-switch_like_status:
-    - '1'
-sharing_disabled:
-    - '1'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-hide-content:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
 ---
 
 #### How do I join for the first time?

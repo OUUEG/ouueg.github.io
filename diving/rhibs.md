@@ -1,36 +1,7 @@
 ---
-id: 2947
 title: 'OUUEG&#8217;s Club RHIBs'
 date: '2018-05-01T16:58:33+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=2947'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
 ---
 
 #### Seahorse

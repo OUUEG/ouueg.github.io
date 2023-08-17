@@ -1,46 +1,7 @@
 ---
-id: 758
 title: Insurance
 date: '2013-09-27T00:05:44+01:00'
 author: ouuegoxford
-layout: page
-guid: 'http://ouueg.com/?page_id=131'
-switch_like_status:
-    - '1'
-sharing_disabled:
-    - '1'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
 ---
 
 There are two important insurance covers:

@@ -1,48 +1,7 @@
 ---
-id: 7
 title: 'Join the Club'
 date: '2014-09-06T19:32:38+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.mjung.net/?page_id=7'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
-mfn-post-slider:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-hide-content:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-menu:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-one-page:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 ---
 
 We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/training/try). If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).

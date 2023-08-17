@@ -1,38 +1,7 @@
 ---
-id: 2954
 title: 'Club Equipment'
 date: '2017-08-18T18:01:07+01:00'
 author: owashington
-layout: page
-guid: 'http://ouueg.com/?page_id=2954'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - club-kit
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
-mfn-post-layout:
-    - no-sidebar
 ---
 
 **You must agree to abide by these rules to use OUUEG’s club equipment and facilities.**

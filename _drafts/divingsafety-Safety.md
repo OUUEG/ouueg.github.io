@@ -1,26 +1,7 @@
 ---
-id: 610
 title: Safety
 date: '2013-11-02T13:59:41+00:00'
 author: ouuegoxford
-layout: page
-guid: 'http://ouueg.com/?page_id=610'
-switch_like_status:
-    - '1'
-sharing_disabled:
-    - '1'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
 ---
 
 Scubadiving has a very good track record in terms of safety but it doesn’t happen by chance: good diving practices and paying attention to basic safety guidelines ensure it remains this way.

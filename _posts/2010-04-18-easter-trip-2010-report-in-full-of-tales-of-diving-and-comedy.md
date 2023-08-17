@@ -1,39 +1,7 @@
 ---
-id: 416
 title: 'Easter training trip 2010 &#8211; full of tales of diving and comedy, April 2010'
 date: '2010-04-18T23:06:54+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=416'
-permalink: '/?p=416'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2010/04/10089294463_b5057906e8_k.jpg'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -45,6 +13,8 @@ tags:
     - Training
     - Volnay
 ---
+
+![]()
 
 *Dates: April 2010,*   
 *Author: Luke  

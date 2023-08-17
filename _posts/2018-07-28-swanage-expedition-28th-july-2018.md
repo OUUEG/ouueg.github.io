@@ -1,37 +1,7 @@
 ---
-id: 3367
 title: 'Swanage Expedition, 28th July 2018'
 date: '2018-07-28T16:12:03+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3367'
-permalink: '/?p=3367'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 ---

@@ -1,39 +1,7 @@
 ---
-id: 423
 title: 'Summer expedition to the Isle of Man!'
 date: '2008-11-03T23:26:36+00:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=423'
-permalink: '/?p=423'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2008/11/douglas-isle-of-man.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - 'Isle of Man'
     - Training
 ---
+
+![]()
 
 *Dates: Summer 2008,*   
 *Author: Martin*

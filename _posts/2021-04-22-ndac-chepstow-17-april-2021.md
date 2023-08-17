@@ -1,11 +1,7 @@
 ---
-id: 4079
 title: 'NDAC Chepstow, 17 April 2021'
 date: '2021-04-22T17:58:41+01:00'
 author: 'Kirill Palamartchouk'
-layout: post
-guid: 'https://ouueg.com/?p=4079'
-permalink: '/?p=4079'
 categories:
     - 'Expedition Reports'
 ---

@@ -1,37 +1,7 @@
 ---
-id: 3664
 title: 'Swanage with a Sea Elephant, 12th October 2019'
 date: '2019-10-18T14:03:23+01:00'
 author: 'Patrick Kidger'
-layout: post
-guid: 'https://ouueg.com/?p=3664'
-permalink: '/?p=3664'
-hefo_before:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-hide-content:
-    - '0'
-mfn-post-love:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-hide-image:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-slide_template:
-    - default
-hefo_after:
-    - '0'
 categories:
     - 'Expedition Reports'
 ---

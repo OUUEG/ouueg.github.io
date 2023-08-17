@@ -1,39 +1,7 @@
 ---
-id: 2539
 title: 'Plymouth Boat Handling Course, 23-24th April 2016'
 date: '2016-04-25T12:00:48+01:00'
 author: 'Marko Jung'
-layout: post
-guid: 'http://ouueg.com/?p=2539'
-permalink: '/?p=2539'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2016/06/IMG_2707.jpg'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - Training
     - Weekend
 ---
+
+![]()
 
 *Author: Phalene G.*
 

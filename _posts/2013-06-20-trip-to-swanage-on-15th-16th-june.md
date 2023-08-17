@@ -1,39 +1,7 @@
 ---
-id: 228
 title: 'Summer weekend in Swanage, 15-16th June 2013'
 date: '2013-06-20T00:27:14+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=228'
-permalink: '/?p=228'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2013/06/Remains_of_the_old_pier_-_Swanage_Bay_-_geograph.org_.uk_-_1709722.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +12,8 @@ tags:
     - 'Swanage Tanks'
     - Weekend
 ---
+
+![]()
 
 *Dates: 15-16th, June 2013,*   
 *Author: Anne*

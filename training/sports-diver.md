@@ -1,36 +1,7 @@
 ---
-id: 2826
 title: 'Sports Diver'
 date: '2016-10-15T10:07:39+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=2826'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
 ---
 
 Sports Diver (SD) training is the next big step in your diver training. As a Sports Diver you will develop your skills and advance your theory knowledge. Diving is not just about depth but once you are an SD you can dive down to 35 metres which opens up many new dive sites, especially shipwrecks. This qualification will give you additional skills including important rescue skills and this is also the minimum qualification you need to start training as an instructor which we would highly encourage (and financially support) you to do.

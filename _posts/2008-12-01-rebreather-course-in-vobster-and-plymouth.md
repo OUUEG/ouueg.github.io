@@ -1,39 +1,7 @@
 ---
-id: 421
 title: 'Rebreather training in Vobster and Plymouth, November 2008'
 date: '2008-12-01T23:22:37+00:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=421'
-permalink: '/?p=421'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-hide-image:
-    - '0'
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2008/12/maxresdefault.jpg'
-mfn-post-love:
-    - '1'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - Technical
     - Vobster
 ---
+
+![]()
 
 *Dates: November 2008,  
 Author: Luke*

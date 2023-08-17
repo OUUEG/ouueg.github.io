@@ -1,42 +1,7 @@
 ---
-id: 2790
 title: 'Dry Suit Skills Development Course'
 date: '2016-10-13T09:33:06+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=2790'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 ---
 
 The aim of the dry suit skills development course is to teach the correct and safe techniques for dry suit diving. After the course you should have the confidence to go on your first guided open water dive in a dry suit.

@@ -1,11 +1,7 @@
 ---
-id: 3354
 title: 'Wraysbury Expedition, 5th November 2017'
 date: '2018-10-01T12:12:26+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3354'
-permalink: '/?p=3354'
 categories:
     - 'Expedition Reports'
 ---

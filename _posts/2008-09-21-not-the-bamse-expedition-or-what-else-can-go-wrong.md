@@ -1,39 +1,7 @@
 ---
-id: 426
 title: 'Not the Bamse expedition (or &#8216;what else can go wrong?&#8217;), March 2008'
 date: '2008-09-21T23:30:43+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=426'
-permalink: '/?p=426'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2008/09/20960565455_95d0a4d7d7_k.jpg'
 categories:
     - 'Expedition Reports'
 tags:
@@ -42,6 +10,8 @@ tags:
     - Technical
     - Weekend
 ---
+
+![]()
 
 *Dates: March 2008,*   
 *Author: Luke*

@@ -1,39 +1,7 @@
 ---
-id: 405
 title: 'Halloween trip! Scary costumes, scary visibility! 2011'
 date: '2011-11-10T22:41:09+00:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=405'
-permalink: '/?p=405'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2011/11/68789_741496832853_2147133_n.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -42,6 +10,8 @@ tags:
     - Halloween
     - Weekend
 ---
+
+![]()
 
 *Dates: Halloween 2011,*   
 *Author: Matt*

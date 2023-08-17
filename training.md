@@ -1,42 +1,7 @@
 ---
-id: 87
 title: 'Diver Training'
 date: '2014-09-07T04:56:54+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=87'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-gce_retrieve_max:
-    - '25'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - training
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
 ---
 
 Scuba diving is an adventure open to anyone aged 12 or over – and with the Oxford University Underwater Exploration Group you found a very affordable way in getting scuba diving lessons. It has never been easier to learn to dive!

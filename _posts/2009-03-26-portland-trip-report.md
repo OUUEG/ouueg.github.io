@@ -1,39 +1,7 @@
 ---
-id: 419
 title: 'Portland Expedition, March 2009'
 date: '2009-03-26T23:20:03+00:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=419'
-permalink: '/?p=419'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2009/03/background_portland.jpg'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -41,6 +9,8 @@ tags:
     - Portland
     - Weekend
 ---
+
+![]()
 
 *Dates: March 2009,*   
 *Author: Huw*

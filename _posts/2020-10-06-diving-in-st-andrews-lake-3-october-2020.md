@@ -1,11 +1,7 @@
 ---
-id: 4023
 title: 'Diving in St Andrews Lake, 3 October 2020'
 date: '2020-10-06T16:10:36+01:00'
 author: 'Kirill Palamartchouk'
-layout: post
-guid: 'https://ouueg.com/?p=4023'
-permalink: '/?p=4023'
 categories:
     - 'Expedition Reports'
     - News

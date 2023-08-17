@@ -1,46 +1,7 @@
 ---
-id: 790
 title: 'Diving with OUUEG'
 date: '2014-09-28T12:57:22+01:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=790'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-hefo_before:
-    - '0'
-mfn-post-menu:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-hide-content:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-custom-layout:
-    - '0'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 ---
 
 One of the exciting opportunities that OUUEG offers is joining on regular dive trips to a variety of fantastic locations. As a member you can hire club kit if you do not own your own. We dive regularly in the UK throughout the year (slightly less regularly during winter) but also organise expeditions abroad.

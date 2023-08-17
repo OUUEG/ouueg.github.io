@@ -1,44 +1,12 @@
 ---
-id: 2844
 title: 'Summer Expedition 2016: Diving off the land&#8217;s end'
 date: '2016-10-20T12:45:25+01:00'
 author: 'Marko Jung'
-layout: post
-guid: 'http://ouueg.com/?p=2844'
-permalink: '/?p=2844'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2016/10/Sennen-05-04-120.jpg'
-mfn-post-template:
-    - intro
 categories:
     - 'Expedition Reports'
 ---
+
+![]()
 
 *Date: 10/09-17/09/2016*  
  *Author: [Benjo](http://aquaticprimate.blogspot.co.uk/2016/09/diving-off-lands-end.html)*

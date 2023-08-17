@@ -1,39 +1,7 @@
 ---
-id: 1396
 title: 'Plymouth Expedition, 20–21st June 2015'
 date: '2015-06-23T21:21:31+01:00'
 author: 'Tom Walter'
-layout: post
-guid: 'http://ouueg.com/?p=1396'
-permalink: '/?p=1396'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2015/06/18551556893_957dd9f7f1_k.jpg'
-mfn-post-template:
-    - intro
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +12,8 @@ tags:
     - 'SS James Eagan Layne'
     - Weekend
 ---
+
+![]()
 
 With the summer finally arriving, and reports of there being a strange thing called “the sea” into which one could dive, an expeditionary force was assembled. After a couple of minor adjustments to line-up the intrepid adventurers set off to Plymouth to see what this whole salt-watery-diving-thing was all about…
 

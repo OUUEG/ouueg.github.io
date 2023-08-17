@@ -1,39 +1,7 @@
 ---
-id: 224
 title: 'OUUEG dives Pembrokeshire, in South Wales, 12-14th July 2013'
 date: '2013-07-16T00:17:00+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=224'
-permalink: '/?p=224'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2013/07/9647412156_c829ffc798_k.jpg'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - Skokholm
     - Wales
 ---
+
+![]()
 
 *Dates: 12-14th, July 2013,*   
 *Author: Severin*

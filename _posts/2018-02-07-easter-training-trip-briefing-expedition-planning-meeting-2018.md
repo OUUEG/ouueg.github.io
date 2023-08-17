@@ -1,42 +1,12 @@
 ---
-id: 3134
 title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting 2018'
 date: '2018-02-07T13:05:25+00:00'
 author: 'Rona Costello'
-layout: post
-guid: 'https://ouueg.com/?p=3134'
-permalink: '/?p=3134'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-hide-content:
-    - '0'
-slide_template:
-    - default
-hefo_after:
-    - '0'
-hefo_before:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
-mfn-post-header-bg:
-    - 'https://ouueg.com/wp-content/uploads/2017/02/seahorse-v.jpg'
 categories:
     - News
 ---
+
+![]()
 
 Please save the date: on **Thursday, 16 February 17, 19:00–21:30, location: tbc** we will be holding our annual Expedition Planning meeting.
 

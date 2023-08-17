@@ -1,37 +1,7 @@
 ---
-id: 3267
 title: 'The Kidneys Expedition, 8th August 2018'
 date: '2018-08-08T16:49:03+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3267'
-permalink: '/?p=3267'
-mfn-post-love:
-    - '1'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
 categories:
     - 'Expedition Reports'
 ---

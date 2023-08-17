@@ -1,37 +1,7 @@
 ---
-id: 3355
 title: 'Stoney Cove Expedition, 3rd December 2017'
 date: '2017-12-03T11:54:34+00:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3355'
-permalink: '/?p=3355'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
 categories:
     - 'Expedition Reports'
 ---

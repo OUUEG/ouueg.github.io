@@ -1,11 +1,7 @@
 ---
-id: 3372
 title: 'Red Sea Expedition, 5th-12th January 2018'
 date: '2018-10-02T06:56:51+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3372'
-permalink: '/?p=3372'
 categories:
     - 'Expedition Reports'
 ---

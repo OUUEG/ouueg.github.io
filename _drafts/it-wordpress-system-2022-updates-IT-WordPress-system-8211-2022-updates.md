@@ -1,17 +1,7 @@
 ---
-id: 4214
 title: 'IT: WordPress system &#8211; 2022 updates'
 date: '2022-08-05T00:30:54+01:00'
 author: frost
-layout: post
-guid: 'https://ouueg.com/?p=4214'
-permalink: '/?p=4214'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:9:{s:26:"_um_custom_access_settings";b:1;s:14:"_um_accessible";i:2;s:16:"_um_access_roles";a:2:{s:13:"administrator";s:1:"1";s:15:"ouueg_committee";s:1:"1";}s:28:"_um_access_hide_from_queries";b:1;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 categories:
     - News
 ---

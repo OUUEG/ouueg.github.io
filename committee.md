@@ -1,40 +1,7 @@
 ---
-id: 1251
 title: Internal
 date: '2014-11-01T22:16:11+00:00'
 author: 'Marko Jung'
-layout: page
-guid: 'http://ouueg.com/?page_id=1251'
-nectar-metabox-portfolio-display-sortable:
-    - 'off'
-nectar-metabox-portfolio-display:
-    - 'a:1:{i:0;s:3:"all";}'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-one-page:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-custom-layout:
-    - '0'
-mfn-post-menu:
-    - '0'
 ---
 
 ## Links

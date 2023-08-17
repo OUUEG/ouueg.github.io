@@ -1,39 +1,7 @@
 ---
-id: 431
 title: 'Farnes Island trip report: the boys in blue, May 2006'
 date: '2006-09-02T23:42:17+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=431'
-permalink: '/?p=431'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2006/09/20620146363_b31477507d_o.jpg'
-mfn-post-hide-image:
-    - '0'
-mfn-post-love:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -42,6 +10,8 @@ tags:
     - 'The Farnes'
     - Weekend
 ---
+
+![](http://ouueg.com/wp-content/uploads/2010/08/10089067224_89da384cda_k.jpg)
 
 *Dates: May 2006,*  
  *Author: Luke*

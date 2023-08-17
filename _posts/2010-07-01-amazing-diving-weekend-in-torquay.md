@@ -1,35 +1,7 @@
 ---
-id: 411
 title: 'Amazing diving weekend in Torquay! June 2010'
 date: '2010-07-01T22:56:39+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=411'
-permalink: '/?p=411'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:

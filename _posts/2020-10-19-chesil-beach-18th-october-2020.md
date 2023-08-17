@@ -1,11 +1,7 @@
 ---
-id: 4041
 title: 'Chesil Beach, 18th October 2020'
 date: '2020-10-19T12:35:31+01:00'
 author: 'Patrick Kidger'
-layout: post
-guid: 'https://ouueg.com/?p=4041'
-permalink: '/?p=4041'
 categories:
     - 'Expedition Reports'
 ---

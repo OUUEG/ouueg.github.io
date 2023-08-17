@@ -1,11 +1,7 @@
 ---
-id: 4088
 title: 'Waking up Seahorse, 18 April 2021'
 date: '2021-04-22T18:06:37+01:00'
 author: 'Kirill Palamartchouk'
-layout: post
-guid: 'https://ouueg.com/?p=4088'
-permalink: '/?p=4088'
 categories:
     - 'Expedition Reports'
 ---

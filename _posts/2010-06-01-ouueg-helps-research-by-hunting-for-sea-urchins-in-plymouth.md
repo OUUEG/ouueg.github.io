@@ -1,39 +1,7 @@
 ---
-id: 414
 title: 'OUUEG helps research by hunting for sea urchins in Plymouth, May 2010'
 date: '2010-06-01T23:03:36+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=414'
-permalink: '/?p=414'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2010/06/Bearb-5150104.jpg'
 categories:
     - 'Expedition Reports'
 tags:
@@ -44,6 +12,8 @@ tags:
     - 'SS James Eagan Layne'
     - Weekend
 ---
+
+![]()
 
 *Dates: May 2010,*  
  *Author: Luke*

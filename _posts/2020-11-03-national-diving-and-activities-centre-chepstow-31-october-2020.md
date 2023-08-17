@@ -1,11 +1,7 @@
 ---
-id: 4057
 title: 'National Diving and Activities Centre, Chepstow, 31 October 2020'
 date: '2020-11-03T20:39:44+00:00'
 author: 'Kirill Palamartchouk'
-layout: post
-guid: 'https://ouueg.com/?p=4057'
-permalink: '/?p=4057'
 categories:
     - 'Expedition Reports'
 ---

@@ -1,42 +1,12 @@
 ---
-id: 3516
 title: 'Plymouth Deeper Diving Expedition, 8th-9th June 2019'
 date: '2019-06-17T19:56:05+01:00'
 author: 'Jenny Barrett'
-layout: post
-guid: 'https://ouueg.com/?p=3516'
-permalink: '/?p=3516'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-header-bg:
-    - 'https://ouueg.com/wp-content/uploads/2019/06/DeeperDiving8.png'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '1'
 categories:
     - 'Expedition Reports'
 ---
+
+![]()
 
 Author: Rona Costello
 

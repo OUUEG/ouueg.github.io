@@ -1,44 +1,12 @@
 ---
-id: 2882
 title: '6th week Michaelmas update'
 date: '2016-11-16T17:04:34+00:00'
 author: 'Marko Jung'
-layout: post
-guid: 'http://ouueg.com/?p=2882'
-permalink: '/?p=2882'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2016/11/OUUEG-Try-Dive-2016-10-15.jpg'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
 categories:
     - News
 ---
+
+![]()
 
 Tonight, our **pub night** will be at the **Eagle and Child on St Giles**, starting from **20:30.** They have food, so instructors and students won’t need to starve 😉
 

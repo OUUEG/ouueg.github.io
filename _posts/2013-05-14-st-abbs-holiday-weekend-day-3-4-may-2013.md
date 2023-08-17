@@ -1,39 +1,7 @@
 ---
-id: 369
 title: 'St Abbs part II (day 3 &#038; 4), 5-6th May 2013'
 date: '2013-05-14T21:47:30+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=369'
-permalink: '/?p=369'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2013/05/10088672454_7df414acce_k.jpg'
-mfn-post-hide-image:
-    - '0'
 categories:
     - 'Expedition Reports'
 tags:
@@ -42,6 +10,8 @@ tags:
     - 'The Farnes'
     - Weekend
 ---
+
+![]()
 
 *Dates: 5-6th, May 2013,*   
 *Author: Gillian*

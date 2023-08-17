@@ -1,11 +1,7 @@
 ---
-id: 4007
 title: 'Freshers’ fair 2020 and information evenings'
 date: '2020-09-30T13:02:15+01:00'
 author: 'Lok Hin Lee'
-layout: post
-guid: 'https://ouueg.com/?p=4007'
-permalink: '/?p=4007'
 categories:
     - News
 ---

@@ -1,48 +1,12 @@
 ---
-id: 3651
 title: 'Freshers’ fair 2019 and information evenings'
 date: '2019-10-04T16:38:24+01:00'
 author: 'Lok Hin Lee'
-layout: post
-guid: 'https://ouueg.com/?p=3651'
-permalink: '/?p=3651'
-mfn-post-subheader-image:
-    - ''
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
-mfn-post-love:
-    - '0'
-mfn-post-header-bg:
-    - 'https://ouueg.com/wp-content/uploads/2019/10/GOPR2489.jpg'
-mfn-post-layout:
-    - left-sidebar
-mfn-post-template:
-    - intro
 categories:
     - News
 ---
+
+![]()
 
 OUUEG will be at Oxford University’s 2019 Freshers Fair on Wednesday (9th) and Thursday (10th) of October.
 

@@ -1,39 +1,7 @@
 ---
-id: 379
 title: 'Adventures in Weymouth, 21st April 2012'
 date: '2012-04-23T22:04:39+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=379'
-permalink: '/?p=379'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2012/04/6959577950_5b19fc0d1d_b.jpg'
 categories:
     - 'Expedition Reports'
 tags:
@@ -43,6 +11,8 @@ tags:
     - 'Eleanor R'
     - Weymouth
 ---
+
+![]()
 
 *Dates: 21st, April 2012,*   
 *Author: Stephen*

@@ -1,41 +1,7 @@
 ---
-id: 727
 title: 'Scylla, Stonehenge and Camping pods, 13-15th June 2014'
 date: '2014-07-02T15:32:34+01:00'
 author: ouuegoxford
-layout: post
-guid: 'http://ouueg.com/?p=727'
-permalink: '/?p=727'
-geo_public:
-    - '0'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-hide-image:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'http://ouueg.com/wp-content/uploads/2014/07/14488112475_f3b24da62f_k.jpg'
 categories:
     - 'Expedition Reports'
 tags:
@@ -45,6 +11,8 @@ tags:
     - Training
     - Weekend
 ---
+
+![]()
 
 *Dates: 13th-15th June 2014,*   
 *Location: Plymouth,*   

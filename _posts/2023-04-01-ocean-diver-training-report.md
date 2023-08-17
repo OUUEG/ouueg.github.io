@@ -1,17 +1,7 @@
 ---
-id: 8664
 title: 'Ocean Diver Training Report &#8211; 2023 March'
 date: '2023-04-01T19:17:34+01:00'
 author: frost
-layout: post
-guid: 'https://ouueg.com/?p=8664'
-permalink: '/?p=8664'
-obfx-header-scripts:
-    - ''
-obfx-footer-scripts:
-    - ''
-um_content_restriction:
-    - 'a:8:{s:26:"_um_custom_access_settings";b:0;s:14:"_um_accessible";i:0;s:28:"_um_access_hide_from_queries";b:0;s:19:"_um_noaccess_action";i:0;s:30:"_um_restrict_by_custom_message";i:0;s:27:"_um_restrict_custom_message";s:0:"";s:19:"_um_access_redirect";i:0;s:23:"_um_access_redirect_url";s:0:"";}'
 categories:
     - News
 tags:

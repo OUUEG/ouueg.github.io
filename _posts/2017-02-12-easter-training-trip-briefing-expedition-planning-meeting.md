@@ -1,44 +1,12 @@
 ---
-id: 2999
 title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting'
 date: '2017-02-12T14:12:35+00:00'
 author: 'Marko Jung'
-layout: post
-guid: 'https://ouueg.com/?p=2999'
-permalink: '/?p=2999'
-mfn-post-love:
-    - '0'
-hefo_before:
-    - '0'
-hefo_after:
-    - '0'
-slide_template:
-    - default
-mfn-post-hide-content:
-    - '0'
-mfn-post-sidebar:
-    - '0'
-mfn-post-sidebar2:
-    - '0'
-mfn-post-slider:
-    - '0'
-mfn-post-slider-layer:
-    - '0'
-mfn-post-hide-title:
-    - '0'
-mfn-post-remove-padding:
-    - '0'
-mfn-post-template:
-    - intro
-mfn-post-header-bg:
-    - 'https://ouueg.com/wp-content/uploads/2017/02/16300203_10154522777139794_8828033607982744658_o.jpg'
-mfn-post-hide-image:
-    - '0'
-mfn-post-intro:
-    - 'a:1:{s:9:"post-meta";s:1:"1";}'
 categories:
     - News
 ---
+
+![]()
 
 Please save the date: on **Thursday, 16 February 17, 19:00–21:30, location: tbc** we will be holding our annual Expedition Planning meeting.
 
