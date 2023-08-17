@@ -1,12 +1,11 @@
 ---
 title: 'Chesil Beach, 22nd-23rd June 2019'
 date: '2019-09-08T00:55:45+01:00'
-author: 'Patrick Kidger'
+author: Zaki Nielsen
+layout: post
 categories:
     - 'Expedition Reports'
 ---
-
-Author: Zaki Nielsen
 
 Friday at 7pm, two cars full of newly qualified Ocean Divers and one experienced Dive Leader packed to the rim with SCUBA diving equipment departed from Oxford heading to Chesil Beach in Dorset. We arrived at the Portland Bird Observatory around midnight, which would be our home for the weekend. Originally, Sofia and Kirsty had planned to pitch a tent on the beach or at a campsite – however they soon decided that pillows one the floor of the reception of our cottage were just as comfortable and a much better option that pitching a tent in the darkness!
 

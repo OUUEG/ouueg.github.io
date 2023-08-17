@@ -1,12 +1,13 @@
 ---
 title: 'VHF SRC radio course'
 date: '2016-12-10T15:00:23+00:00'
-author: 'Tom Walter'
+author: Tom Walter
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2016/12/5979002391_64ee490688_b-e1481382003817.jpg)
 
 We hope to run a VHF Short Range Certificate (SRC) radio course sometime soon – hopefully next term, hopefully in Oxford, and probably on a weekend in term time. OUUEG doesn’t often get these running, so this is your chance!
 

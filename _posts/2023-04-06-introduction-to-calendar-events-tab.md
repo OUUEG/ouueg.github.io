@@ -2,11 +2,10 @@
 title: 'Introduction to Calendar/Events Tab'
 date: '2023-04-06T18:08:06+01:00'
 author: frost
+layout: post
 categories:
     - News
 ---
-
-*Written by IT Officier, April 6, 2023*
 
 Hi everyone! In this post, I’m going to show you how to use the Events (also called Calendar) function on our website. This function allows you to see all the upcoming events that we have planned for you, and also to add your own events if you want to share them with other members. The Calendar function is very easy and convenient to use, and I’ll explain each feature in detail below.
 

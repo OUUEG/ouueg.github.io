@@ -1,7 +1,8 @@
 ---
 title: 'Adventures in Weymouth, 21st April 2012'
 date: '2012-04-23T22:04:39+01:00'
-author: ouuegoxford
+author: Stephen
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,10 +13,7 @@ tags:
     - Weymouth
 ---
 
-![]()
-
-*Dates: 21st, April 2012,*   
-*Author: Stephen*
+![](http://ouueg.com/wp-content/uploads/2012/04/6959577950_5b19fc0d1d_b.jpg)
 
 Heading downstairs at 6:40am, i looked out the window to see a Tom ambling about. After making him a strong coffee, i realised that Giles was not with Tom, but then Gemma appeared with Giles in tow. 7am, the departure came time and went with no sign of Clare, so at 7:10 we headed off in Tom’s car to sunny Weymouth. The journey was uneventful, save for a brief pit-stop to re-gaffa part of the front-window and an obscure txt from Andy White commenting on the speed limit which made us miss the turning from the M3 to the M27, just as Andy drove passed us waving. Finding the bridge at Weymouth shut, we had to take a detour around the town to Tango’s mooring and found a number of road improvements which meant we could not turn where we wanted. Luckily Tom is an expert in the art of U-turns.
 

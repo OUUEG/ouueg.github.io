@@ -1,12 +1,13 @@
 ---
 title: 'Chesil Beach Expedition, 4th August 2018'
 date: '2018-08-04T15:03:22+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-15.09.12-e1537798357246.png)
 
 It’s a bright and early 06:30am meet for David, Penny, Imre, Donald, Kirill and Alexandre. They’re off to Chesil Beach for a day of shore diving.
 

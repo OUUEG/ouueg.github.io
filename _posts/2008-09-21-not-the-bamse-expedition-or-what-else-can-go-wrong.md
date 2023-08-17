@@ -1,7 +1,8 @@
 ---
 title: 'Not the Bamse expedition (or &#8216;what else can go wrong?&#8217;), March 2008'
 date: '2008-09-21T23:30:43+01:00'
-author: ouuegoxford
+author: Luke
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -11,10 +12,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: March 2008,*   
-*Author: Luke*
+![](http://ouueg.com/wp-content/uploads/2008/09/20960565455_95d0a4d7d7_k.jpg)
 
 I’ve been meaning to write up this report for some time, but haven’t yet found the time to sit for long enough trying to remember everything that happened (and there was a lot!). So here goes… Way back in March, on the pre-ET trip, over a case of beer and a couple of bottles of scotch (and between discussions of Eddie’s ‘problem’, we came up with a daring plan to spend a week diving a single shipwreck located off Porthkerris. The plan seemed simple – get a team of like minded, willing and trained individuals, spend the season getting fully dived up and then head down there with the boat to dive it! In practice, it turned out to be much, much more complex…
 

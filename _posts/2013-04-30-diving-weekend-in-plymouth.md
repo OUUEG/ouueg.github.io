@@ -1,7 +1,8 @@
 ---
 title: 'Training in rough seas down in Plymouth, 27-28th April 2013'
 date: '2013-04-30T21:51:47+01:00'
-author: ouuegoxford
+author: JP
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -14,10 +15,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: 27-28th, April 2013,*  
-*Author: JP*
+![](http://ouueg.com/wp-content/uploads/2013/04/Forts_Bovisand_and_Picklecombe.jpg)
 
 This is my first dive report so I’m sorry if it’s awful! It was also my first proper dive trip after ET and was great! Our first dive was from Bovisand on Seahorse to Mewstone Ledge cannon site. After some very dodgy dropping off by Grainne but expert towing we did get in. Interesting kelp and sea urchins which were pretty big and a fantastic purple starfish were some of the things I saw. That afternoon, advised by Peter, we dived the Glen Strathallen, a really cool wreck.
 

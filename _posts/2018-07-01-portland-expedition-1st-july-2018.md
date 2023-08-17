@@ -1,7 +1,8 @@
 ---
 title: 'Portland Expedition, 1st July 2018'
 date: '2018-07-01T15:05:14+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---

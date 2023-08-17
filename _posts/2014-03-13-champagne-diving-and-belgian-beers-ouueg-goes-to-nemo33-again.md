@@ -1,7 +1,8 @@
 ---
 title: 'Champagne diving and Belgian beers! OUUEG goes to Nemo33, 22-23rd February 2014'
 date: '2014-03-13T23:36:48+00:00'
-author: ouuegoxford
+author: Metta
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,10 +13,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: 22-23rd, February 2014,*   
-*Author: Metta*
+![](http://ouueg.com/wp-content/uploads/2014/03/bruxelles21.jpg)
 
 - **Mission**: Diving in Champagne
 - **Destination**: Nemo33, Brussels, Belgium

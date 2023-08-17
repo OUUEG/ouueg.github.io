@@ -1,7 +1,8 @@
 ---
 title: 'OUUEG dives Pembrokeshire, in South Wales, 12-14th July 2013'
 date: '2013-07-16T00:17:00+01:00'
-author: ouuegoxford
+author: Severin
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,10 +13,7 @@ tags:
     - Wales
 ---
 
-![]()
-
-*Dates: 12-14th, July 2013,*   
-*Author: Severin*
+![](http://ouueg.com/wp-content/uploads/2013/07/9647412156_c829ffc798_k.jpg)
 
 The pleasant anticipation of spending a weekend in the beautiful Welsh summer (= cold, rainy, windy) was disastrously thwarted by a cloudless sky, still air, and temperatures around 30 degrees Celsius. And so, after a pleasant trip through British evening/weekend/holiday rush-hour traffic, a group of 10 highly motivated divers from across the British Empire (Cardiff, Coventry, Oxford) met at the beautiful Sandy Haven campground near Milford Haven to pitch our tents for the weekend.
 

@@ -1,12 +1,13 @@
 ---
 title: 'Freshers’ fair 2019 and information evenings'
 date: '2019-10-04T16:38:24+01:00'
-author: 'Lok Hin Lee'
+author: Lok Hin Lee
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2019/10/GOPR2489.jpg)
 
 OUUEG will be at Oxford University’s 2019 Freshers Fair on Wednesday (9th) and Thursday (10th) of October.
 

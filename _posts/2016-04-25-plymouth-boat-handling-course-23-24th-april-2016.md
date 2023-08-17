@@ -1,7 +1,8 @@
 ---
 title: 'Plymouth Boat Handling Course, 23-24th April 2016'
 date: '2016-04-25T12:00:48+01:00'
-author: 'Marko Jung'
+author: Phalene G.
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,9 +13,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Author: Phalene G.*
+![](http://ouueg.com/wp-content/uploads/2016/06/IMG_2707.jpg)
 
 <span style="font-weight: 400;">We arrived late on the Friday evening at the Harford Bunkhouse on the edge of Dartmoor after a romantic car park dinner stop at ASDA en route and a going a bit “overboard” on the food shopping. Tom familiarised us with several charts of the Plymouth coast and the meaning of its key features which was imperative for the boat handling course. We started the next morning with passage planning and a side of bacon sandwiches. We collected the boat and equipment from Pete and headed down to the Mount Batten main slipway. We thoroughly went through the contents of the boat, preparation of the boat for launch and safety measures. Zhenbo got a bit overexcited and pulled the cord at the bottom of his life jacket and it blew up! (Perhaps this was a blessing in disguise though as the cartridge was quite rusty!)</span>
 

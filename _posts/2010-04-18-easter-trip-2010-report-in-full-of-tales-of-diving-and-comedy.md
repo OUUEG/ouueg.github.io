@@ -1,7 +1,8 @@
 ---
 title: 'Easter training trip 2010 &#8211; full of tales of diving and comedy, April 2010'
 date: '2010-04-18T23:06:54+01:00'
-author: ouuegoxford
+author: Luke
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -14,10 +15,8 @@ tags:
     - Volnay
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2010/04/10089294463_b5057906e8_k.jpg)
 
-*Dates: April 2010,*   
-*Author: Luke  
 Flickr Photo Album: <https://www.flickr.com/photos/ouueg/albums/72157636190878935>*
 
 **So, take a deep breath (but remember to breathe normally on ascent) – here’s the ET 2010 trip report! In summary – awesome trip, lots of diving, no incidents, few breakages and lots of comedy so thanks guys!**

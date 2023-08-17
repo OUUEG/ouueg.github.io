@@ -1,7 +1,8 @@
 ---
 title: 'Stoney Cove Expedition, 3rd December 2017'
 date: '2017-12-03T11:54:34+00:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---

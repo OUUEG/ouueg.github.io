@@ -1,7 +1,9 @@
 ---
 title: 'Plymouth Expedition, 23rd-24th June 2018'
 date: '2018-06-24T16:08:58+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
+layout: post
 categories:
     - 'Expedition Reports'
 ---

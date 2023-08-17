@@ -1,7 +1,8 @@
 ---
 title: 'Amazing diving weekend in Torquay! June 2010'
 date: '2010-07-01T22:56:39+01:00'
-author: ouuegoxford
+author: Andy
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -9,8 +10,6 @@ tags:
     - Training
     - Weekend
 ---
-
-<span style="text-decoration: underline;">Dates</span>: June 2010, <span style="text-decoration: underline;">Autho</span>r: Andy
 
 Yes, here it is!  
 For those who wanted to come but couldn’t make it: it rained, everybody argued, vis was 10cm and the boats all sank. You didn’t miss anything. Stop reading now.

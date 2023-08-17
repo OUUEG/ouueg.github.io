@@ -1,7 +1,8 @@
 ---
 title: 'Rebreather training in Vobster and Plymouth, November 2008'
 date: '2008-12-01T23:22:37+00:00'
-author: ouuegoxford
+author: Luke
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,10 +13,7 @@ tags:
     - Vobster
 ---
 
-![]()
-
-*Dates: November 2008,  
-Author: Luke*
+![](http://ouueg.com/wp-content/uploads/2008/12/maxresdefault.jpg)
 
 Last Summer, on our trip to Cornwall, a few of us visited the AP Valves factory in Helston to look at rebreathers and subsequently decided that they were the way forward for deeper diving, and that we should all get them! After a failed attempt to get a cheaper second hand unit, I ordered a Sentinel rebreather and a training course from Richie Stevenson. I chose this particular rebreather after looking around at what was available and decided that while relatively new to the market, it had a lot of features that set it apart from the competition (including computer checks to remind you of the important pre-dive sequences). Rebreather diving, while arguably safer for deeper diving, introduces more little things that can go wrong and so a system to minimise these is a definite benefit! The only downside (other than the cost) was the wait – there was a significant backlog in orders meaning the normal time to delivery. Fortunately, the instructor had two units pre-ordered for delivery in November, so I only had a two month wait (though it seemed MUCH longer). Finally, last Wednesday, I headed down to Vobster Quay to start my course.
 

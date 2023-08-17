@@ -1,12 +1,11 @@
 ---
 title: 'Tollesbury Expedition, 17th-19th August 2018'
 date: '2018-08-19T12:32:56+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---
-
-*Date: 17th-19th August 2018 Author: Jenny Barrett*
 
 Farah, Mark, Kirill and Ryan set off for a weekend aboard Petrah, a Southerly 110 yacht, following the success of Farah’s previous sailing-diving hybrid trip to Norfolk. The plan this time is to stay close to Tollesbury and explore a shallow wreck or two near the entrance to Black water. However, British weather laid best-made plans asunder. The sea is like a cup of milky tea, and Farah and Ryan manage to spend a grand total of 90 seconds underwater before they resurface – having become separated as soon as they begun descent.
 

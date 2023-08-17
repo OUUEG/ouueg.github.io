@@ -1,7 +1,8 @@
 ---
 title: 'Diving Plymouth wrecks, 7-9th September 2012'
 date: '2012-09-12T21:54:22+01:00'
-author: ouuegoxford
+author: Nick
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -13,10 +14,8 @@ tags:
     - Weekend
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2012/09/Wreck_Diver_1.jpg)
 
-*Dates: 7-9th, September 2012 ,*   
-*Author: Nick,*  
 *Divers: Grainne (co-ordinator), Tom, Giles, Penny and Nick*
 
 Sadly there has been very little in the way of diving this summer on account of the weather. So when clear skies and highs of 25<sup>0</sup>C arrived in the UK, we were fortunate that someone still remembered what scuba diving was and took advantage of the situation (thanks Grainne). As the notification was at the 11<sup>th</sup> hour, there were relatively few of us on this trip; four OUUEG regulars and me (Nick), a less frequent but nonetheless enthusiastic diver.

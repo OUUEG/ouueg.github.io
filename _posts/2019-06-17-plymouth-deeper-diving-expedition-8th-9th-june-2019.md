@@ -1,14 +1,13 @@
 ---
 title: 'Plymouth Deeper Diving Expedition, 8th-9th June 2019'
 date: '2019-06-17T19:56:05+01:00'
-author: 'Jenny Barrett'
+author: Rona Costello
+layout: post
 categories:
     - 'Expedition Reports'
 ---
 
-![]()
-
-Author: Rona Costello
+![](https://ouueg.com/wp-content/uploads/2019/06/DeeperDiving8.png)
 
 Holger’s deeper diving weekend was planned as a Plymouth trip for those keen to get some deeper diving experience, especially if they’ve not done much deep diving in the UK before. Unfortunately for Holger, Rona, Becca, Sally, Penny, Ryan and Rocco though, the wind gods were not in their favour and the more ambitious plans had to be reined in somewhat. Despite the winds though, and a fair amount of faffing, they still had four successful dives over the weekend.
 

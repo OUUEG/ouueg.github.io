@@ -1,7 +1,8 @@
 ---
 title: 'Lymington 16th October 2021'
 date: '2021-10-17T17:33:28+01:00'
-author: 'Lok Hin Lee'
+author: Lok Hin Lee
+layout: post
 categories:
     - 'Expedition Reports'
     - News

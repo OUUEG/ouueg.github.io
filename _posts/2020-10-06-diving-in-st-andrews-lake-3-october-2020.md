@@ -1,7 +1,8 @@
 ---
 title: 'Diving in St Andrews Lake, 3 October 2020'
 date: '2020-10-06T16:10:36+01:00'
-author: 'Kirill Palamartchouk'
+author: Kirill Palamartchouk
+layout: post
 categories:
     - 'Expedition Reports'
     - News

@@ -1,7 +1,8 @@
 ---
 title: 'Summer expedition to the Sound of Mull, August 2010'
 date: '2010-08-29T22:51:56+01:00'
-author: ouuegoxford
+author: Sarah
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -20,10 +21,7 @@ tags:
     - Thesis
 ---
 
-![]()
-
-*Dates: Summer 2010,*   
-*Author: Sarah*
+![](http://ouueg.com/wp-content/uploads/2010/08/10089067224_89da384cda_k.jpg)
 
 Lochaline is quite a long way away so getting up there took most of the first weekend with Steve, James and Craig staying in Glasgow with Simon M; Andy and Simon F towing Sea Horse via a rellie in Whitehaven and the rest of us stopping at Paul’s folks. Some of us were more fashionably late than others due to being too weak and pathetic to physically lift the over-efficiently packed crates of food to the car and having to find a man to help. The detour to the Lakes involved a legendary tea-slurping competition, a very late night, much appreciation of an adorable cat/dog combo and Clare breaking the loo. Sensibly Tom marshalled no diving on Sunday so after a yummy breakfast we were off, stopping off at Loch Lomond and Glencoe (and Glasgow for a siesta) en route before accidentally rendezvousing at the Corran Ferry with Steve and Orca.
 

@@ -1,12 +1,11 @@
 ---
 title: 'Pembrokeshire Trip, 7th-11th August 2019'
 date: '2019-09-08T14:01:09+01:00'
-author: 'Patrick Kidger'
+author: Lok Hin Lee
+layout: post
 categories:
     - 'Expedition Reports'
 ---
-
-Author: Lee Lok Hin
 
 The trip to Pembrokeshire was a long weekend stretching from Thursday to Sunday, consisting of a group of 8 intrepid explorers (Penny, Farah, Holger, Imre, Mi Jun, Rona, Sally, and Lok) staying in supposedly rain and wind-proof tipis. Despite looking like a fully blown out (and rained out) weekend, the team still managed to dive three out of the four days.
 

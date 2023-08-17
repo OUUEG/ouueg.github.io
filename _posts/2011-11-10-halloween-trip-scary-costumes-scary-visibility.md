@@ -1,7 +1,8 @@
 ---
 title: 'Halloween trip! Scary costumes, scary visibility! 2011'
 date: '2011-11-10T22:41:09+00:00'
-author: ouuegoxford
+author: Matt
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -11,10 +12,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: Halloween 2011,*   
-*Author: Matt*
+![](http://ouueg.com/wp-content/uploads/2011/11/68789_741496832853_2147133_n.jpg)
 
 As a newcomer to the club and to UK seas I arrived at the hut excited and fashionably early. As people slowly arrived I was glad to see that we had a nice mix of experienced UK divers and newcomers; all of which seemed to share, at least to some extent, my weirdly enthusiastic attitude towards diving in cold water. Tom then arrived in the dive mobile and James in his van which he let us use for all our kit. Between them they kindly drove the 9 of us for 4 hours down to Plymouth picking up Ali at Plymouth station on the way with some remarkable timing. Rachel took the back seat in the seven seated dive mobile where she promptly “worked” deeply for the most of the journey.
 

@@ -1,7 +1,8 @@
 ---
 title: 'The Kidneys Expedition, 8th August 2018'
 date: '2018-08-08T16:49:03+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---

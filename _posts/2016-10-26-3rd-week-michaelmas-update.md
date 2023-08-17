@@ -1,12 +1,13 @@
 ---
 title: '3rd Week Michaelmas Update'
 date: '2016-10-26T14:23:44+01:00'
-author: 'Marko Jung'
+author: Marko Jung
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2016/10/IMG_5735.jpg)
 
 Tonight’s **pub night** will be **from 8:30 onwards at The Royal Oak on Woodstock Road** – they have Burger+Pint deals tonight, so all the new Ocean Diver students and their instructors can be fed and stay happy 😉
 

@@ -1,12 +1,13 @@
 ---
 title: 'Ocean Diver Block Course in February'
 date: '2017-01-22T15:54:58+00:00'
-author: 'Marko Jung'
+author: Marko Jung
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2017/01/15800736_10211877540043585_6200776047417655209_o.jpg)
 
 ## Learn to Dive with OUUEG
 

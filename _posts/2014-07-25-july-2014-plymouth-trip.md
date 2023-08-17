@@ -1,7 +1,8 @@
 ---
 title: 'Plymouth Expedition, 19-20th July 2014'
 date: '2014-07-25T19:16:14+01:00'
-author: ouuegoxford
+author: Severin
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -13,9 +14,9 @@ tags:
     - 'SS Persier'
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2014/07/2014-plymouth-3.jpg)
 
-*Dates: 19-20th July 2014, Location: Plymouth (JEL, Shagstone, HMS Scylla, SS Persier), Participants: Ali, Maha (organiser), Holger, Tom, Severin (author)*
+*Location: Plymouth (JEL, Shagstone, HMS Scylla, SS Persier), Participants: Ali, Maha (organiser), Holger, Tom, Severin*
 
 The trip started under challenging circumstances: many of our active divers had just returned from 8 days of diving in the Sound of Mull in Scotland a few days before the Plymouth trip… However, their kit was still stranded somewhere up north in the kit van, which had decided to prolong it stay in Scotland – much to the dismay of the many divers who otherwise would have loved to come along. Of the remaining five Plymouth participants, 40% only decided to join less than 24hrs before the first dive took place. However, Maha did a great job coordinating and organising everyone and everything, and the dives proved to be well worth the effort.
 

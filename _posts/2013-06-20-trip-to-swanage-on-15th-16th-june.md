@@ -1,7 +1,8 @@
 ---
 title: 'Summer weekend in Swanage, 15-16th June 2013'
 date: '2013-06-20T00:27:14+01:00'
-author: ouuegoxford
+author: Anne
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -13,10 +14,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: 15-16th, June 2013,*   
-*Author: Anne*
+![](http://ouueg.com/wp-content/uploads/2013/06/Remains_of_the_old_pier_-_Swanage_Bay_-_geograph.org_.uk_-_1709722.jpg)
 
 My first report for my first long/proper OUUEG trip (not to discount the amazing quarry day trips I’ve had). I want to start by acknowledging Rachel, our amazing trip leader, who was really responsible for making the weekend a great success! Add a wonderful group of people and some awesome dives and this trip really set the bar high for all my future OUUEG adventures 🙂
 

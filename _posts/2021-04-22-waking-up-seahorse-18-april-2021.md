@@ -1,7 +1,8 @@
 ---
 title: 'Waking up Seahorse, 18 April 2021'
 date: '2021-04-22T18:06:37+01:00'
-author: 'Kirill Palamartchouk'
+author: Kirill Palamartchouk
+layout: post
 categories:
     - 'Expedition Reports'
 ---

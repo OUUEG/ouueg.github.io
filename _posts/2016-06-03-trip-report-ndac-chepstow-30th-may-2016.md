@@ -1,7 +1,8 @@
 ---
 title: 'Training trip to NDAC Chepstow, 30th May 2016'
 date: '2016-06-03T13:10:28+01:00'
-author: 'Marko Jung'
+author: Jay Shiao
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -11,11 +12,9 @@ tags:
     - Training
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2016/06/2016-06-03-NDAC-trip-photo.jpg)
 
-*Author: Jay Shiao*
-
-### <u></u>**Conditions**
+### **Conditions**
 
 The day started off a little bit grey but by midday it was beautiful and sunny. As it was a quarry, the water was relatively still with some leisurely swimmers and plenty of other divers. The water temperature seemed to hover around 10-15<sup>o</sup>C.
 

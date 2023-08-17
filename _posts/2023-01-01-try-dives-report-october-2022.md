@@ -1,7 +1,8 @@
 ---
 title: 'Try Dives Report &#8211; October 2022'
 date: '2023-01-01T17:41:22+00:00'
-author: frost
+author: Layla Sklar
+layout: post
 categories:
     - News
 ---
@@ -13,5 +14,3 @@ Once in the pool, we put on all our equipment, did the final double checks to ma
 Once we were finished, we transported all the equipment back to the hut and had a final wrap up for the evening. I cycled back to college, excited to get into the world of diving; to learn more while meeting even more friendly divers along the way and to, hopefully, one day soon move from diving in Iffley Swimming Pool to quarries, lakes and seas in the UK and around the world.
 
 Thank you OUUEG for giving so many of us our first taster of diving!
-
-Written by Layla Sklar.

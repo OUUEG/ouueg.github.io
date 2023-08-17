@@ -1,7 +1,8 @@
 ---
 title: 'Freshers’ fair 2020 and information evenings'
 date: '2020-09-30T13:02:15+01:00'
-author: 'Lok Hin Lee'
+author: Lok Hin Lee
+layout: post
 categories:
     - News
 ---

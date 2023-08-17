@@ -1,12 +1,13 @@
 ---
 title: 'Freshers&#8217; fair 2018 and information evenings'
 date: '2018-10-01T09:20:23+01:00'
-author: 'Rona Costello'
+author: Rona Costello
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2018/10/WhatsApp-Image-2018-10-01-at-10.22.26.jpeg)
 
 OUUEG will be at Oxford University’s 2018 Freshers Fair on Wednesday (3rd) and Thursday (4th) of October.
 

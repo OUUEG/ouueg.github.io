@@ -1,12 +1,13 @@
 ---
 title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting 2018'
 date: '2018-02-07T13:05:25+00:00'
-author: 'Rona Costello'
+author: Rona Costello
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2017/02/seahorse-v.jpg)
 
 Please save the date: on **Thursday, 16 February 17, 19:00–21:30, location: tbc** we will be holding our annual Expedition Planning meeting.
 

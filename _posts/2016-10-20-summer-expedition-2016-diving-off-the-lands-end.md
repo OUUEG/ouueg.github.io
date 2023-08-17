@@ -1,15 +1,15 @@
 ---
 title: 'Summer Expedition 2016: Diving off the land&#8217;s end'
 date: '2016-10-20T12:45:25+01:00'
-author: 'Marko Jung'
+author: [Benjo](http://aquaticprimate.blogspot.co.uk/2016/09/diving-off-lands-end.html)
+layout: post
 categories:
     - 'Expedition Reports'
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2016/10/Sennen-05-04-120.jpg)
 
 *Date: 10/09-17/09/2016*  
- *Author: [Benjo](http://aquaticprimate.blogspot.co.uk/2016/09/diving-off-lands-end.html)*
 
 The tip of Cornwall is a pretty unique place. An enormous lump of lava congealed under the earth 300 million years ago to make the incredible granite cliffs, islands and underwater pinacles that bear the brunt of the North Atlantic storms. The waters around Land’s End are truly oceanic, with the average fetch (distance a wave travels) of around 5,000 miles in any direction to the West. Below the waves at least 5 currents meet as the English Channel and the Irish Sea mix with Atlantic waters. I know this area well after many summers spent here as a child, surfing the Atlantic swell at Sennen Beach and snorkelling around when the sea was behaving. However even after being down there many times since getting my diving certificate, I’ve never dived off the Land’s End. Last week I went down to St. Just with the Oxford University Underwater Exploration Group (OUEEG), on their summer expedition to see what lay in those tumultuous waters.
 

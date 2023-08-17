@@ -1,12 +1,13 @@
 ---
 title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting'
 date: '2017-02-12T14:12:35+00:00'
-author: 'Marko Jung'
+author: Marko Jung
+layout: post
 categories:
     - News
 ---
 
-![]()
+![](https://ouueg.com/wp-content/uploads/2017/02/16300203_10154522777139794_8828033607982744658_o.jpg)
 
 Please save the date: on **Thursday, 16 February 17, 19:00–21:30, location: tbc** we will be holding our annual Expedition Planning meeting.
 

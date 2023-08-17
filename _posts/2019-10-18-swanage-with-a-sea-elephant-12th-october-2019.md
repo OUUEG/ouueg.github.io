@@ -1,12 +1,11 @@
 ---
 title: 'Swanage with a Sea Elephant, 12th October 2019'
 date: '2019-10-18T14:03:23+01:00'
-author: 'Patrick Kidger'
+author: Lok Hin Lee
+layout: post
 categories:
     - 'Expedition Reports'
 ---
-
-Author: Lok Hin Lee
 
 Despite the pouring rain and questionable visbility, two cars and a van brought our divers to Swanage to get some final dives in before the winter hits and training season truly starts. Holger, Kirill and Patrick arrived in the morning to hop on a chartered boat with Divers Down, only to realize that they were the only divers crazy enough to still be on the charter and it was now a private boat to the Fleur de Lys .
 

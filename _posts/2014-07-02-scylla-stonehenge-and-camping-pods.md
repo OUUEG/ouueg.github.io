@@ -1,7 +1,8 @@
 ---
 title: 'Scylla, Stonehenge and Camping pods, 13-15th June 2014'
 date: '2014-07-02T15:32:34+01:00'
-author: ouuegoxford
+author: Sam
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -12,11 +13,9 @@ tags:
     - Weekend
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2014/07/14488112475_f3b24da62f_k.jpg)
 
-*Dates: 13th-15th June 2014,*   
 *Location: Plymouth,*   
-*Author: Sam,*  
 *Participants: Sam (author), Ian (fin finding, towing and firewood carrying), Metta (corpse and BBQ recipes), Maha (bonfires and underwater navigation, but definitely not motorway navigation)*
 
 The full-moon was gleaming brightly during the drive down on Friday 13<sup>th</sup>… which did indeed prove unlucky for some divers, as they missed out on the pit-stop at the best M5 services south of Bridgewater (Taunton Deane), lost the M5, found Stonehenge, found the M5, found the M5 in the wrong direction and eventually arrived at Ivybridge around midnight for the first ever OUUEG night in a camping pod.

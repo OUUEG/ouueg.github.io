@@ -2,6 +2,7 @@
 title: 'Info for Easter Trip 2023'
 date: '2023-02-08T09:56:43+00:00'
 author: frost
+layout: post
 categories:
     - News
 tags:

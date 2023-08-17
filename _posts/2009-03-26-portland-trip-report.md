@@ -1,7 +1,8 @@
 ---
 title: 'Portland Expedition, March 2009'
 date: '2009-03-26T23:20:03+00:00'
-author: ouuegoxford
+author: Huw
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -10,10 +11,7 @@ tags:
     - Weekend
 ---
 
-![]()
-
-*Dates: March 2009,*   
-*Author: Huw*
+![](http://ouueg.com/wp-content/uploads/2009/03/background_portland.jpg)
 
 Last weekend saw the second (?) OUUEG dive trip of 2009, with myself, Brian, Muhan, Craig, Luke and Steve Grigg (braving his first dives in UK waters) venturing off to Portland to dive with Fathom and Blues.
 

@@ -1,7 +1,8 @@
 ---
 title: 'Sunny Sunday at Chesil Beach, 4th May 2014'
 date: '2014-05-16T11:31:12+01:00'
-author: ouuegoxford
+author: Mark
+layout: post
 categories:
     - 'Expedition Reports'
 tags:
@@ -9,10 +10,8 @@ tags:
     - 'Chesil Beach'
 ---
 
-![]()
+![](http://ouueg.com/wp-content/uploads/2014/05/14556840749_5629554eb8_k.jpg)
 
-*Date: 4th, May 2014,*   
-*Author: Mark,*  
 *Participants: Giles (organiser), Alec, Gregor, Mark*
 
 Departed at 7:30am from the kit hut. On arrival, we were greeted by plentiful sunshine, a calm sea, and signs advising us not to change into suits on the street. Apparently, for whatever reason, residents don’t like seeing naked divers. No problem, we would just change on the beach!

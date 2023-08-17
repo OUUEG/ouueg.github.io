@@ -1,14 +1,13 @@
 ---
-title: 'Ocean Diver Training Report &#8211; 2023 March'
+title: 'Ocean Diver Training Report &#8211; March 24, 2023'
 date: '2023-04-01T19:17:34+01:00'
-author: frost
+author: Layla Sklar
+layout: post
 categories:
     - News
 tags:
     - Training
 ---
-
-*Written by Layla Sklar, March 24, 2023*
 
 <figure class="wp-block-image size-full">![](https://ouueg.com/wp-content/uploads/2023/04/Ocean-Diver-training.jpg)</figure>Following an enjoyable try dive with OUUEG in October in 2022, I was motivated to quickly get a start on BSAC Ocean Diver training! Our pool training took place over the frosty weekend of 1st week (the 21st and 22nd of January 2023) at Iffley Sports Centre.
 
@@ -21,5 +20,3 @@ Sunday was another early start; again, we got right to it, kitting up and this t
 Thank you to all the instructors – Marius, Kirill, Tom, Xianming, Claire, Penny, Rona – and to the experienced divers who acted as pool cover (Midori and Clare), and finally to the other trainees, who made the weekend such a great experience!
 
 <figure class="wp-block-video"><video controls="" src="blob:https://ouueg.com/e3efbc0c-9c6b-4276-936d-d35fbc508807"></video></figure><figure class="wp-block-video"><video controls="" src="blob:https://ouueg.com/ac7913b4-980a-4857-8f1f-916bebf64f1b"></video></figure><figure class="wp-block-video"><video controls="" src="blob:https://ouueg.com/1407d796-9d54-4a56-8da5-97ccdc6c4c86"></video></figure>Written by Layla Sklar
-
-March 24, 2023

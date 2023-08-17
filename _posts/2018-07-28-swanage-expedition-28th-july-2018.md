@@ -1,13 +1,11 @@
 ---
 title: 'Swanage Expedition, 28th July 2018'
 date: '2018-07-28T16:12:03+01:00'
-author: 'Jenny Barrett'
+author: Jenny Barrett
+layout: post
 categories:
     - 'Expedition Reports'
 ---
-
-*Date: 28th July 2018*  
-*Author: Jenny Barrett*
 
 Holger, Farah, Tom W, Clare, Giles, Suzy and David are off to Swanage. The weather is so balmy for today’s trip that some of our divers have eschewed their usual drysuits and instead donned wetsuits for the occasion.
 
