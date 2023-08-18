@@ -11,4 +11,9 @@ Farah, Mark, Kirill and Ryan set off for a weekend aboard Petrah, a Southerly 11
 
 Despite being poor conditions for diving, it was great conditions for sailing and the four have an excellent weekend on (rather than under) the water. They even manage to make use of the diving kit! It turns out that compressed air is a very effective means of cleaning blockages in the heads…
 
-![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2329-600x800.jpg) ![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2326-600x800.jpg) ![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2321-600x800.jpg) ![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2320-600x800.jpg) ![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2319-600x800.jpg) ![](https://ouueg.com/wp-content/uploads/2018/09/Picture1-1.png)
+![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2329-600x800.jpg)
+![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2326-600x800.jpg)
+![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2321-600x800.jpg)
+![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2320-600x800.jpg)
+![](https://ouueg.com/wp-content/uploads/2018/09/IMG_2319-600x800.jpg)
+![](https://ouueg.com/wp-content/uploads/2018/09/Picture1-1.png)

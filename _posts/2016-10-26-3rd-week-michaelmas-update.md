@@ -20,4 +20,4 @@ So, what’s going on at the moment on OUUEG?
 
 And, most importantly: this weekend will be OUUEG’s Halloween Trip! Tom is currently organising our trip to Plymouth next weekend – see his email (or Marko’s forward) for details. We can use our own boat there!
 
-<div style="padding-bottom: 3em;"></div>*Photo: Sophie Heptonstall (BSAC National Diving Officer, NDO) with Tom Walter and Marko Jung at the BSAC Diving Conference Dinner.*
+*Photo: Sophie Heptonstall (BSAC National Diving Officer, NDO) with Tom Walter and Marko Jung at the BSAC Diving Conference Dinner.*

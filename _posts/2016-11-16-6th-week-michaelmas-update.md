@@ -20,4 +20,4 @@ What else is going on with OUUEG?
 - Tonight will be an **info session for already qualified divers new to the club**, were we will discuss ways for crossing over from another agency, and opportunities for further training with OUUEG.  
     We will **meet at 19:00 at IT Services, 13 Banbury Road** – please make sure to be on time, as we will have to walk through the door all together. We will leave a phone number outside on the door in case you arrive late.
 
-<div>*Photo: happy novice divers and instructors after a fun try dive pool session.*</div><div></div>
+*Photo: happy novice divers and instructors after a fun try dive pool session.*
