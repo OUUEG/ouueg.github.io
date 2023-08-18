@@ -19,6 +19,4 @@ If you are interested in learning Dry Suit diving, please email the [Advanced Tr
 
 Please note: we are a club run by volunteers. It would be very much appreciated if you – the aspiring dry suit trainee – help in organising the theory and practical sessions (this may include coordinating it with the instructor and participants, arranging a lecture room, or offering help with transport). We will help you – just get in touch with the [Advanced Training Officer](ouueg.ato@google.com). If you are an active and passionate member of the club, instructors will be much more willing to spend their time teaching you!
 
-<div class="wp-block-group is-layout-flow"><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### In case you have any questions or comments please don’t hesitate to contact our Advanced Training Officer at <ouueg.ato@google.com>.
-
-</div>
+In case you have any questions or comments please don’t hesitate to contact our Training Officer at <ouueg.training@google.com>.

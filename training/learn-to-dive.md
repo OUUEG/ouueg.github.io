@@ -15,7 +15,7 @@ The Ocean Diver package has everything required to get diving including theory s
 
 The initial practical lessons will take place at local Oxford pools with enough depth for basic training. Open water training will take place on a training trip in Michaelmas term and on our Easter Training trip. Costs for the trips such as transport, food and accommodation are not included in the training packages. If you have any questions about those courses please contact our training officer.
 
-<div class="wp-block-themeisle-blocks-pricing"><div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>##### Ocean Diver Pack
+## Ocean Diver Pack
 
 ### £275
 
@@ -29,7 +29,7 @@ Our Ocean Diver package includes all BSAC learning materials, five theory lesson
 
 Not included in the package are expenses for training trips and drysuit hire. Please note that you have to become a member of OUUEG and BSAC. The total cost for training package and both memberships is £335.50 for students and £397.00 for other members.
 
-</div>## Training schedule
+## Training schedule
 
 Ocean Diver and Sports Diver training happens at fixed dates each year: Ocean Diver and Sports Diver in Hilary term (January – March). Ocean Divers also *must* keep the easter break free to finish training. If you are thinking of doing a course please contact our [training officer](http://ouueg.com/contact/ "Contacts").
 
@@ -43,4 +43,4 @@ Before open water training, a number of sessions must be held in the swimming po
 
 Your first open water experience is likely to be a training trip to a quarry late in Michaelmas term. Thereafter, most Ocean Diver and Sports Diver open water training is conducted during our Easter Trip. This is our largest training trip and aims to get all the qualifications done conveniently at the beginning of the diving season! Participating in this trip is the easiest way to get qualified and it is highly recommended if you would like to take advantage of as much of the UK diving season as you can. However if you cannot make it to the Easter training trip you will still be able to complete your training. In this case, it would be more down to you and you would be required to contact instructors who will teach you on any of the club’s regular dive trips and expeditions.
 
-<div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
+In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.

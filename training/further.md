@@ -73,8 +73,4 @@ This one-day course takes the teaching skills that you have perfected by trainin
 
 These are the assessments for teaching both the theory and practical parts of the courses. In total they take a day but can be done separately if you want.
 
-Please contact our [Advanced Training Officer](mailto:ouueg.ato@google.com) who will be very happy to answer any questions and get you started.
-
-<div class="wp-block-group is-layout-flow"><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### In case you have any questions or comments please don’t hesitate to contact our Advanced Training Officer at <ouueg.ato@google.com>.
-
-</div>
+Please contact our [Training Officer](mailto:ouueg.training@google.com) who will be very happy to answer any questions and get you started.

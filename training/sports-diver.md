@@ -13,7 +13,7 @@ The initial practical lessons will take place at local Oxford pools with enough 
 
 If you have any questions about those courses please [contact our training officer](mailto:training@ouueg.com).
 
-<div class="wp-block-themeisle-blocks-pricing"><div aria-hidden="true" class="wp-block-spacer" style="height:30px"></div>##### Sports Diver Training Package
+## Sports Diver Training Package
 
 ### £50
 
@@ -27,8 +27,8 @@ Not included in the package are expenses for training trips, open water dives, a
 
 If you are crossing over from another agency, the price increases by £25 for a second instructed pool training session and the extended cross-over training pack.
 
-<div class="wp-block-themeisle-blocks-button-group" id="wp-block-themeisle-blocks-button-group-35d5d25d" style="justify-content:center;align-items:center">[<span>Sign-up (members)</span>](/training/payment/)[<span>Sign-up (non-members)</span>](/membership/form/)</div><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div></div>## Training schedule
+## Training schedule
 
 The sports diver course will start in the **Hilary 2020** and the theory lessons will run on Wednesday evenings before our pub night for 6 weeks. Time and location tbc. The one pool session will be organised for a Friday evening at a time convienent for you and an instructor. If you have any questions about this course please do get in touch with our [training officer](http://ouueg.com/contact/ "Contacts").
 
-<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow"><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
+In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
