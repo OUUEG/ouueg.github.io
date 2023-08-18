@@ -7,11 +7,14 @@ categories:
     - News
 tags:
     - Expedition
+excerpt_separator: <!--more-->
 ---
 
 Dear adventurers,
 
 We have the updated information for the coming Easter Trip in 2023. See the summary (subject to change) below.
+
+<!--more-->
 
 *Dates:* 31 March – 10 April 2023  
 *Destination:* South Cornwall  
