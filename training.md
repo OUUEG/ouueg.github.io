@@ -2,6 +2,7 @@
 title: 'Diver Training'
 date: '2014-09-07T04:56:54+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 Scuba diving is an adventure open to anyone aged 12 or over – and with the Oxford University Underwater Exploration Group you found a very affordable way in getting scuba diving lessons. It has never been easier to learn to dive!

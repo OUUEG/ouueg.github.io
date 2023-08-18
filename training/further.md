@@ -2,6 +2,7 @@
 title: 'Further Training with OUUEG as a BSAC Club'
 date: '2014-09-07T16:33:57+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 Have you already got your Sports Diver qualification and do you want to plan and lead on dives, organise and manage groups of divers and develop rescue management skills?
@@ -36,7 +37,7 @@ You need to attend two short lectures which present the BSAC structure and expec
 
 You can also apply for an optional equivalency card from BSAC. Please note this being an equivalency card not a qualification card. For example, this means that unless you were previously qualified to dive with Nitrox the BSAC equivalency does not give you the Nitrox qualification that comes with all BSAC qualifications.
 
-Note that the BSAC qualification equivalency table is fairly strict with regards to rescue skills and theory knowledge. Please do not be disappointed if your equivalent BSAC qualification appears to be less advanced than the one in your original agency. Please locate your qualification in the [BSAC equivalency tables for divers from PADI, SSI, SSAC &amp; SAA](https://www.bsac.com/already-a-diver/equivalent-bsac-qualifications/).
+Note that the BSAC qualification equivalency table is fairly strict with regards to rescue skills and theory knowledge. Please do not be disappointed if your equivalent BSAC qualification appears to be less advanced than the one in your original agency. Please locate your qualification in the [BSAC equivalency tables for divers from PADI, SSI, SSAC & SAA](https://www.bsac.com/already-a-diver/equivalent-bsac-qualifications/).
 
 #### Continue your dive training with BSAC
 

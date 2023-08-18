@@ -2,6 +2,7 @@
 title: 'About OUUEG'
 date: '2013-08-27T12:33:03+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 The Oxford University Underwater Exploration Group (OUUEG) is a company of around 70 divers – students, staff and alumni of the University of Oxford, as well as people not affiliated with the University.

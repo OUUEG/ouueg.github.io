@@ -2,6 +2,7 @@
 title: Insurance
 date: '2013-09-27T00:05:44+01:00'
 author: ouuegoxford
+layout: page
 ---
 
 There are two important insurance covers:

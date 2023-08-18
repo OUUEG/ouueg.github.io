@@ -2,6 +2,7 @@
 title: 'Club Equipment'
 date: '2017-08-18T18:01:07+01:00'
 author: owashington
+layout: page
 ---
 
 **You must agree to abide by these rules to use OUUEG’s club equipment and facilities.**
@@ -42,7 +43,7 @@ author: owashington
 ### Returning Kit
 
 23. Fill in the return date on the sign-out sheet and once completed place in the ‘Kit Officer’s Pigeon Hole’. If there are missing or faulty items, please follow the Maintenance/Damage Report Procedure and inform the Kit Officer.
-24. Cylinders should be returned full where possible. If returning cylinders which are not full (i.e. &lt; 200 bar), using the labels provided mark the remaining pressure. The Kit Officer will assist in arranging filling, and the trip will pay the appropriate costs. If the cylinders are not full, either when taking the cylinders, or returning them, they must be recorded on the sheet.
+24. Cylinders should be returned full where possible. If returning cylinders which are not full (i.e. < 200 bar), using the labels provided mark the remaining pressure. The Kit Officer will assist in arranging filling, and the trip will pay the appropriate costs. If the cylinders are not full, either when taking the cylinders, or returning them, they must be recorded on the sheet.
 25. BCDs should be hung on the correct hangers, facing the door with the item number facing the centre of the hut.
 26. Fins should be placed in pairs in the correct rack vertically, do not mix the fins for pool use with the open water fins.
 27. Masks should be placed in the rack with the snorkels removed.

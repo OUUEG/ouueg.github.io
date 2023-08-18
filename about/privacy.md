@@ -2,6 +2,7 @@
 title: 'Data Privacy and Data Protection'
 date: '2018-05-25T09:35:35+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 ## Who we are

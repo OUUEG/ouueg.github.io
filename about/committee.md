@@ -2,6 +2,7 @@
 title: Committee
 date: '2019-12-05T17:34:35+00:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 <figure class="wp-block-table">| **Role** | **Name** | **Email (@gmail.com)** |

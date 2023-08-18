@@ -2,6 +2,7 @@
 title: 'Frequently Asked Questions'
 date: '2013-10-24T14:41:26+01:00'
 author: ouuegoxford
+layout: page
 ---
 
 #### How do I join for the first time?

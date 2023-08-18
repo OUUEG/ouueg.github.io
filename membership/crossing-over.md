@@ -2,6 +2,7 @@
 title: 'Crossing over from another agency'
 date: '2019-09-05T17:20:02+01:00'
 author: 'Patrick Kidger'
+layout: page
 ---
 
 You can join BSAC and keep diving within the limits of your qualification without having to do further training. However you are encouraged to attend two lectures (see below) to help you understand the BSAC structure, and a crossover session in the pool.
@@ -14,7 +15,7 @@ You need to attend two short lectures which present the BSAC structure and expec
 
 You can also apply for an optional equivalency card from BSAC. Please note that this is not a qualification card. For example, unless you were previously qualified to dive with Nitrox then the BSAC equivalency does not give you the Nitrox qualification that comes with all BSAC qualifications.
 
-The BSAC qualification equivalency table is fairly strict with regards to rescue skills and theory knowledge. Please do not be disappointed if your equivalent BSAC qualification appears to be less advanced than the one in your original agency. Please locate your qualification in the [BSAC equivalency tables for divers from PADI, SSI, SSAC &amp; SAA](https://www.bsac.com/already-a-diver/equivalent-bsac-qualifications/).
+The BSAC qualification equivalency table is fairly strict with regards to rescue skills and theory knowledge. Please do not be disappointed if your equivalent BSAC qualification appears to be less advanced than the one in your original agency. Please locate your qualification in the [BSAC equivalency tables for divers from PADI, SSI, SSAC & SAA](https://www.bsac.com/already-a-diver/equivalent-bsac-qualifications/).
 
 #### Continue your dive training with BSAC
 

@@ -1,7 +1,8 @@
 ---
-title: 'Documents, Forms &amp; Minutes'
+title: 'Documents, Forms & Minutes'
 date: '2013-10-15T22:43:25+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 ### Official Documents

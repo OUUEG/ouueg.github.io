@@ -2,13 +2,14 @@
 title: Internal
 date: '2014-11-01T22:16:11+00:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 ## Links
 
 #### Training
 
-- [Ocean Diver &amp; Sports Diver training record](https://docs.google.com/spreadsheet/ccc?key=0Arbep--nNJ59dDNCRUJ2S21pM0xHZkE1T2NHUGFvbHc&usp=sharing)
+- [Ocean Diver & Sports Diver training record](https://docs.google.com/spreadsheet/ccc?key=0Arbep--nNJ59dDNCRUJ2S21pM0xHZkE1T2NHUGFvbHc&usp=sharing)
 - [Instructor database](http://ouueg.com/admin/listinstructors/)
 
 #### Membership

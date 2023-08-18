@@ -2,6 +2,7 @@
 title: 'Join the Club'
 date: '2014-09-06T19:32:38+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/training/try). If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).

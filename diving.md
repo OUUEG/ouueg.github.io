@@ -2,6 +2,7 @@
 title: 'Diving with OUUEG'
 date: '2014-09-28T12:57:22+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 One of the exciting opportunities that OUUEG offers is joining on regular dive trips to a variety of fantastic locations. As a member you can hire club kit if you do not own your own. We dive regularly in the UK throughout the year (slightly less regularly during winter) but also organise expeditions abroad.

@@ -20,7 +20,7 @@ My first report for my first long/proper OUUEG trip (not to discount the amazing
 
 ## Day 1
 
-We left Saturday morning and headed to Swanage with prior knowledge of high winds and an unlikely venture out to sea. But we still did our first dive on Saturday afternoon. It was within the harbor to see the Fleur de lys, a wreck at 13 meters and a pretty great dive. I believe all of the 9 divers were quite satisfied and though the boat ride was a bit “lumpy” we maintained health…this time at least! The afternoon held a shore dive to explore the pier, with our trusty Rachel watching and all of us arriving back in time for the pier closing. Our evening consisted of a delicious meal of homemade chilli (thanks Rachel), a walk and a pint before hitting the sack in a lovely bunkhouse (–a definite recommendation if anyone is looking for a b&amp;b/hostel cross in Swanage).
+We left Saturday morning and headed to Swanage with prior knowledge of high winds and an unlikely venture out to sea. But we still did our first dive on Saturday afternoon. It was within the harbor to see the Fleur de lys, a wreck at 13 meters and a pretty great dive. I believe all of the 9 divers were quite satisfied and though the boat ride was a bit “lumpy” we maintained health…this time at least! The afternoon held a shore dive to explore the pier, with our trusty Rachel watching and all of us arriving back in time for the pier closing. Our evening consisted of a delicious meal of homemade chilli (thanks Rachel), a walk and a pint before hitting the sack in a lovely bunkhouse (–a definite recommendation if anyone is looking for a b&b/hostel cross in Swanage).
 
 ## Day 2
 

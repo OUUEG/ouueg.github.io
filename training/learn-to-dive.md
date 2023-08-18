@@ -2,6 +2,7 @@
 title: 'Ocean Diver'
 date: '2014-09-07T04:57:29+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 ## Learn to Dive

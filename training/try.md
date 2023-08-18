@@ -2,6 +2,7 @@
 title: 'Try Diving with OUUEG'
 date: '2014-10-07T20:25:09+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 ## What happens during a try dive with OUUEG?

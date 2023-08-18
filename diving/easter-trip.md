@@ -2,6 +2,7 @@
 title: 'Easter Trip (2023)'
 date: '2016-12-06T00:12:54+00:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 Every Easter, OUUEG goes to the beautiful south coast of Cornwall where there is abundant sealife such as scallops, crabs and seals, good value diving and a super fast club RHIB Seahorse, which you may have the chance to drive. Our main dive locations are Porthkerris and Mullion Cove (Porth Mellin). There’s excellent shore diving at both those places, and we’ll also use Seahorse to explore the nearby wrecks and reefs.
@@ -206,7 +207,7 @@ Cylinders are being kept together in piles based on their pressure and gas conte
 - Full (~200 bar and above)
 - Shore dive only (150-200 bar)
 - Instructor only (100-150 bar)
-- Empty (&lt;100 bar)
+- Empty (<100 bar)
 
 We try not to keep a large pile of empty cylinders, so please help take empty cylinders to the fill station, and bring the full ones back!
 

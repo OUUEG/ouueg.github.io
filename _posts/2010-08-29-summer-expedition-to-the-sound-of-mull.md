@@ -115,7 +115,7 @@ Thanks again and happy diving 🙂
 |  |  |  |  |  |  |
 | Wave 1 |  |  |  |  |  |
 |  |  |  |  |  |  |
-| SH &amp; SM | *Shuna* |  |  |  |  |
+| SH & SM | *Shuna* |  |  |  |  |
 | Sarah | Piotr | Andy |  |  |  |
 | Muhan | Tom |  |  |  |  |
 | Mary | Ali |  |  |  |  |

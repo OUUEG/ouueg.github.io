@@ -2,6 +2,7 @@
 title: 'Membership Payment'
 date: '2016-10-12T16:17:36+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 Note! This page has been deprecated!

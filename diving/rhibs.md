@@ -2,6 +2,7 @@
 title: 'OUUEG’s Club RHIBs'
 date: '2018-05-01T16:58:33+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 #### Seahorse

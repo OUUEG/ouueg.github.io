@@ -2,6 +2,7 @@
 title: 'Dry Suit Skills Development Course'
 date: '2016-10-13T09:33:06+01:00'
 author: 'Marko Jung'
+layout: page
 ---
 
 The aim of the dry suit skills development course is to teach the correct and safe techniques for dry suit diving. After the course you should have the confidence to go on your first guided open water dive in a dry suit.
