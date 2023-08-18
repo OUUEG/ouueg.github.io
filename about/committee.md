@@ -5,20 +5,18 @@ author: 'Marko Jung'
 layout: page
 ---
 
-<figure class="wp-block-table">| **Role** | **Name** | **Email (@gmail.com)** |
+| **Role** | **Name** | **Email (@gmail.com)** |
 |---|---|---|
-| President | Xianming Liu | ouueg.president |
+| President | Nick Hu | ouueg.president |
 | Diving Officer | Claire Holubowskyj | ouueg.divingofficer |
-| Treasurer | Tobemory Mackay-Champion | ouueg.treasurer |
-| Expeditions Officer | Sally Sisi Qu | ouueg.expedition |
-| Kit Officer | Marius Weber | ouueg.kit |
-| Boat Officer | vacant | ouueg.boat |
+| Treasurer | Sally Sisi Qiu | ouueg.treasurer |
+| Expeditions Officer | Graham Beake | ouueg.expedition |
+| Kit Officer | Xianming Liu | ouueg.kit |
+| Boat Officer | Oscar Robson | ouueg.boat |
 | Training Officer | Lidka Ożarowska | ouueg.training |
-| Advanced Training Officer | Kirill Palamartchouk | ouueg.ato |
-| Social Secretary | Kirsty Harrington | ouueg.social |
-| Secretary | Midori Hosoda | ouueg.secretary |
-| Membership Secretary | <meta charset="utf-8"></meta>Midori Hosoda | ouueg.membership |
-| Tech Wizard aka IT Officer | Frost Xu | ouueg.it |
-| Web Officer | Frost Xu | ouueg.it |
+| Social Secretary | Layla Sklar | ouueg.social |
+| Secretary | Mick Gielen | ouueg.secretary |
+| Membership Secretary | Mick Gielen | ouueg.membership |
+| Website Officer | Frost Xu | ouueg.website |
 
-</figure>If you have any membership or joining inquiries, please go to our [whatsapp group](https://chat.whatsapp.com/AnZP60BzcGi3tuTkKDBzQl) or email any of us.
+If you have any membership or joining inquiries, please go to our [whatsapp group](https://chat.whatsapp.com/AnZP60BzcGi3tuTkKDBzQl) or email any of us.
