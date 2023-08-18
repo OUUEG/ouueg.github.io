@@ -11,7 +11,7 @@ The Sports Diver package contains everything except the open water lessons which
 
 The initial practical lessons will take place at local Oxford pools with enough depth for basic training. Open water training will take place on a training trip in Michaelmas term and on our Easter Training trip. Costs for the trips such as transport, food and accommodation are not included in the training packages.
 
-If you have any questions about those courses please [contact our training officer](mailto:training@ouueg.com).
+If you have any questions about those courses please [contact our training officer](mailto:ouueg.training@gmail.com).
 
 ## Sports Diver Training Package
 

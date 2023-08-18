@@ -39,5 +39,5 @@ BSAC membership fee is approximately:
 
 ## Next: [Join us!](https://ouueg.com/membership/join/)
 
-If you have any questions then get in touch with our diving officer via [ouueg.divingofficer@gmail.com](mailto:ouueg.divingofficer@ouueg.com).
+If you have any questions then get in touch with our diving officer via [ouueg.divingofficer@gmail.com](mailto:ouueg.divingofficer@gmail.com).
 

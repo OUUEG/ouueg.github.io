@@ -30,10 +30,6 @@ The main requirement for diving is that you do not have any known significant **
 
 Another requirement is that you can **swim** and is confident in the water. This means you are comfortable submerging your head, floating on the surface, and moving around in the pool. Swimming ability is important for the safety and enjoyment of scuba diving.
 
-If you have any questions, don’t hesitate to get in touch with our Diving Officer at do@ouueg.com. A declaration form needs to be completed prior to the try dive.
+If you have any questions, don’t hesitate to get in touch with our Diving Officer at ouueg.divingofficer@gmail.com. A declaration form needs to be completed prior to the try dive.
 
-<div class="wp-block-group is-layout-flow"></div><div class="wp-block-group is-layout-flow">  
-  
 Looking for the latest news? Please join the[ mailing list ](https://ouueg.com/membership/join/)for more details!
-
-</div><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.

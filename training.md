@@ -13,6 +13,7 @@ You’ll be in good company, BSAC’s President HRH The Duke of Cambridge is a k
 
 Almost all our training takes place in house. We have access to several quality heated indoor swimming pools with enough depth for basic training and testing kit. Open water training is generally with the clubs’s boat in the diving season or at inland sites like Stoney Cove in the winter. We offer training for all diver grades from [Ocean Diver](/training/learn-to-dive/) for novices, over [Sports Diver](/training/learn-to-dive/) for those wanting to further their skills, to Dive Leader.
 
-<div class="wp-block-image"><figure class="aligncenter">![bsac-diver-grades](http://ouueg.com/wp-content/uploads/2014/09/BSAC-diver-grades.png)</figure></div>There are also Instructor grades which we can assist you with achieving – although the teaching is not generally carried out within the club we do tend to sponsor our members if they plan to use the qualification to teach our members.
+![bsac-diver-grades](http://ouueg.com/wp-content/uploads/2014/09/BSAC-diver-grades.png)
+There are also Instructor grades which we can assist you with achieving – although the teaching is not generally carried out within the club we do tend to sponsor our members if they plan to use the qualification to teach our members.
 
-## In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.
+## In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.

@@ -32,7 +32,7 @@ You can register your BSAC membership on the [BSAC membership website](https://w
 
 **Make sure you fill out the Medical Declaration Form also online during the registration process on [BSAC.com](http://BSAC.com).** **If you answered “yes” to any of the questions, you must seek advice from a medical referee before you dive.**
 
-You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:do@ouueg.com)for further info.
+You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:ouueg.divingofficer@gmail.com)for further info.
 
 But don’t worry – the doctor can certify you as fit for diving unless there is a change in your medical condition. In practice, you’d probably only need to see the referee once and then submit a self-declaration every year alongside that initial certificate authorising you to do so.\[/idea\]
 
@@ -46,7 +46,9 @@ Most of the club activity is advertised via the mailing list. **To join please [
 
 ### 4. Join the (unofficial!) [Whatsapp Group ](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU)
 
-<figure class="wp-block-image size-full is-resized">![](https://ouueg.com/wp-content/uploads/2022/09/image.png)</figure>#### **Pub nights**
+![](https://ouueg.com/wp-content/uploads/2022/09/image.png)
+
+#### **Pub nights**
 
 Every Wednesday evening (usually at 8:00 or 8:30 pm) we meet informally in various pubs for a pint and a chat and to discuss upcoming trips. The pub changes from week to week, so tune in via our mailing list to be updated.
 
@@ -55,7 +57,3 @@ Every Wednesday evening (usually at 8:00 or 8:30 pm) we meet informally in vario
 Find us on Facebook here: [OUUEG – Oxford University Underwater Exploration Group](https://www.facebook.com/groups/ouueg/).
 
 We also have a Twitter account <https://twitter.com/OUUEG>
-
-<div class="wp-block-group is-layout-flow"><div aria-hidden="true" class="wp-block-spacer" style="height:60px"></div>#### If you have any questions then get in touch with our diving officer via [ouueg.divingofficer@gmail.com](mailto:ouueg.divingofficer@ouueg.com).
-
-</div>

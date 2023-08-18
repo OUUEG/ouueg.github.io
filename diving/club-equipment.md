@@ -122,4 +122,4 @@ Hire fees for kit hire are set out below. These are per day, per item used (e.g.
 - **Full Kit (excl. Suits and Ponys):** £10/day
 - **Full Kit (incl. Dry Suit, Boots, Undersuit):** £20/day
 
-## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <equipment@ouueg.com>.
+## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <ouueg.kit@gmail.com>.
