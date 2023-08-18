@@ -20,7 +20,7 @@
             <a href="{{ "/" | relative_url }}">home</a>
           </li>
           <!-- Generate nav based on directory structure, 1 deep -->
-          {%- assign toplevel = site.pages | where: "dir", "/" | where_exp: "page", "page.path != 'feed.xml'" | where_exp: "page", "page.path != 'index.md'" -%}
+          {%- assign toplevel = site.pages | where: "dir", "/" | where_exp: "page", "page.path != 'feed.xml'" | where_exp: "page", "page.path != 'index.html'" -%}
           {%- for t in toplevel -%}
             {%- assign slug = t.path | remove: ".md" -%}
             {%- assign directory = slug | prepend: "/" | append: "/" -%}
