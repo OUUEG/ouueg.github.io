@@ -1,5 +1,5 @@
 ---
-title: 'St Abbs part II (day 3 &#038; 4), 5-6th May 2013'
+title: 'St Abbs part II (day 3 & 4), 5-6th May 2013'
 date: '2013-05-14T21:47:30+01:00'
 author: Gillian
 layout: post

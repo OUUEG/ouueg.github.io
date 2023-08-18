@@ -1,5 +1,5 @@
 ---
-title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting 2018'
+title: 'Easter Training Trip Briefing & Expedition Planning Meeting 2018'
 date: '2018-02-07T13:05:25+00:00'
 author: Rona Costello
 layout: post

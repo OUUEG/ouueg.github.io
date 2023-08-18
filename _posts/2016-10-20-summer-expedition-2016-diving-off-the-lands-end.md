@@ -1,7 +1,7 @@
 ---
-title: 'Summer Expedition 2016: Diving off the land&#8217;s end'
+title: 'Summer Expedition 2016: Diving off the land’s end'
 date: '2016-10-20T12:45:25+01:00'
-author: [Benjo](http://aquaticprimate.blogspot.co.uk/2016/09/diving-off-lands-end.html)
+author: '<a href=http://aquaticprimate.blogspot.co.uk/2016/09/diving-off-lands-end.html>Benjo</a>'
 layout: post
 categories:
     - 'Expedition Reports'

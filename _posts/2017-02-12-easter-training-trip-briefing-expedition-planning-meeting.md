@@ -1,5 +1,5 @@
 ---
-title: 'Easter Training Trip Briefing &#038; Expedition Planning Meeting'
+title: 'Easter Training Trip Briefing & Expedition Planning Meeting'
 date: '2017-02-12T14:12:35+00:00'
 author: Marko Jung
 layout: post

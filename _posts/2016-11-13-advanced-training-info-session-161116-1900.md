@@ -1,5 +1,5 @@
 ---
-title: 'Advanced Training Info Session &#8211; 16/11/16 19:00'
+title: 'Advanced Training Info Session – 16/11/16 19:00'
 date: '2016-11-13T21:59:41+00:00'
 author: Marko Jung
 layout: post

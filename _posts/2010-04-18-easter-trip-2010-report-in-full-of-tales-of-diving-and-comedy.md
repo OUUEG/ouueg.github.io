@@ -1,5 +1,5 @@
 ---
-title: 'Easter training trip 2010 &#8211; full of tales of diving and comedy, April 2010'
+title: 'Easter training trip 2010 – full of tales of diving and comedy, April 2010'
 date: '2010-04-18T23:06:54+01:00'
 author: Luke
 layout: post

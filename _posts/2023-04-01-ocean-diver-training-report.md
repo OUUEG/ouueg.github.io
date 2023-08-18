@@ -1,5 +1,5 @@
 ---
-title: 'Ocean Diver Training Report &#8211; March 24, 2023'
+title: 'Ocean Diver Training Report – March 24, 2023'
 date: '2023-04-01T19:17:34+01:00'
 author: Layla Sklar
 layout: post

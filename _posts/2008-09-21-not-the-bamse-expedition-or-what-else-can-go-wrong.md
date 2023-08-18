@@ -1,5 +1,5 @@
 ---
-title: 'Not the Bamse expedition (or &#8216;what else can go wrong?&#8217;), March 2008'
+title: 'Not the Bamse expedition (or ‘what else can go wrong?’), March 2008'
 date: '2008-09-21T23:30:43+01:00'
 author: Luke
 layout: post

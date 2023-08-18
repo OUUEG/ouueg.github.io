@@ -1,5 +1,5 @@
 ---
-title: 'Freshers&#8217; fair 2018 and information evenings'
+title: 'Freshers’ fair 2018 and information evenings'
 date: '2018-10-01T09:20:23+01:00'
 author: Rona Costello
 layout: post

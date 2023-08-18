@@ -1,5 +1,5 @@
 ---
-title: 'Try Dives Report &#8211; October 2022'
+title: 'Try Dives Report – October 2022'
 date: '2023-01-01T17:41:22+00:00'
 author: Layla Sklar
 layout: post
