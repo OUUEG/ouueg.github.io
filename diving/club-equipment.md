@@ -103,23 +103,34 @@ Pub fines are in place to ensure these rules are met. These are payable to the K
 - **Not filling out the sign out sheet:** 3 course meal with wine
 - **Not saluting and saying “Yes Grand Kit Officer Sir” every time he/she whinges at you:** Priceless
 
-## Equipment Hire Fees
+## Equipment Hire Fees (updated September 2023)
 
 Hire fees for kit hire are set out below. These are per day, per item used (e.g. two regulators used would be charged as two items). It is the trip organiser’s responsibility to collect the money owed for the trip and pay it directly to the treasurer.
 
-- **Single cylinder usage (12l,15l):** £2/day
-- **Regulators:** £3/day
-- **BCDs:** £2.50/day
-- **Weights (including belt):** £1/day
-- **DSMB + Reel:** £1/day
-- **Dive Timers:** £2/day
-- **Computers:** £3/day
-- **Compasses:** £1/day
-- **Wetsuit / Semi Dry suit:** £5/day
-- **Dry suit (incl Boot, Undersuit):** £15/day
-- **Masks/Fins/Boots:** £1/day per item
-- **Pony (incl. reg and clamp):** £3/day (£2/day for reg or cylinder only)
-- **Full Kit (excl. Suits and Ponys):** £10/day
-- **Full Kit (incl. Dry Suit, Boots, Undersuit):** £20/day
+- **Single cylinder usage (12l,15l):** £5/day
+- **Regulators:** £6/day
+- **BCDs:** £5/day
+- **Weights (including belt):** £2/day
+- **DSMB + Reel:** £2/day
+- **Dive Timers:** £4/day
+- **Computers:** £6/day
+- **Compasses:** £2/day
+- **Wetsuit / Semi Dry suit:** £10/day
+- **Dry suit (incl Boot, Undersuit):** £25/day
+- **Masks/Fins/Boots:** £2/day per item
+- **Pony (incl. reg and clamp):** £6/day (£4/day for reg or cylinder only)
+- **Full Kit (excl. Suits and Ponys):** £25/day
+- **Full Kit (incl. Dry Suit, Boots, Undersuit):** £40/day
+
+### Boat use
+
+Use of our boat Seahorse is charged at £35/day, to cover the cost of fuel and maintenance.
+
+### Flat rate
+
+Save on equipment hire and boat costs by paying upfront for the whole year!
+
+- **Boat flat rate:** £125
+- **Kit flat rate:** £125, or £70 from the beginning of the academic year until Easter and £80 for the summer thereafter.
 
 ## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <ouueg.kit@gmail.com>.
