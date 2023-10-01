@@ -20,10 +20,10 @@ OUUEG is the official University of Oxford scuba diving sports club. You join a 
 These are just a few of the perks we exclusively offer to our members. Please contact our [membership officer](mailto:ouueg.membership@gmail.com) if you have any questions prior joining the club.
 
 Diving Student/Instructor Membership
-: £50 per annum
+: £55 per annum
 
 Diving Non-Student Membership
-: £70 per annum
+: £77 per annum
 
 *Prices maybe updated based on the cost and budget.*
 
