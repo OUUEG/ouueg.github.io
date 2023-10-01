@@ -9,10 +9,6 @@ We accept novices and already-qualified divers alike. If you’ve never dived be
 
 Regardless, start your underwater adventure by following these three easy steps. Any questions, then [get in contact](/contact).
 
-### 0. \[optional\] Subscribe to our website!
-
-Please click the register button on the top right corner of the website or directly go to [this link](https://ouueg.com/register).
-
 ### 1. Register online with OUUEG
 
 Let the committee know you have joined OUUEG by filling out the form below or via [the link](https://forms.gle/1NruHVXMdGEQpALP6): <https://forms.gle/1NruHVXMdGEQpALP6>
