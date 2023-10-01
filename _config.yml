@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OUUEG --- Oxford University Underwater Exploration Group
-email: ouueg.website@gmail.com
+email: it-officer@ouueg.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Oxford University Underwater Exploration Group (OUUEG) is a company of
   around 70 divers – students, staff and alumni of the University of Oxford, as

@@ -133,4 +133,4 @@ Save on equipment hire and boat costs by paying upfront for the whole year!
 - **Boat flat rate:** £125
 - **Kit flat rate:** £125, or £70 from the beginning of the academic year until Easter and £80 for the summer thereafter.
 
-## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <ouueg.kit@gmail.com>.
+## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <kit@ouueg.com>.

@@ -5,18 +5,18 @@ author: 'Marko Jung'
 layout: page
 ---
 
-| **Role** | **Name** | **Email (@gmail.com)** |
+| **Role** | **Name** | **Email** |
 |---|---|---|
-| President | Nick Hu | ouueg.president |
-| Diving Officer | Claire Holubowskyj | ouueg.divingofficer |
-| Treasurer | Sally Sisi Qiu | ouueg.treasurer |
-| Expeditions Officer | Graham Beake | ouueg.expedition |
-| Kit Officer | Xianming Liu | ouueg.kit |
-| Boat Officer | Oscar Robson | ouueg.boat |
-| Training Officer | Lidka Ożarowska | ouueg.training |
-| Social Secretary | Layla Sklar | ouueg.social |
-| Secretary | Mick Gielen | ouueg.secretary |
-| Membership Secretary | Mick Gielen | ouueg.membership |
-| Website Officer | Frost Xu | ouueg.website |
+| President | Nick Hu | [president@ouueg.com](mailto:president@ouueg.com) |
+| Diving Officer | Claire Holubowskyj | [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com) |
+| Treasurer | Sally Sisi Qiu | [treasurer@ouueg.com](mailto:treasurer@ouueg.com) |
+| Expeditions Officer | Graham Beake | [expedition@ouueg.com](mailto:expedition@ouueg.com) |
+| Kit Officer | Xianming Liu | [kit@ouueg.com](mailto:kit@ouueg.com) |
+| Boat Officer | Oscar Robson | [boat@ouueg.com](mailto:boat@ouueg.com) |
+| Training Officer | Lidka Ożarowska | [training@ouueg.com](mailto:training@ouueg.com) |
+| Social Secretary | Layla Sklar | [social@ouueg.com](mailto:social@ouueg.com) |
+| Secretary | Mick Gielen | [secretary@ouueg.com](mailto:secretary@ouueg.com) |
+| Membership Secretary | Mick Gielen | [membership@ouueg.com](mailto:membership@ouueg.com) |
+| Website Officer | Frost Xu | [it-officer@ouueg.com](mailto:it-officer@ouueg.com) |
 
-If you have any membership or joining inquiries, please go to our [whatsapp group](https://chat.whatsapp.com/AnZP60BzcGi3tuTkKDBzQl) or email any of us.
+If you have any membership or joining inquiries, please go to our [WhatsApp group](https://chat.whatsapp.com/AnZP60BzcGi3tuTkKDBzQl) or email any of us.

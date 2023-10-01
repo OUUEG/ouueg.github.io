@@ -16,4 +16,4 @@ Almost all our training takes place in house. We have access to several quality 
 ![bsac-diver-grades](http://ouueg.com/wp-content/uploads/2014/09/BSAC-diver-grades.png)
 There are also Instructor grades which we can assist you with achieving – although the teaching is not generally carried out within the club we do tend to sponsor our members if they plan to use the qualification to teach our members.
 
-## In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
+## In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.

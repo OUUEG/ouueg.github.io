@@ -11,7 +11,7 @@ The Sports Diver package contains everything except the open water lessons which
 
 The initial practical lessons will take place at local Oxford pools with enough depth for basic training. Open water training will take place on a training trip in Michaelmas term and on our Easter Training trip. Costs for the trips such as transport, food and accommodation are not included in the training packages.
 
-If you have any questions about those courses please [contact our training officer](mailto:ouueg.training@gmail.com).
+If you have any questions about those courses please [contact our training officer](mailto:training@ouueg.com).
 
 ## Sports Diver Training Package
 
@@ -31,4 +31,4 @@ If you are crossing over from another agency, the price increases by £25 for a 
 
 The sports diver course will start in the **Hilary 2020** and the theory lessons will run on Wednesday evenings before our pub night for 6 weeks. Time and location tbc. The one pool session will be organised for a Friday evening at a time convienent for you and an instructor. If you have any questions about this course please do get in touch with our [training officer](http://ouueg.com/contact/ "Contacts").
 
-In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
+In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.

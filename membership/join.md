@@ -15,9 +15,9 @@ Let the committee know you have joined OUUEG by filling out the form below or vi
 
 <iframe frameborder="0" height="3570" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSeZciV3iTjTeM7uhh-pF8nKqRQn0R5yqxaMaKkpuHS91exqWw/viewform?embedded=true" width="640">Loading…</iframe>
 
-\[Note\] If you have a problem filling out the form above, please email <ouueg.treasurer@gmail.com>:
+\[Note\] If you have a problem filling out the form above, please email <treasurer@ouueg.com>:
 
-- Please CC ouueg.secretary@gmail.com and ouueg.membership@gmail.com
+- Please CC secretary@ouueg.com and membership@ouueg.com
 - The subject line should be “NEW MEMBERSHIP \[NAME\] APP”
 
 ### 2. Register online with BSAC
@@ -28,7 +28,7 @@ You can register your BSAC membership on the [BSAC membership website](https://w
 
 **Make sure you fill out the Medical Declaration Form also online during the registration process on [BSAC.com](http://BSAC.com).** **If you answered “yes” to any of the questions, you must seek advice from a medical referee before you dive.**
 
-You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:ouueg.divingofficer@gmail.com)for further info.
+You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:divingofficer@ouueg.com)for further info.
 
 But don’t worry – the doctor can certify you as fit for diving unless there is a change in your medical condition. In practice, you’d probably only need to see the referee once and then submit a self-declaration every year alongside that initial certificate authorising you to do so.\[/idea\]
 

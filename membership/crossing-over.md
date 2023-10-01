@@ -23,4 +23,4 @@ Your equivalent BSAC qualification provides a starting point if you want to cont
 
 *Example: you’re a PADI Open Water or a PADI Advanced Open Water diver. Your equivalent BSAC qualification is BSAC Ocean Diver in both cases. You want to continue your diver training with BSAC. The next qualification is the BSAC Sport Diver. Our advanced training officer would provide you the Sport Diver Crossover Pack. We usually run a Sports Diver course in Hilary term (January and February) which is suitable for crossover students.*
 
-Getting a BSAC qualification by crossing over is quite affordable. Please contact our [training officer](mailto:ouueg.training@gmail.com) to discuss details and get an estimate of the costs.
+Getting a BSAC qualification by crossing over is quite affordable. Please contact our [training officer](mailto:training@ouueg.com) to discuss details and get an estimate of the costs.

@@ -43,4 +43,4 @@ Before open water training, a number of sessions must be held in the swimming po
 
 Your first open water experience is likely to be a training trip to a quarry late in Michaelmas term. Thereafter, most Ocean Diver and Sports Diver open water training is conducted during our Easter Trip. This is our largest training trip and aims to get all the qualifications done conveniently at the beginning of the diving season! Participating in this trip is the easiest way to get qualified and it is highly recommended if you would like to take advantage of as much of the UK diving season as you can. However if you cannot make it to the Easter training trip you will still be able to complete your training. In this case, it would be more down to you and you would be required to contact instructors who will teach you on any of the club’s regular dive trips and expeditions.
 
-In case you have any questions or comments please don’t hesitate to contact our training officer at <ouueg.training@gmail.com>.
+In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.
