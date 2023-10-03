@@ -11,9 +11,9 @@ Regardless, start your underwater adventure by following these three easy steps.
 
 ### 1. Register online with OUUEG
 
-Let the committee know you have joined OUUEG by filling out the form below or via [the link](https://forms.gle/1NruHVXMdGEQpALP6): <https://forms.gle/1NruHVXMdGEQpALP6>
+Let the committee know you have joined OUUEG by filling out the form below or via [the link](https://forms.gle/1wX1bJWmMmgGuTZF6): <https://forms.gle/1wX1bJWmMmgGuTZF6>
 
-<iframe frameborder="0" height="3570" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSeZciV3iTjTeM7uhh-pF8nKqRQn0R5yqxaMaKkpuHS91exqWw/viewform?embedded=true" width="640">Loading…</iframe>
+<iframe frameborder="0" height="3570" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSc4GdngsGhICmGEX2DWVuWid562VF_zYtv3yi4oanTqE4TSpA/viewform?embedded=true" width="640">Loading…</iframe>
 
 \[Note\] If you have a problem filling out the form above, please email <treasurer@ouueg.com>:
 
