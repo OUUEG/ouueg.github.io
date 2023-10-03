@@ -7,7 +7,7 @@ layout: page
 
 The Oxford University Underwater Exploration Group (OUUEG) is a company of around 70 divers – students, staff and alumni of the University of Oxford, as well as people not affiliated with the University.
 
-The club is a recognised [University Sports club ](http://www.sport.ox.ac.uk/student-sport/)of the [University of Oxford](http://www.ox.ac.uk) and an official branch of the [British Sub-Aqua Club (BSAC)](http://www.bsac.com/).
+The club is a recognised [University Sports club ](https://www.sport.ox.ac.uk/underwater-exploration) of the [University of Oxford](http://www.ox.ac.uk) and an official branch of the [British Sub-Aqua Club (BSAC)](http://www.bsac.com/).
 
 OUUEG was founded in 1963 and is one of the oldest dive clubs in the UK. The club has a long history of diving all year round all over the UK and abroad.
 

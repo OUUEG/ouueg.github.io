@@ -15,9 +15,9 @@ We started our journey through the course with ‘dry’ practical exercises out
 
 Summing up: it was a great pleasure and fantastic experience to take part in this wonderful course. Amid merciless weather and sometimes murky water (guess why :)), working together on the project was incredible fun, often spiced with laughter (even underwater :)), so huge thanks to everyone, and especially to our teachers, Ginge & Giles, and everyone who helped to organise this marvellous little adventure!
 
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_080101105-scaled.jpg)
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_155610408_BURST000_COVER_TOP-scaled.jpg)
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_083331335-scaled.jpg)
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_083121964_HDR-1-scaled.jpg)
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_084948506-scaled.jpg)
-![](https://ouueg.com/wp-content/uploads/2023/08/IMG_20230729_121532676-scaled.jpg)
+![](/assets/images/IMG_20230729_080101105.jpg)
+![](/assets/images/IMG_20230729_155610408_BURST000_COVER_TOP.jpg)
+![](/assets/images/IMG_20230729_083331335.jpg)
+![](/assets/images/IMG_20230729_083121964_HDR-1.jpg)
+![](/assets/images/IMG_20230729_084948506.jpg)
+![](/assets/images/IMG_20230729_121532676.jpg)

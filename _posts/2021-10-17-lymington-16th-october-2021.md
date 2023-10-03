@@ -14,7 +14,7 @@ Coming back saw dolphins running alongside the boat the whole way, showing off b
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/y_jPBsUy2Ak?feature=oembed" title="Lymington Dolphins" width="500"></iframe>
 
-![](https://ouueg.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-16-at-22.15.18-1.jpeg)
-![](https://ouueg.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-17-at-17.22.38-1-1.jpeg)
-![](https://ouueg.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-17-at-17.22.38-2-1.jpeg)
-![](https://ouueg.com/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-17-at-17.22.38-3.jpeg)
+![](/assets/images/WhatsApp-Image-2021-10-16-at-22.15.18-1.jpeg)
+![](/assets/images/WhatsApp-Image-2021-10-17-at-17.22.38-1-1.jpeg)
+![](/assets/images/WhatsApp-Image-2021-10-17-at-17.22.38-2-1.jpeg)
+![](/assets/images/WhatsApp-Image-2021-10-17-at-17.22.38-3.jpeg)

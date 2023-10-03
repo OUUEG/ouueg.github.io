@@ -13,7 +13,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2016/06/IMG_2707.jpg)
+![](/assets/images/IMG_2707.jpg)
 
 We arrived late on the Friday evening at the Harford Bunkhouse on the edge of Dartmoor after a romantic car park dinner stop at ASDA en route and a going a bit “overboard” on the food shopping. Tom familiarised us with several charts of the Plymouth coast and the meaning of its key features which was imperative for the boat handling course. We started the next morning with passage planning and a side of bacon sandwiches. We collected the boat and equipment from Pete and headed down to the Mount Batten main slipway. We thoroughly went through the contents of the boat, preparation of the boat for launch and safety measures. Zhenbo got a bit overexcited and pulled the cord at the bottom of his life jacket and it blew up! (Perhaps this was a blessing in disguise though as the cartridge was quite rusty!)
 
@@ -21,7 +21,7 @@ The sun was beaming and away we went upstream for some slow speed handling pract
 
 We returned to the marina to practice mooring with the use of the wind, before getting the boat back onto the trailer and taking it back to Pete’s house. After a great first day filled with some fundamental boat handling skills, we celebrated with some fish and chips in the Barbican and a few beers! This carried on back at the bunkhouse where we did more voyage planning, this time to different dive locations, and again accompanied with a good drink. 
 
-[![IMG_2766](http://ouueg.com/wp-content/uploads/2016/04/IMG_2766-2500x983.jpg)](http://ouueg.com/wp-content/uploads/2016/04/IMG_2766.jpg)
+[![IMG_2766](/assets/images/IMG_2766.jpg)
 
 The next day we set off and got the boat ready with Zhenbo in charge! We took dive gear to simulate how the boat would usually be on a usual OUUEG trip, as well as hoping for a cheeky dive if we had time! There were magnificent trimarans coming into the marina and moored in preparation for the Transat Bakerly race in a couple of weeks. 
 

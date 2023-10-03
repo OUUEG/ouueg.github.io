@@ -14,7 +14,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2008/07/stephen_portand_2008.jpg)
+![](/assets/images/stephen_portand_2008.jpg)
 
 I picked up Piotr (aka Peter/Pete) from the club hut on Thursday evening for our drive down to Weymouth. He had to endure a conference call which, with the amount of acronyms and domain specific terms i was surprised to see him still awake 1/2 hour later.We arrived at the camp-site after suffering the interesting road furniture and humps most of which we could have avoided if i’d looked at the map rather than relying on the GPS. East Fleet farm has added a new area higher up the hill with electronic coded gates, fancy toilets and showers – very nice. Got to the bar at 9:05 to be told that they stopped serving at 9pm, so off to Weymouth for food we went. Found that the speed humps on the road into the camp site are exactly the right hight to cause maximum scraping on the underside of my car!
 

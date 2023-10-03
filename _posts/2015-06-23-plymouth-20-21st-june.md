@@ -14,7 +14,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2015/06/18551556893_957dd9f7f1_k.jpg)
+![](/assets/images/18551556893_957dd9f7f1_k.jpg)
 
 With the summer finally arriving, and reports of there being a strange thing called “the sea” into which one could dive, an expeditionary force was assembled. After a couple of minor adjustments to line-up the intrepid adventurers set off to Plymouth to see what this whole salt-watery-diving-thing was all about…
 

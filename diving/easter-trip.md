@@ -36,19 +36,19 @@ We will be diving from [Porthkerris Beach](http://porthkerris.com/) and [Mullion
 
 Whilst we need lots of enthusiastic new divers, realistically, we also need people who can drive the boat, sufficient instructors, and those who can tow the boat to Cornwall. Allocation of spaces, therefore, is not necessarily on a first-come, first-served basis, but on the basis of us being able to run the trip smoothly. It is also preferable that you stay as long as possible to prevent too much swapping over, but we appreciate that some may wish to stay only one weekend. Traditionally the first weekend and weekdays are reserved for training, and the Easter Bank Holiday weekend is reserved for fun diving only. A deposit (100 pounds) will be requested later on.
 
-*The sooner you pay your deposit, the higher priority you get on the kit and beds!*<a name="manual"></a>
+*The sooner you pay your deposit, the higher priority you get on the kit and beds!*
 
 # Expedition Manual
 
 The Easter trip is the club’s largest expedition and the first one many new members go on. It is a great trip.
 
-- [What to expect from ET? A typical day](#typicalday)
+- [What to expect from ET? A typical day](#a-typical-day)
 - [Safety](#safety)
-- [What to bring? Dive kit, OUUEG equipment hire, and other useful stuff.](#packlist)
-- [Who’s Who – roles helping us to organise the chaos](#whoswho)
-- [Diving Routines](#diving)
+- [What to bring? Dive kit, OUUEG equipment hire, and other useful stuff.](#what-to-bring)
+- [Who’s Who – roles helping us to organise the chaos](#whos-who)
+- [Diving Routines](#dive-routines)
 
-## <a name="typicalday"></a>A typical day
+## A typical day
 
 ET works best if everyone helps out. It is tiring for everyone (especially the instructors), but the more that we work together, the easier it is.
 
@@ -79,7 +79,7 @@ And be ready ahead of time, or the boat will leave without you. The overall plan
 
 There will likely be a meal out one night (probably either in St. Keverne or Porthallow). There will be fancy dress one night (probably the Saturday of the Easter weekend) the theme will not be decided until we’re down in Cornwall. There may be a walk along the cliff path to the pub at Cadwith one night.
 
-## <a name="safety"></a>Safety
+## Safety
 
 Diving can be a dangerous sport if not done properly, and it requires all participants to be “dive fit”. It is the responsibility of each diver to make sure that they are fit to dive. If you are unsure if you are fit to dive, please ask an instructor who can advise you.
 
@@ -122,7 +122,7 @@ Diving Diseases Research Centre: 01752 209 999
 
 3 loud bangs or 3 big tugs on an SMB means: proceed to surface taking all stops.
 
-## <a name="packlist"></a>What to bring?
+## What to bring?
 
 This is not a complete list but please use your own common sense about how much stuff to bring, there is not a lot of storage space in caravans.
 
@@ -170,7 +170,7 @@ Nice but not essential:
 - Alternatively bring a card or board game for a day with bad weather or the evenings.
 - Mobile phone and charger, though reception is very bad. Orange tends to get best reception though most other networks work on the beach.
 
-## <a name="whoswho"></a>Who’s Who
+## Who’s Who
 
 ### The Dive Manager (DM)
 
@@ -196,7 +196,7 @@ If you are assigned to be shore cover (the people doing it will change throughou
 
 The role of shore watch is to know where all of our divers in the water off the beach are at any time. You will also be responsible for the dive log sheets (Divers going into and coming out of the water must sign out and in with you) and for transcribing the boat log slates onto the log sheets.\[/vc\_column\_text\]\[vc\_column\_text\]
 
-## <a name="diving"></a>Dive Routines
+## Dive Routines
 
 We keep all our equipment nicely close together and try not to spread out too much on the dive site to leave space for other visitors. This will also ease packing up and cleaning up the site in the evenings.
 

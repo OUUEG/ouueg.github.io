@@ -14,7 +14,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2010/06/Bearb-5150104.jpg)
+![](/assets/images/Bearb-5150104.jpg)
 
 This trip saw us heading down to Plymouth with a rather unusual mission – looking for sea urchins. While we’re normally on the lookout for anything tasty while diving, I must admit that spiky echinoderms are not usually on the list. Sea urchins eggs are used as an experimental tool in certain labs, however, and the trip was aimed at collecting as many urchins as possible in order to harvest the eggs for use in research. We’d decided to dive from Fort Bovisand and aimed to arrive there nice and early on Saturday to catch high water so that the slipway there would be covered with water (which always makes it handy). Unfortunately, bank holiday traffic conspired against us and by the time we arrived from London, the slip was virtually dry…
 

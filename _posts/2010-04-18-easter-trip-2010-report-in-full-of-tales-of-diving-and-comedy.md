@@ -15,7 +15,7 @@ tags:
     - Volnay
 ---
 
-![](http://ouueg.com/wp-content/uploads/2010/04/10089294463_b5057906e8_k.jpg)
+![](/assets/images/10089294463_b5057906e8_k.jpg)
 
 Flickr Photo Album: <https://www.flickr.com/photos/ouueg/albums/72157636190878935>*
 

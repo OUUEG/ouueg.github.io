@@ -14,7 +14,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2012/09/Wreck_Diver_1.jpg)
+![](/assets/images/Wreck_Diver_1.jpg)
 
 *Divers: Grainne (co-ordinator), Tom, Giles, Penny and Nick*
 

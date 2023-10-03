@@ -13,7 +13,7 @@ tags:
     - Wales
 ---
 
-![](http://ouueg.com/wp-content/uploads/2013/07/9647412156_c829ffc798_k.jpg)
+![](/assets/images/9647412156_c829ffc798_k.jpg)
 
 The pleasant anticipation of spending a weekend in the beautiful Welsh summer (= cold, rainy, windy) was disastrously thwarted by a cloudless sky, still air, and temperatures around 30 degrees Celsius. And so, after a pleasant trip through British evening/weekend/holiday rush-hour traffic, a group of 10 highly motivated divers from across the British Empire (Cardiff, Coventry, Oxford) met at the beautiful Sandy Haven campground near Milford Haven to pitch our tents for the weekend.
 

@@ -5,9 +5,9 @@ author: 'Marko Jung'
 layout: page
 ---
 
-We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/training/try). If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).
+We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/diving/try). If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).
 
-Regardless, start your underwater adventure by following these three easy steps. Any questions, then [get in contact](/contact).
+Regardless, start your underwater adventure by following these three easy steps. Any questions, then [get in contact](/about/contact).
 
 ### 1. Register online with OUUEG
 
@@ -26,7 +26,7 @@ In addition to the membership with our club OUUEG, you also need to be a member 
 
 You can register your BSAC membership on the [BSAC membership website](https://www.bsac.com/membership/) by clicking “*Join via club*” and searching for OUUEG.
 
-**Make sure you fill out the Medical Declaration Form also online during the registration process on [BSAC.com](http://BSAC.com).** **If you answered “yes” to any of the questions, you must seek advice from a medical referee before you dive.**
+**Make sure you fill out the Medical Declaration Form also online during the registration process on [BSAC.com](https://www.bsac.com).** **If you answered “yes” to any of the questions, you must seek advice from a medical referee before you dive.**
 
 You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:divingofficer@ouueg.com)for further info.
 
@@ -42,7 +42,7 @@ Most of the club activity is advertised via the mailing list. **To join please [
 
 ### 4. Join the (unofficial!) [Whatsapp Group ](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU)
 
-![](https://ouueg.com/wp-content/uploads/2022/09/image.png)
+![](/assets/images/qr.png)
 
 #### **Pub nights**
 

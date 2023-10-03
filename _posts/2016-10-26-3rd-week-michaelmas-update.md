@@ -7,7 +7,7 @@ categories:
     - News
 ---
 
-![](http://ouueg.com/wp-content/uploads/2016/10/IMG_5735.jpg)
+![](/assets/images/IMG_5735.jpg)
 
 Tonight’s **pub night** will be **from 8:30 onwards at The Royal Oak on Woodstock Road** – they have Burger+Pint deals tonight, so all the new Ocean Diver students and their instructors can be fed and stay happy 😉
 

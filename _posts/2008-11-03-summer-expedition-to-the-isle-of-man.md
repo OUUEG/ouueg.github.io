@@ -13,7 +13,7 @@ tags:
     - Training
 ---
 
-![](http://ouueg.com/wp-content/uploads/2008/11/douglas-isle-of-man.jpg)
+![](/assets/images/douglas-isle-of-man.jpg)
 
 Just before the start of a new academic year with hopefully plenty of enthusiastic new divers joining the club, I am putting together a long overdue trip report for this summer’s OUUEG expedition to the Isle of Man (IoM). With 10 divers, 2 cars, 1 boat and bags of kits, 8 days and 7 nights in a “mansion” all to ourselves in the heart of National Trust land surrounded by millions of friendly sheep, with the weather conditions mostly on our side, it was the complete recipe for a fun diving week.
 

@@ -12,7 +12,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2010/08/10089067224_89da384cda_k.jpg)
+![](/assets/images/20620146363_b31477507d_o.jpg)
 
 Taking advantage of the long bank holiday weekend, 12 intrepid adventurers set off on the long and dangerous trek into the unchartered territory of the North of England. Fearless in the face of such adversities as bank holiday traffic, hidden train stations, gutteral language and that bit of the map marked only with “Here be dragons” and buoyed by thoughts of cold water, aggressive sea creatures and the Grease soundtrack, it was truly a mammoth expedition.
 

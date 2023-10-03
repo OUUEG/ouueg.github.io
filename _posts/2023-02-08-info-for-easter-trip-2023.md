@@ -23,6 +23,6 @@ Cost: Bills typically range from £200 to £400 for 7-10 days. This depends on y
 
 The complete information can be found on the [ET page](https://ouueg.com/diving/easter-trip/). To have your trip safe and entertaining, it is highly recommended to read the [Expedition Manual](https://ouueg.com/diving/easter-trip/).
 
-![Map of South Coast of Cornwall](https://ouueg.com/wp-content/uploads/2023/02/etmap.jpg)
+![Map of South Coast of Cornwall](/assets/images/etmap.jpg)
 
 Feb 2nd, 2023

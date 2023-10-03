@@ -7,7 +7,7 @@ categories:
     - News
 ---
 
-![](http://ouueg.com/wp-content/uploads/2016/11/OUUEG-Try-Dive-2016-10-15.jpg)
+![](/assets/images/OUUEG-Try-Dive-2016-10-15.jpg)
 
 Tonight, our **pub night** will be at the **Eagle and Child on St Giles**, starting from **20:30.** They have food, so instructors and students won’t need to starve 😉
 

@@ -11,7 +11,7 @@ Have you already got your Sports Diver qualification and do you want to plan and
 
 As a [B](http://www.bsac.com/diveleader/)[SAC Dive Leader](http://www.bsac.com/diveleader/) you are are becoming an expert in your field of dive leadership. You will also be competent in planning dives for groups of divers and managing diving on the day including, if necessary, managing rescue situations. The Dive Leader training is a mix of classroom-based and practical lessons that will give you the confidence to plan, lead and manage dives, and deal with emergencies. Leading a dive will develop your enjoyment, confidence and experience as a diver. After qualifying, and if you wish, depth can be built progressively to a maximum of 50 metres. Dive Leaders are also eligible to progress to Open Water Instructor, with further training.
 
-The club can help you in getting your Dive Leader certification so please contact our [Advanced Training Officer](mailto:ouueg.ato@google.com) if you are interested in this qualification.
+The club can help you in getting your Dive Leader certification so please contact our [Training Officer](mailto:training@ouueg.com) if you are interested in this qualification.
 
 Please note that all our training is run by club volunteers who are qualified as instructors so you’re unlikely to find cheaper training anywhere else. That also means that the training, although serious, is done in a friendly and relaxed environment.
 
@@ -23,7 +23,7 @@ The club has its own rigid-hulled inflatable boat (RHIB) with the opportunity to
 
 As a special service to divers from other agencies who decide to join BSAC we offer an annual course to enable them to dive using enriched air (Nitrox) if their qualification does not already include it. BSAC divers learn to dive with enriched air as part of their standard training. This course costs very little and is particularly useful if you plan to go on a longer dive trip and you would like to reduce nitrogen loading.
 
-If you are interested in any other training we’d love to hear from you. Other people in the club will probably be interested, too. Please get in touch with our [Advanced Training Officer.](mailto:ouueg.ato@google.com)
+If you are interested in any other training we’d love to hear from you. Other people in the club will probably be interested, too. Please get in touch with our [Training Officer.](mailto:training@ouueg.com)
 
 ## Crossing over from another agency
 
@@ -45,7 +45,7 @@ Your equivalent BSAC qualification provides a starting point if you want to cont
 
 *Example: you’re a PADI Open Water or a PADI Advanced Open Water diver. Your equivalent BSAC qualification is BSAC Ocean Diver in both cases. You want to continue your diver training with BSAC. The next qualification is the BSAC Sport Diver. Our Advanced training officer would provide you the Sport Diver Crossover Pack. We usually run a Sports Diver course in Hilary term (January and February) which is suitable for crossover students.*
 
-Getting a BSAC qualification by crossing over is quite affordable. Please contact our [Advanced Training Officer](mailto:ouueg.ato@google.com) to discuss details and get an estimate of the costs.
+Getting a BSAC qualification by crossing over is quite affordable. Please contact our [Training Officer](mailto:training@ouueg.com) to discuss details and get an estimate of the costs.
 
 ## Instructor Training
 
@@ -53,7 +53,7 @@ Do you feel like getting involved in teaching and going down the instructor rout
 
 We actively encourage members to do so. Teaching is a different aspect of diving which is very rewarding. As a university diving club we are particularly grateful to our instructors and are always in demand of more instructors. We subsidise the instructor training considerably by funding up to a third of the instructor training course fees and club credit for your future membership fees.
 
-Below is a brief description to give you an idea of what’s involved in the progression to instructor level in the BSAC system but if you’re interested please email the [Advanced Training Officer](mailto:ouueg.ato@google.com) who will provide you some guidance and get you in touch with the relevant contacts.
+Below is a brief description to give you an idea of what’s involved in the progression to instructor level in the BSAC system but if you’re interested please email the [Training Officer](mailto:training@ouueg.com) who will provide you some guidance and get you in touch with the relevant contacts.
 
 All BSAC instructor training courses are coordinated by the BSAC Headquarters. After you have completed your Instructor Foundation Course (IFC) and later your Open Water Instructor Course (OWIC), you practice your teaching under supervision within your club. As soon as you are comfortable with your new teaching skills you are encouraged to take the exams to become a qualified instructor — the Theory Instructor Exam (TIE) Practical Instructor Exam (PIE). In practice, in order to achieve the Open Water Instructor (OWI) grade, you need to attend two teaching events and to pass two exams:
 

@@ -7,7 +7,7 @@ categories:
     - 'Expedition Reports'
 ---
 
-![](https://ouueg.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-24-at-15.09.12-e1537798357246.png)
+![](/assets/images/Screen-Shot-2018-09-24-at-15.09.12-e1537798357246.png)
 
 It’s a bright and early 06:30am meet for David, Penny, Imre, Donald, Kirill and Alexandre. They’re off to Chesil Beach for a day of shore diving.
 

@@ -13,7 +13,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2014/03/bruxelles21.jpg)
+![](/assets/images/bruxelles21.jpg)
 
 - **Mission**: Diving in Champagne
 - **Destination**: Nemo33, Brussels, Belgium

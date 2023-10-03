@@ -12,7 +12,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2013/05/10088672454_7df414acce_k.jpg)
+![](/assets/images/10088672454_7df414acce_k.jpg)
 
 I start my report writing duties with our fantastic haggis (both meat and vegetarian) and root vegetables prepared by Ian and Rachel, rounding out the end of the second day. We were all impressed by the sophisticated, multi-textured, beautifully coloured and lovingly prepared meal.
 

@@ -13,7 +13,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2014/07/14488112475_f3b24da62f_k.jpg)
+![](/assets/images/14488112475_f3b24da62f_k.jpg)
 
 *Location: Plymouth,*   
 *Participants: Sam, Ian (fin finding, towing and firewood carrying), Metta (corpse and BBQ recipes), Maha (bonfires and underwater navigation, but definitely not motorway navigation)*

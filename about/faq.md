@@ -17,11 +17,11 @@ Yes you can! We run some [try dives](/diving/try/) and offer [entry-level traini
 
 Then come dive with us! We’re happy to have you.
 
-Note that OUUEG is affiliated with [BSAC](http://BSAC.com): if you’ve qualified with another agency then you can still dive with us – see the [cross-over page](/memberships/crossing-over).
+Note that OUUEG is affiliated with [BSAC](https://www.bsac.com): if you’ve qualified with another agency then you can still dive with us – see the [cross-over page](/membership/crossing-over).
 
 #### What kind of trips do you run?
 
-We tend to go on weekend trips around the UK, either to the coast or in flooded quarries – usually either every weekend or every other weekend. We also typically run two longer trips every year: the [Easter trip](/diving/easter-training) to Cornwall, and a trip abroad (for example, to the Red Sea) every winter.
+We tend to go on weekend trips around the UK, either to the coast or in flooded quarries – usually either every weekend or every other weekend. We also typically run two longer trips every year: the [Easter trip](/diving/easter-trip) to Cornwall, and a trip abroad (for example, to the Red Sea) every winter.
 
 #### What are the payment options for membership fees?
 

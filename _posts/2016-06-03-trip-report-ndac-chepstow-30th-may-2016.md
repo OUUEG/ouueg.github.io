@@ -12,7 +12,7 @@ tags:
     - Training
 ---
 
-![](http://ouueg.com/wp-content/uploads/2016/06/2016-06-03-NDAC-trip-photo.jpg)
+![](/assets/images/2016-06-03-NDAC-trip-photo.jpg)
 
 ### **Conditions**
 
@@ -26,7 +26,7 @@ Visibility was approximately 6-8 meters. Rosalie and I kept close to Marko so ne
 
 The entry for the first dive we walked in from the shore. On entry I saw a small white and red fish, and was excited to see some more life! For the rest of the trip, however, there was limited fish or other life. We then gradually made our way deeper towards the landing platforms. The whole dive was good practice for buoyancy and mask clearing, and was a very chill introductive dive. Marko additionally instructed us to practice buoyancy by doing a fin pivots, learning how to inflate the drysuit, let air out of the dry suit. We did some swim throughs and circled around an airplane with the words “VOTE OUT” on it and made a slow ascent above the Landrover to the surface.
 
-[![NDAC Chepstow map](http://ouueg.com/wp-content/uploads/2016/06/2016-06-03-NDAC-trip-report-800x721.png)](http://ouueg.com/wp-content/uploads/2016/06/2016-06-03-NDAC-trip-report.png)
+[![NDAC Chepstow map](/assets/images/2016-06-03-NDAC-trip-report.png)
 We dived down to about 15m and visited the following attractions: 1. Landrover Lagoon, 2. Training Platform, 3. Training platform, 4. Airplane and swim throughs, and 5. Tanks.
 
 

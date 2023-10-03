@@ -12,7 +12,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2011/06/10089096914_5b645d9fc9_k.jpg)
+![](/assets/images/10089096914_5b645d9fc9_k.jpg)
 
 As like the fellowship of the ring, the OUUEG divers travelled from the shire and overcame the hostilities bank holiday traffics jam, traversed the spine of England and ventured into bonnie foreign lands of Scotland in search of underwater delights and riches. The weary travellers were greeted to find one of the finest caravan parks the divers had even seen. Gorgeous beds and plenty of space to stretch their weary legs. Dare it be said, but this was not the first thought of the weary travellers. For the first thought was the succulent scent that overcame them as they walked through the door. For the fine host of Os and Grianne delighted the fair travellers with large pots of chilli goodness. This was not a one night only thing but everyday night produced ‘A-maz-ing’ food.
 

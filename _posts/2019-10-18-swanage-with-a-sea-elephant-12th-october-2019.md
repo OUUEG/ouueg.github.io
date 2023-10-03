@@ -11,10 +11,10 @@ Despite the pouring rain and questionable visbility, two cars and a van brought 
 
 On the other hand, me and Jack Brady started inflating Sea Elephant after it’s long period in hibernation.
 
-![](https://ouueg.com/wp-content/uploads/2019/10/a.png)
+![](/assets/images/b.png)
 To all of our surprise, we managed to get it fully inflated and working. After attaching a horribly unsuited outboard motor to it, we puttered off to the Fleur de Lys as well to see if the engine (and boat) would hold. And it did!
 
 After gathering our friends who’ve just dived the Fleur de Lys, we started testing the maximum capacity of the boat by loading all of our gear and trying to head back to the wreck on the Sea Elephant instead of the charter.
 
-![](https://ouueg.com/wp-content/uploads/2019/10/a-1.png)
+![](/assets/images/b-1.png)
 The boat survived the trip with five divers and five set of gear, though the waterline was worryingly high. The dive involved a massive Conger Eel and a few reticent shrimp, but the highlight of the trip was definitely the resurrection of the Elephant. More dives on it to follow!

@@ -7,7 +7,7 @@ categories:
     - News
 ---
 
-![](https://ouueg.com/wp-content/uploads/2017/02/seahorse-v.jpg)
+![](/assets/images/seahorse-v.jpg)
 
 Please save the date: on **Thursday, 16 February 17, 19:00–21:30, location: tbc** we will be holding our annual Expedition Planning meeting.
 

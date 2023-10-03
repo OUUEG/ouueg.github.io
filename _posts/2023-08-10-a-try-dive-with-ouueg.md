@@ -13,7 +13,7 @@ So, two days later, a friend and I met up with a couple of friendly OUUEG member
 
 The experience itself was fantastic. The tanks are pretty heavy but when you dive you are wearing special “life-jackets” called a BCD (buoyancy control device) which means that you can control exactly how much you want to float or sink by pressing one button to fill air into the jacket and another to remove it. In addition to the tank and the BCD, you also wear glass mask which give you a fantastic view underwater and big fins on your feet which allow you to easily move around. For this dive, as it was in a pool, we didn’t need a wet suit or a dry suit. My friend and I both went one-on-one with an instructor, so we felt very safe. We spent some time learning the underwater communication signals (you can’t talk underwater!) and got familiar with breathing through the mouthpiece.
 
-![](https://ouueg.com/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-04-at-21.10.26-1536x1152.jpeg)
+![](/assets/images/WhatsApp-Image-2023-08-04-at-21.10.26.jpeg)
 
 It was such a surreal experience.
 

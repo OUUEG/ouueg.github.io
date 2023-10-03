@@ -11,7 +11,7 @@ All trips are organised by members for members. Hence, if there is a nice locati
 
 ### <span style="font-style: inherit;">What to expect from UK Diving?</span>
 
-<span style="font-style: inherit;">The UK has an exceptionally rich naval history and its coastline has some of the best diving in the world. OUUEG does lots of diving in the UK throughout the year, and we have a [rigid hull inflatible boat (RHIB), Sea Horse](https://ouueg.com/diving/seahorse-club-rhib/), which enables us to get access to anywhere we’d like to go.</span>
+<span style="font-style: inherit;">The UK has an exceptionally rich naval history and its coastline has some of the best diving in the world. OUUEG does lots of diving in the UK throughout the year, and we have a [rigid hull inflatible boat (RHIB), Sea Horse](/diving/rhibs), which enables us to get access to anywhere we’d like to go.</span>
 
 There are thousands of shipwrecks to explore, ranging from Roman shipwrecks littered with amphora, to ships-of-the-line with canon and silver coin, to submarines from the Second World War. All of them can be explored and act as habitats for all sorts of marine life – lobsters, grouper, shoaling fish, conger eels and pipefish.
 

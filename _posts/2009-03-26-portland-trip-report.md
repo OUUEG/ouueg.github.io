@@ -11,7 +11,7 @@ tags:
     - Weekend
 ---
 
-![](http://ouueg.com/wp-content/uploads/2009/03/background_portland.jpg)
+![](/assets/images/background_portland.jpg)
 
 Last weekend saw the second (?) OUUEG dive trip of 2009, with myself, Brian, Muhan, Craig, Luke and Steve Grigg (braving his first dives in UK waters) venturing off to Portland to dive with Fathom and Blues.
 

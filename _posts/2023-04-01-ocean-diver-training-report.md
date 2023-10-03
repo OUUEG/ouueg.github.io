@@ -9,7 +9,7 @@ tags:
     - Training
 ---
 
-![](https://ouueg.com/wp-content/uploads/2023/04/Ocean-Diver-training.jpg)
+![](/assets/images/Ocean-Diver-training.jpg)
 
 Following an enjoyable try dive with OUUEG in October in 2022, I was motivated to quickly get a start on BSAC Ocean Diver training! Our pool training took place over the frosty weekend of 1st week (the 21st and 22nd of January 2023) at Iffley Sports Centre.
 

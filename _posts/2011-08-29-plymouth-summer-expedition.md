@@ -16,7 +16,7 @@ tags:
     - 'Talland Bay'
 ---
 
-![](http://ouueg.com/wp-content/uploads/2011/08/IMG_4642.jpg)
+![](/assets/images/IMG_4642.jpg)
 
 It all started of with a small group of people going down on Friday, with many more joining during the week.
 

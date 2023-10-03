@@ -15,4 +15,4 @@ Recent renovation work around the pier means there’s even more to see and to f
 
 “You can imagine how cool it is to surface with half a kilo of lead in one hand and a f\*\*\*ing crowbar in the other. KING OF THE PIER!”
 
-![](https://ouueg.com/wp-content/uploads/2018/10/FullSizeRender3-477x800.jpg)
+![](/assets/images/FullSizeRender3.jpg)

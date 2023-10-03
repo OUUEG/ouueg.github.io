@@ -7,7 +7,7 @@ categories:
     - News
 ---
 
-![](https://ouueg.com/wp-content/uploads/2017/01/15800736_10211877540043585_6200776047417655209_o.jpg)
+![](/assets/images/15800736_10211877540043585_6200776047417655209_o.jpg)
 
 ## Learn to Dive with OUUEG
 

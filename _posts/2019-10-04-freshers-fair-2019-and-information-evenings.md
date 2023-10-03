@@ -7,7 +7,7 @@ categories:
     - News
 ---
 
-![](https://ouueg.com/wp-content/uploads/2019/10/GOPR2489.jpg)
+![](/assets/images/GOPR2489.jpg)
 
 OUUEG will be at Oxford University’s 2019 Freshers Fair on Wednesday (9th) and Thursday (10th) of October.
 

@@ -10,7 +10,7 @@ tags:
     - 'Chesil Beach'
 ---
 
-![](http://ouueg.com/wp-content/uploads/2014/05/14556840749_5629554eb8_k.jpg)
+![](/assets/images/14556840749_5629554eb8_k.jpg)
 
 *Participants: Giles (organiser), Alec, Gregor, Mark*
 

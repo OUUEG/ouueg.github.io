@@ -5,7 +5,7 @@ author: ouuegoxford
 layout: page
 ---
 
-If you have any questions about OUUEG do not hesitate to [email our secretary](mailto:ouueg.secretary.com) or anyone from the [club committee](https://ouueg.com/about/committee/) – we are always happy to help and even if we do not know the answer we will find someone who does.
+If you have any questions about OUUEG do not hesitate to [email our secretary](mailto:secretary@ouueg.com) or anyone from the [club committee](https://ouueg.com/about/committee/) – we are always happy to help and even if we do not know the answer we will find someone who does.
 
 ## Mailing list
 
