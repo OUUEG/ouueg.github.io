@@ -32,4 +32,4 @@ Another requirement is that you can **swim** and is confident in the water. This
 
 If you have any questions, don’t hesitate to get in touch with our Diving Officer at divingofficer@ouueg.com. A declaration form needs to be completed prior to the try dive.
 
-Looking for the latest news? Please join the[ mailing list ](https://ouueg.com/membership/join/)for more details!
+Looking for the latest news? Please join the[ mailing list ](/membership/join)for more details!

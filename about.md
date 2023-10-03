@@ -11,11 +11,11 @@ The club is a recognised [University Sports club ](https://www.sport.ox.ac.uk/un
 
 OUUEG was founded in 1963 and is one of the oldest dive clubs in the UK. The club has a long history of diving all year round all over the UK and abroad.
 
-OUUEG has a lot of active members and offers diving that suits everyone, from beginners to more experienced divers. We teach diving and skills development courses at all levels, organise weekend trips throughout the diving season (mostly to the south coast where our club boat is currently based), as well as longer expeditions to more distant parts of the UK and abroad. New members are always welcome – you don’t need to be at the University to [join us](http://ouueg.com/membership/join/)!
+OUUEG has a lot of active members and offers diving that suits everyone, from beginners to more experienced divers. We teach diving and skills development courses at all levels, organise weekend trips throughout the diving season (mostly to the south coast where our club boat is currently based), as well as longer expeditions to more distant parts of the UK and abroad. New members are always welcome – you don’t need to be at the University to [join us](/membership/join)!
 
 ### Equipment
 
-The club is fortunate enough to have enough SCUBA equipment to accommodate even our larger expeditions. All equipment is stored in our kit hut at the Iffley Sports Centre. Club members can hire equipment for their dive trips ([see here for details](https://ouueg.com/diving/club-equipment/)).
+The club is fortunate enough to have enough SCUBA equipment to accommodate even our larger expeditions. All equipment is stored in our kit hut at the Iffley Sports Centre. Club members can hire equipment for their dive trips ([see here for details](/diving/club-equipment)).
 
 ### Seahorse – our club boat
 

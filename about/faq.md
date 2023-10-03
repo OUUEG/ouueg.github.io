@@ -11,7 +11,7 @@ Joining OUUEG is a very easy three step process. Please find all information on 
 
 #### I’m not a qualified diver. Can I still join?
 
-Yes you can! We run some [try dives](/diving/try/) and offer [entry-level training](https://ouueg.com/training/learn-to-dive/) every year.
+Yes you can! We run some [try dives](/diving/try) and offer [entry-level training](/training/learn-to-dive) every year.
 
 #### I’m already a qualified diver.
 

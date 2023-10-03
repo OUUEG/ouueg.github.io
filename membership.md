@@ -37,7 +37,7 @@ BSAC membership fee is approximately:
 - £42 for Full Diving Members.
 - Advanced Divers or Instructors might pay cheaper BSAC rates.
 
-## Next: [Join us!](https://ouueg.com/membership/join/)
+## Next: [Join us!](/membership/join/)
 
 If you have any questions then get in touch with our diving officer via [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com).
 

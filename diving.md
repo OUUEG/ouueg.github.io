@@ -29,6 +29,6 @@ OUUEG trips are based around weekend trips away, staying in comfortable, heated 
 
 Adventurous expedition diving in remote areas of Scotland and islands such as the Isle of White, Lundy and the Shetlands provide endless challenges for the more advanced diver. OUUEG gets involved in wreck penetration, photography, videography, nautical archaeology and marine biology projects.
 
-If you’d like to come on an OUUEG trip, why don’t you check out our [calendar](https://ouueg.com/events/ "Calendar"). And if you’d like to make a suggestion of somewhere you’d like to visit in particular, you can contact our [expeditions officer](http://ouueg.com/contact/ "Contacts"). If you’re even ready to plan a trip yourself, check out our [guide](http://ouueg.com/dive-trips/how-do-i-plan-a-trip/ "How do I plan a trip?").
+If you’d like to come on an OUUEG trip, why don’t you check out our [calendar](https://calendar.google.com/calendar/embed?src=ouueg.website%40gmail.com&ctz=Europe%2FLondon). And if you’d like to make a suggestion of somewhere you’d like to visit in particular, you can contact our [expeditions officer](/about/committee). If you’re even ready to plan a trip yourself, check out our [guide](/diving/how-do-i-plan-a-trip/ "How do I plan a trip?").
 
-To get an idea of what trips are like, check out the [reports](https://ouueg.com/topics/expedition-reports/) from past trips as well as pictures in our [flickr! gallery](http://www.flickr.com/photos/ouueg/ "flickr! gallery").
+To get an idea of what trips are like, check out the reports from past trips as well as pictures in our [flickr! gallery](http://www.flickr.com/photos/ouueg/ "flickr! gallery").

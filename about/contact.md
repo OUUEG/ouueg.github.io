@@ -5,7 +5,7 @@ author: ouuegoxford
 layout: page
 ---
 
-If you have any questions about OUUEG do not hesitate to [email our secretary](mailto:secretary@ouueg.com) or anyone from the [club committee](https://ouueg.com/about/committee/) – we are always happy to help and even if we do not know the answer we will find someone who does.
+If you have any questions about OUUEG do not hesitate to [email our secretary](mailto:secretary@ouueg.com) or anyone from the [club committee](/about/committee) – we are always happy to help and even if we do not know the answer we will find someone who does.
 
 ## Mailing list
 
@@ -25,6 +25,6 @@ You can find OUUEG on [Facebook](https://www.facebook.com/groups/ouueg/ "OUUEG o
 
 ## Calendars
 
-Both diving and social activities are put in the [calendar](http://ouueg.com/calendar/ "Calendar") so have a look at it to see what’s already planned.
+Both diving and social activities are put in the [calendar](https://calendar.google.com/calendar/embed?src=ouueg.website%40gmail.com&ctz=Europe%2FLondon) so have a look at it to see what’s already planned.
 
 Please send your contact details to our [membership officer](mailto:membership@ouueg.com) to be added to our low traffic alumni mailings.

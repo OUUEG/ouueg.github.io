@@ -31,7 +31,7 @@ Not included in the package are expenses for training trips and drysuit hire. Pl
 
 ## Training schedule
 
-Ocean Diver and Sports Diver training happens at fixed dates each year: Ocean Diver and Sports Diver in Hilary term (January – March). Ocean Divers also *must* keep the easter break free to finish training. If you are thinking of doing a course please contact our [training officer](http://ouueg.com/contact/ "Contacts").
+Ocean Diver and Sports Diver training happens at fixed dates each year: Ocean Diver and Sports Diver in Hilary term (January – March). Ocean Divers also *must* keep the easter break free to finish training. If you are thinking of doing a course please contact our [training officer](/about/committee).
 
 We sometimes run a block course for Ocean Diver in spring/early summer so please register your interest now to get the invitation if you can not attend the upcoming Michaelmas training.
 
