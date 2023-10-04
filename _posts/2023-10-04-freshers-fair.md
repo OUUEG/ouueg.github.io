@@ -16,7 +16,7 @@ New to diving?
 * Join the club: <https://ouueg.com/membership/join>
 * Sign up for a try dive **this Friday** 6th October or Friday 13th October 17:45 -- 21:30: <https://forms.gle/fq7oe65CVQvziKuR8>
     * Meet at the Kit Hut @ Iffley Road Sports Centre
-* New member info weekend: Wednesday 11th October 19:00 @ Raptakos Seminar Room, St Catherine's College
+* New member info evening: Wednesday 11th October 19:00 @ Raptakos Seminar Room, St Catherine's College
 
 <!--more-->
 
