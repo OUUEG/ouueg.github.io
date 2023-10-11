@@ -24,9 +24,3 @@ The location is advertised in the mailing list, but you can always email our [so
 You can find OUUEG on [WhatsApp](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU).
 ![](/assets/images/qr.png)
 It’s a great way to be reminded of what’s happening soon in the club (be it a pub meeting, a dive trip or a training session) as well as to get your diving fix when you’re stuck in the office.
-
-## Calendars
-
-Both diving and social activities are put in the [calendar](https://calendar.google.com/calendar/embed?src=ouueg.website%40gmail.com&ctz=Europe%2FLondon) so have a look at it to see what’s already planned.
-
-Please send your contact details to our [membership officer](mailto:membership@ouueg.com) to be added to our low traffic alumni mailings.
