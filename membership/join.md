@@ -15,7 +15,7 @@ Let the committee know you have joined OUUEG by filling out the form below or vi
 
 <iframe frameborder="0" height="3570" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSc4GdngsGhICmGEX2DWVuWid562VF_zYtv3yi4oanTqE4TSpA/viewform?embedded=true" width="640">Loading…</iframe>
 
-\[Note\] If you have a problem filling out the form above, please email <treasurer@ouueg.com>:
+*Note*: If you have a problem filling out the form above, please email <treasurer@ouueg.com>:
 
 - Please CC secretary@ouueg.com and membership@ouueg.com
 - The subject line should be “NEW MEMBERSHIP \[NAME\] APP”
@@ -30,7 +30,7 @@ You can register your BSAC membership on the [BSAC membership website](https://w
 
 You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:divingofficer@ouueg.com)for further info.
 
-But don’t worry – the doctor can certify you as fit for diving unless there is a change in your medical condition. In practice, you’d probably only need to see the referee once and then submit a self-declaration every year alongside that initial certificate authorising you to do so.\[/idea\]
+But don’t worry – the doctor can certify you as fit for diving unless there is a change in your medical condition. In practice, you’d probably only need to see the referee once and then submit a self-declaration every year alongside that initial certificate authorising you to do so.
 
 **You are not insured to scuba dive with OUUEG until you provide us with a medical certificate.**
 
@@ -40,7 +40,7 @@ BSAC membership fee is **£33** for Student Members and from **£42** for Full D
 
 Most of the club activity is advertised via the mailing list. **To join please [click this link](mailto:sympa@maillist.ox.ac.uk?subject=subscribe%20ouueg)** or send an email to sympa@maillist.ox.ac.uk with the subject of “subscribe ouueg”. Alternatively, if you have an Oxford Single-Sign-On account, you can use the [web interface](https://web.maillist.ox.ac.uk/ox/subscribe/ouueg) to manage your subscription.
 
-### 4. Join the (unofficial!) [Whatsapp Group ](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU)
+### 4. Join the [WhatsApp group](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU)
 
 ![](/assets/images/qr.png)
 
@@ -49,7 +49,5 @@ Most of the club activity is advertised via the mailing list. **To join please [
 Every Wednesday evening (usually at 8:00 or 8:30 pm) we meet informally in various pubs for a pint and a chat and to discuss upcoming trips. The pub changes from week to week, so tune in via our mailing list to be updated.
 
 #### **Social media**
-
-Find us on Facebook here: [OUUEG – Oxford University Underwater Exploration Group](https://www.facebook.com/groups/ouueg/).
 
 We also have a Twitter account <https://twitter.com/OUUEG>

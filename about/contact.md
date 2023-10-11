@@ -21,7 +21,9 @@ The location is advertised in the mailing list, but you can always email our [so
 
 ## Social Media
 
-You can find OUUEG on [Facebook](https://www.facebook.com/groups/ouueg/ "OUUEG on Facebook") and you can follow our [Twitter](https://twitter.com/OUUEG) account. It’s a great way to be reminded of what’s happening soon in the club (be it a pub meeting, a dive trip or a training session) as well as to get your diving fix when you’re stuck in the office and we’re tweeting from wherever we’re at.
+You can find OUUEG on [WhatsApp](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU).
+![](/assets/images/qr.png)
+It’s a great way to be reminded of what’s happening soon in the club (be it a pub meeting, a dive trip or a training session) as well as to get your diving fix when you’re stuck in the office.
 
 ## Calendars
 
