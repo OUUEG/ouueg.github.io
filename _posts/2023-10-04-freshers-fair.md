@@ -8,7 +8,8 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-![](/assets/images/IMG-20231004-WA0000~2.jpg)
+![Mick's stall](/assets/images/IMG-20231004-WA0000~2.jpg){:height="800px"}
+*Mick's stall*
 
 Come see us at Fresher's fair!
 

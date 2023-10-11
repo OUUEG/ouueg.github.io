@@ -154,3 +154,11 @@ nav {
   }
 }
 
+img + em {
+  display: block;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
