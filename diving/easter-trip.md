@@ -1,5 +1,5 @@
 ---
-title: 'Easter Trip (2023)'
+title: 'Easter Trip (2024)'
 date: '2016-12-06T00:12:54+00:00'
 author: 'Marko Jung'
 layout: page
@@ -7,28 +7,28 @@ layout: page
 
 Every Easter, OUUEG goes to the beautiful south coast of Cornwall where there is abundant sealife such as scallops, crabs and seals, good value diving and a super fast club RHIB Seahorse, which you may have the chance to drive. Our main dive locations are Porthkerris and Mullion Cove (Porth Mellin). There’s excellent shore diving at both those places, and we’ll also use Seahorse to explore the nearby wrecks and reefs.
 
-## Easter Expedition 2023: Friday 31<sup>st</sup> March to Monday 10<sup>th</sup> April 2022
+## Easter Expedition 2024: Friday 29<sup>th</sup> March to Monday 8<sup>th</sup> April 2024
 
 ## Summary
 
-*Dates:* 31 March – 10 April 2023  
+*Dates:* 29 March – 8 April 2024  
 *Destination:* South Cornwall  
 *Accommodation:* Sea Acres, static caravans  
 Cost: Bills typically range from £200 to £400 for 7-10 days. This depends on your stay’s duration and how much diving you do.
 
-(may subject to change)
+(may be subject to change)
 
 ### Accommodation
 
-We will be staying in [Sea Acres Caravan Park](http://www.parkdeanholidays.co.uk/cornwall-holidays/sea-acres/sea-acres-holiday-park.htm) in static caravans. We aim to book three caravans with a maximum capacity of 6-8 each. If at full capacity (18-24 spaces), the accommodation works out below **£13 per person per night**.
+We will be staying in [Sea Acres Caravan Park](http://www.parkdeanholidays.co.uk/cornwall-holidays/sea-acres/sea-acres-holiday-park.htm) in static caravans. We aim to book three caravans with a maximum capacity of 6-8 each. If at full capacity (18-24 spaces), the accommodation works out below **£15 per person per night**.
 
 ### Transport
 
-We will be travelling in members’ own vehicles or possibly a minibus. We will definitively coordinate transport for the key travel days. Some people might decide to drive down to the Lizard on Saturday instead of Friday to avoid taking a day off work. This can usually be accommodated. Alternative travel dates are possible but you might end up with a higher transport bill.
+We will be travelling in members’ own vehicles or possibly a minibus. We will definitively coordinate transport for the key travel days. Some people might decide to drive down to the Lizard on Saturday instead of Friday to avoid taking a day off work (note: Friday 29th is Good Friday, so this is unlikely in 2024). This can usually be accommodated. Alternative travel dates are possible but you might end up with a higher transport bill.
 
 ### Diving and Diver Training
 
-The Easter trip is our annual training trip and is a great opportunity to get your Ocean Diver and Sports Diver open-water lessons done. If you’re already a qualified diver, then there is some lovely fun diving to be had and also opportunities for some higher-level training. This is your opportunity to get certified just in time for the next diving season. The trip is always fun- look on the club photo stream or Facebook page for pictures from past trips.
+This year's Easter trip is intended as a fun diving trip, but there may also be opportunities for training. The Easter trip is traditionally our annual training trip and is a great opportunity to get your Ocean Diver and Sports Diver open-water lessons done. If you’re already a qualified diver, then there is some lovely fun diving to be had and also opportunities for some higher-level training. This is your opportunity to get certified just in time for the next diving season. The trip is always fun- look on the club photo stream or Facebook page for pictures from past trips.
 
 We will be diving from [Porthkerris Beach](http://porthkerris.com/) and [Mullion Cove](https://en.wikipedia.org/wiki/Mullion_Cove). Porthkerris is a pebble beach that drops away fairly quickly to make an ideal training site. There is plenty of marine life around the rocks, and the visibility is usually good. Porthkerris has toilets, sheltered changing areas and a hot food cafe that serves fantastic cheesy chips, pastries and many other goodies. Weather dependent, we will be diving every day. Initially, you will be diving with an instructor, but as the week progresses and you finish your qualifications, you will be able to dive with each other and explore the reefs just off the beach.
 
@@ -130,16 +130,16 @@ This is not a complete list but please use your own common sense about how much 
 
 Please start thinking about your dive equipment immediately after registering for the expedition. There are some personal items you may want to source early second hand. We would highly recommend you attending a club pub night and get some invaluable advise from other members.
 
-As usual OUUEG equipment will be available for hire. For reference we provide the daily hire fee for each item below. **The maximum equipment hire fee excluding dry suits and extra cylinders is £10 per day.** However, with this being the largest expedition of the year, we are likely to rent out all our equipment. Ocean Diver students will be given priority for their qualification dives. Equipment will be assigned on a first-come, first-served basis based on the sign-up and payment of the deposit.
+As usual OUUEG equipment will be available for hire. For reference we provide the daily hire fee for each item below. **The maximum equipment hire fee excluding dry suits and extra cylinders is £25 per day.** However, with this being the largest expedition of the year, we are likely to rent out all our equipment. Ocean Diver students will be given priority for their qualification dives. Equipment will be assigned on a first-come, first-served basis based on the sign-up and payment of the deposit.
 
-- Regulator *– the club has 18 regulators for hire (£3).*
-- Cylinder  *– the club has over 30 cylinders available for hire (£2) A few cylinders are Oxygen clean for Nitrox.*
-- BCD (jacket or harness) *– the club has 20 BCDs for hire (£2.50).*
-- Dry suit (and under-suit if needed) *– the club has some dry suits available for hire (£10).*
+- Regulator *– the club has 18 regulators for hire (£6).*
+- Cylinder  *– the club has over 30 cylinders available for hire (£5) A few cylinders are Oxygen clean for Nitrox.*
+- BCD (jacket or harness) *– the club has 20 BCDs for hire (£5).*
+- Dry suit (and under-suit if needed) *– the club has some dry suits available for hire (£25).*
 - Hood, gloves *–* *you need to provide your own.*
 - Mask, fins *(open heel fins not shoe type) – you need to provide your own.*
-- Weight belt *– can be borrowed from the club (£1).*
-- Dive timer or dive computer *– we have a few timers for hire (£2), although we recommend getting your own computer.*
+- Weight belt *– can be borrowed from the club (£2).*
+- Dive timer or dive computer *– we have a few timers (£4) and computers (£6) for hire, although we recommend getting your own computer.*
 - Bag for storing kit in *– you need to provide your own. This is really important to keep your kit together in the kit storage van.*
 - BSAC qualification book *– you need to provide your own.*
 
@@ -148,10 +148,10 @@ Nice but not essential:
 - Dive knife/line cutter/shears *– you need to provide your own.*
 - Dive compass *– you need to provide your own.*
 - Snorkel *– can be borrowed from the club.*
-- DSMB with reel *– the club has a few reels with DSMBs for hire (£1.50). Sports Divers and above should consider providing their own.*
+- DSMB with reel *– the club has a few reels with DSMBs for hire (£2). Sports Divers and above should consider providing their own.*
 - Dive slate and pencil *– you need to provide your own.*
 - Diving torch *– you need to provide your own.*
-- 3l stage cylinder *– the club has a few pony cylinders for hire (£1.50). These are required for deeper dives as a redundant air source.*
+- 3l stage cylinder *– the club has a few pony cylinders for hire (£6 incl. reg and clamp, or £4 for reg or cylinder only). These are required for deeper dives as a redundant air source.*
 
 #### Other kit
 
