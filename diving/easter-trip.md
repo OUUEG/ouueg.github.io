@@ -7,24 +7,30 @@ layout: page
 
 Every Easter, OUUEG goes to the beautiful south coast of Cornwall where there is abundant sealife such as scallops, crabs and seals, good value diving and a super fast club RHIB Seahorse, which you may have the chance to drive. Our main dive locations are Porthkerris and Mullion Cove (Porth Mellin). There’s excellent shore diving at both those places, and we’ll also use Seahorse to explore the nearby wrecks and reefs.
 
+
 ## Easter Expedition 2024: Friday 29<sup>th</sup> March to Monday 8<sup>th</sup> April 2024
 
+
 ## Summary
+
 
 *Dates:* 29 March – 8 April 2024  
 *Destination:* South Cornwall  
 *Accommodation:* Sea Acres, static caravans  
-Cost: Bills typically range from £200 to £400 for 7-10 days. This depends on your stay’s duration and how much diving you do.
+Cost: Bills typically range from £300 to £500 for 7-10 days. This depends on your stay’s duration and how much diving you do.
 
 (may be subject to change)
+
 
 ### Accommodation
 
 We will be staying in [Sea Acres Caravan Park](http://www.parkdeanholidays.co.uk/cornwall-holidays/sea-acres/sea-acres-holiday-park.htm) in static caravans. We aim to book three caravans with a maximum capacity of 6-8 each. If at full capacity (18-24 spaces), the accommodation works out below **£15 per person per night**.
 
+
 ### Transport
 
 We will be travelling in members’ own vehicles or possibly a minibus. We will definitively coordinate transport for the key travel days. Some people might decide to drive down to the Lizard on Saturday instead of Friday to avoid taking a day off work (note: Friday 29th is Good Friday, so this is unlikely in 2024). This can usually be accommodated. Alternative travel dates are possible but you might end up with a higher transport bill.
+
 
 ### Diving and Diver Training
 
@@ -32,11 +38,13 @@ This year's Easter trip is intended as a fun diving trip, but there may also be 
 
 We will be diving from [Porthkerris Beach](http://porthkerris.com/) and [Mullion Cove](https://en.wikipedia.org/wiki/Mullion_Cove). Porthkerris is a pebble beach that drops away fairly quickly to make an ideal training site. There is plenty of marine life around the rocks, and the visibility is usually good. Porthkerris has toilets, sheltered changing areas and a hot food cafe that serves fantastic cheesy chips, pastries and many other goodies. Weather dependent, we will be diving every day. Initially, you will be diving with an instructor, but as the week progresses and you finish your qualifications, you will be able to dive with each other and explore the reefs just off the beach.
 
+
 ### Future Sign-up
 
-Whilst we need lots of enthusiastic new divers, realistically, we also need people who can drive the boat, sufficient instructors, and those who can tow the boat to Cornwall. Allocation of spaces, therefore, is not necessarily on a first-come, first-served basis, but on the basis of us being able to run the trip smoothly. It is also preferable that you stay as long as possible to prevent too much swapping over, but we appreciate that some may wish to stay only one weekend. Traditionally the first weekend and weekdays are reserved for training, and the Easter Bank Holiday weekend is reserved for fun diving only. A deposit (100 pounds) will be requested later on.
+Whilst we need lots of enthusiastic new divers, realistically, we also need people who can drive the boat, sufficient instructors, and those who can tow the boat to Cornwall. Allocation of spaces, therefore, is not necessarily on a first-come, first-served basis, but on the basis of us being able to run the trip smoothly. It is also preferable that you stay as long as possible to prevent too much swapping over, but we appreciate that some may wish to stay only one weekend. Traditionally the first weekend and weekdays are reserved for training, and the Easter Bank Holiday weekend is reserved for fun diving only. A deposit (£200) will be requested after registering.
 
 *The sooner you pay your deposit, the higher priority you get on the kit and beds!*
+
 
 # Expedition Manual
 
@@ -47,6 +55,7 @@ The Easter trip is the club’s largest expedition and the first one many new me
 - [What to bring? Dive kit, OUUEG equipment hire, and other useful stuff.](#what-to-bring)
 - [Who’s Who – roles helping us to organise the chaos](#whos-who)
 - [Diving Routines](#dive-routines)
+
 
 ## A typical day
 
@@ -59,6 +68,7 @@ As soon as you return from a dive, break your kit up and either put your tank in
 If you go to get food, let the Dive Manager or their assistant know that you are going so that they can get you if they need you. They need to know where you are at all times. Even having asked the DM if you can go for food, it is a good idea to put a note on the blackboard saying where you have gone.
 
 And be ready ahead of time, or the boat will leave without you. The overall plan, times of waves, what dive you are doing, who you are doing it with, or what job you have if you’re not diving will be on the blackboard, which will look something like the table below. If you are unsure when you are next diving, ask the Dive Manager.
+
 
 ### Example of Timings
 
@@ -79,11 +89,13 @@ And be ready ahead of time, or the boat will leave without you. The overall plan
 
 There will likely be a meal out one night (probably either in St. Keverne or Porthallow). There will be fancy dress one night (probably the Saturday of the Easter weekend) the theme will not be decided until we’re down in Cornwall. There may be a walk along the cliff path to the pub at Cadwith one night.
 
+
 ## Safety
 
 Diving can be a dangerous sport if not done properly, and it requires all participants to be “dive fit”. It is the responsibility of each diver to make sure that they are fit to dive. If you are unsure if you are fit to dive, please ask an instructor who can advise you.
 
 All divers should plan to reach the surface with at least 50 bar of breathing gas remaining. This does not mean that you should miss stops if you still have gas remaining.
+
 
 ### Avoiding DCI
 
@@ -99,6 +111,7 @@ All divers should plan to reach the surface with at least 50 bar of breathing ga
 
 **Don’t take drugs.** Legal or illegal- hard or soft – prescription or off-the-shelf – if you are taking or have taken drugs on the trip – first don’t dive – second consult the DO.
 
+
 ### What are the symptoms of Decompression Illness (DCI)?
 
 The symptoms of DCI include the following:
@@ -112,19 +125,23 @@ The symptoms of DCI include the following:
 
 If at any time you feel unwell, tell someone at the earliest opportunity. We would rather have a false alarm than a case of DCI getting worse.
 
+
 ### Emergency information
 
 Emergency services: 999 or 112 (mobile phones)  
 Falmouth Coastguard: 01326 317 575 / VHF channel 16  
 Diving Diseases Research Centre: 01752 209 999
 
+
 ### Diver recall
 
 3 loud bangs or 3 big tugs on an SMB means: proceed to surface taking all stops.
 
+
 ## What to bring?
 
 This is not a complete list but please use your own common sense about how much stuff to bring, there is not a lot of storage space in caravans.
+
 
 #### Dive Kit
 
@@ -153,6 +170,7 @@ Nice but not essential:
 - Diving torch *– you need to provide your own.*
 - 3l stage cylinder *– the club has a few pony cylinders for hire (£6 incl. reg and clamp, or £4 for reg or cylinder only). These are required for deeper dives as a redundant air source.*
 
+
 #### Other kit
 
 - Scruffy, warm, old clothes and fleece, gloves, and a hat.
@@ -170,35 +188,44 @@ Nice but not essential:
 - Alternatively bring a card or board game for a day with bad weather or the evenings.
 - Mobile phone and charger, though reception is very bad. Orange tends to get best reception though most other networks work on the beach.
 
+
 ## Who’s Who
+
 
 ### The Dive Manager (DM)
 
 This is person who has responsibility for running a particular day. If you are a Dive Leader Trainee you should do this on one of the days you are on ET. They will know the plan for the day and how it is evolving. Make their lives easier by being ready ahead of time and letting them know asap if you have a problem be it that you don’t like who you’ve been paired with, that you’re cold and aren’t going to do any more diving or that you are missing out on a dive or some training that you particularly want to do. The DM for next day is usually chosen before we leave the beach and the planning for the next day takes place that evening, so if you have a request, or know you will not be diving, you need to let the DM know early on that evening.
 
+
 ### The Assistant Dive Manager (ADM)
 
 Assists the DM in planning and then running the day. There may be more than one. They usually have a good idea of the plan, but won’t usually make decisions to change it. If you are a Sports Diver Trainee you need to do this one day on ET. You can still do it even if you are doing Ocean Diver and want to see how the planning is done.
+
 
 ### Boat Handlers or Coxswains (BH)
 
 This is the person responsible for managing the boat and what happens within it. When you are on the boat they are in charge. They will have completed the boat handling or diver coxswain course. There will usually be a different boat handler for each wave, the person handling on wave 1 will prep the boat and the person on the last wave will de-kit it.
 
+
 ### Assistant Boat Handlers (ABH)
 
 They are assigned to help the boat handler and need not have any boat handling training, so this could be you. They will help to prep the boat before wave 1 and when it is launched follow the tractor up the beach to unhitch the trailer. Whilst the boat is out they will assist divers with kitting up and any other admin which needs doing on the boat. They are often made responsible for logging the dives.
+
 
 ### Shore Cover (SC)
 
 If you are assigned to be shore cover (the people doing it will change throughout the day) you should be at the water’s edge helping divers on with their fins, washing their masks, etc. and then helping them into the water. When they return from the dive you should help them out, to take their fins off and may help them carry their kit up the beach if there are no other divers needing assistance.
 
+
 ### Shore Watch (SW)
 
 The role of shore watch is to know where all of our divers in the water off the beach are at any time. You will also be responsible for the dive log sheets (Divers going into and coming out of the water must sign out and in with you) and for transcribing the boat log slates onto the log sheets.\[/vc\_column\_text\]\[vc\_column\_text\]
 
+
 ## Dive Routines
 
 We keep all our equipment nicely close together and try not to spread out too much on the dive site to leave space for other visitors. This will also ease packing up and cleaning up the site in the evenings.
+
 
 ### Gas management
 
@@ -211,6 +238,7 @@ Cylinders are being kept together in piles based on their pressure and gas conte
 
 We try not to keep a large pile of empty cylinders, so please help take empty cylinders to the fill station, and bring the full ones back!
 
+
 ### Nitrox
 
 If you wish to dive on Nitrox then please show the DM your Nitrox Card. They will put an ‘N’ next to your name. This will allow you to use Nitrox in the club environment under the following rules:
@@ -222,6 +250,7 @@ If you wish to dive on Nitrox then please show the DM your Nitrox Card. They wil
 - You will be invoiced for Nitrox in the same way as all other tanks to make life simpler. Nitrox tanks up to 40% will cost £5 per tank.
 
 Do not use any tank with Nitrox written on it unless you are Nitrox qualified.
+
 
 ### Writing a dive log
 
