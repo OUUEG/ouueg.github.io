@@ -8,7 +8,7 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-![](/assets/images/20240818_072204.jpg)
+![](/assets/images/north-norfolk-2024-08-18/20240818_072204.jpg)
 
 Diving in the ocean for the first time was simply incredible. An entire other
 world exists beneath the waves that works in entirely different ways, and to be
@@ -36,7 +36,7 @@ club trips over the next few years!
 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/K657Mo5YT-E" frameborder="0" allowfullscreen> </iframe>
 
-![](/assets/images/20240818_162752_045.jpg)
+![](/assets/images/north-norfolk-2024-08-18/20240818_162752_045.jpg)
 
 
 
