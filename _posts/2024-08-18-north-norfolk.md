@@ -35,7 +35,6 @@ course has been a damn good time. I’m now looking forward to joining many of t
 club trips over the next few years!
 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/K657Mo5YT-E" frameborder="0" allowfullscreen> </iframe>
-On August 10th, 1915, steam ship Rosalie, on a voyage from Tyne to San Francisco, was sunk by the German submarine UB-10.
 
 ![](/assets/images/20240818_162752_045.jpg)
 
