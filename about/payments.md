@@ -7,6 +7,6 @@ layout: page
 
 ## Bank Account
 
-In order to make a payment to OUUEG please contact the Treasurer at treasurer@ouueg.com.
+In order to make a payment to OUUEG please email the [Treasurer](treasurer@ouueg.com).
 
 We are working to make payments more streamlined and user friendly.
