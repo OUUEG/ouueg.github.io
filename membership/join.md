@@ -9,16 +9,34 @@ We accept novices and already-qualified divers alike. If you’ve never dived be
 
 Regardless, start your underwater adventure by following these three easy steps. Any questions, then [get in contact](/about/contact).
 
-### 1. Register online with OUUEG
+### 1. Register with OUUEG
 
-Let the committee know you have joined OUUEG by filling out the form below or via [the link](https://forms.gle/1wX1bJWmMmgGuTZF6): <https://forms.gle/1wX1bJWmMmgGuTZF6>
+Let the Membership secretary know you have joined OUUEG by e-mail to membership@ouueg.com. Please copy the treasurer into you e-mail <treasurer@ouueg.com>.
 
-<iframe frameborder="0" height="3570" loading="lazy" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSc4GdngsGhICmGEX2DWVuWid562VF_zYtv3yi4oanTqE4TSpA/viewform?embedded=true" width="640">Loading…</iframe>
-
-*Note*: If you have a problem filling out the form above, please email <treasurer@ouueg.com>:
-
-- Please CC secretary@ouueg.com and membership@ouueg.com
 - The subject line should be “NEW MEMBERSHIP \[NAME\] APP”
+
+You Email should include:
+
+1. First Name
+2. Last Name
+3. Contact Email Address
+4. If applicable, your university single sign-on (SSO)
+5. The type of your membership [Student (£55), Instructor (£55), Full (£77), Honorary]
+6. If you did a try dive and pay £30 please give the relevant date so we can check our records for the £30 membership discount.
+7. What is your University of Oxford affiliation [Stduent/Staff/Alumnus/No affiliation/other]
+8. Your BSAC membership number (if you already have one)
+9. If applicable, current diving qualification (e.g. PADI Open Water, BSAC Sports Diver, etc.)
+10. Are you a qualified instructor?
+11. Are you Nitrox qualified?
+12. Are you drysuit qualified?
+13. What is your Maximum Qualified Depth (m)?
+
+Please pay your membership fee via bank transfer to     
+
+    Account Name: Oxford University Underwater Exploration Group
+    Sort Code: 54-21-23
+    Account Number: 24555215
+    Reference: “[NAME] MEMBERSHIP APP”
 
 ### 2. Register online with BSAC
 
