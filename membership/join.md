@@ -1,7 +1,7 @@
 ---
 title: 'Join the Club'
-date: '2014-09-06T19:32:38+01:00'
-author: 'Marko Jung'
+date: '2024-09-19'
+author: 'Kirill Palamartchouk'
 layout: page
 ---
 
@@ -12,8 +12,13 @@ Regardless, start your underwater adventure by following these three easy steps.
 
 ### 1. Register with OUUEG
 Fill in the OUUEG Membership Form 2024–25:
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
+  }
+</script>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTMYwVPjBwzzRRb2h6QOgRZjV65utGmzS9PDdF_4_8i0x4UQ/viewform?embedded=true" 
-  width="95%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  width="95%" height="100%" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" onload="resizeIframe(this)" >Loading…</iframe>
 
 ### 2. Register with BSAC
 
