@@ -3,8 +3,10 @@
   <div class="wrapper px-6 md:container flex mx-auto items-center justify-between gap-4">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign toplevel = site.pages | where: "dir", "/" | where_exp: "page", "page.path != 'feed.xml'" | where_exp: "page", "page.path != 'index.html'" -%}
-    <p><img src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:80px;"><a class="site-title h-full flex-1 flex-nowrap hidden xl:block" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></p>
-    <p><img src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:80px;"><a class="site-title h-full flex-1 flex-nowrap xl:hidden" rel="author" href="{{ "/" | relative_url }}">      OUUEG                    </a></p>
+    <p><img src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:80px;">
+        <a class="site-title h-full flex-1 flex-nowrap hidden xl:block" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="site-title h-full flex-1 flex-nowrap xl:hidden" rel="author" href="{{ "/" | relative_url }}">      OUUEG                    </a>
+    </p>
     <nav class="site-nav relative h-full max-w-7xl px-2 sm:px-6 lg:px-8">
       <aside class="md:hidden h-full flex-1 justify-end">
         <h2 class="sr-only" id="mobile-navigation">
