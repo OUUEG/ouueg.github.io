@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ouueg.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 flickr_username: ouueg
-facebook_username: ouueg
+facebook_groupname: ouueg
 instagram_username: oxforduniversityueg
 
 # Build settings
