@@ -3,8 +3,8 @@
   <div class="wrapper px-6 md:container flex mx-auto items-center justify-between gap-4">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign toplevel = site.pages | where: "dir", "/" | where_exp: "page", "page.path != 'feed.xml'" | where_exp: "page", "page.path != 'index.html'" -%}
-    <a class="site-title h-full flex-1 flex-nowrap hidden xl:block" rel="author" href="{{ "/" | relative_url }}"><span class="space-x-3"><img class="inline" src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">{{ site.title | escape }}</span></a>
-    <a class="site-title h-full flex-1 flex-nowrap xl:hidden"       rel="author" href="{{ "/" | relative_url }}"><span class="space-x-3"><img class="inline" src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">OUUEG                    </span></a>
+    <a class="site-title h-full flex-1 flex-nowrap hidden xl:block" rel="author" href="{{ "/" | relative_url }}"><span><img class="inline" src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">{{ site.title | escape }}</span></a>
+    <a class="site-title h-full flex-1 flex-nowrap xl:hidden"       rel="author" href="{{ "/" | relative_url }}"><span><img class="inline" src="/assets/images/ouueg-button.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">OUUEG                    </span></a>
 
     <nav class="site-nav relative h-full max-w-7xl px-2 sm:px-6 lg:px-8">
       <aside class="md:hidden h-full flex-1 justify-end">
