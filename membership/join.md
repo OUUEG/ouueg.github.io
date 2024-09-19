@@ -13,7 +13,7 @@ Regardless, start your underwater adventure by following these three easy steps.
 ### 1. Register with OUUEG
 Fill in the OUUEG Membership Form 2024–25:
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTMYwVPjBwzzRRb2h6QOgRZjV65utGmzS9PDdF_4_8i0x4UQ/viewform?embedded=true" 
-  style='height: 100%; width: 100%;' frameborder="0" scrolling="no" marginheight="0" marginwidth="0">Loading…</iframe>
+  width="95%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### 2. Register with BSAC
 
