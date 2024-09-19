@@ -55,4 +55,6 @@ Every Wednesday evening (usually at 8:00 or 8:30 pm) we meet informally in vario
 
 #### **Social media**
 
-We also have a Twitter account <https://twitter.com/OUUEG>
+We also have a [Facebook](https://www.facebook.com/groups/ouueg) and
+[Instagram](https://www.instagram.com/oxforduniversityueg) presence. There may
+not be that much activity there, but we hope you join and help us fix it!
