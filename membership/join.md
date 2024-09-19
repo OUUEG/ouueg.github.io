@@ -5,38 +5,14 @@ author: 'Marko Jung'
 layout: page
 ---
 
-We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/diving/try). If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).
+We accept novices and already-qualified divers alike. If you’ve never dived before then check out our [try dives](/diving/try).
+If you’ve qualified with a non-BSAC agency then check out the [cross-over page](/membership/crossing-over).
 
 Regardless, start your underwater adventure by following these three easy steps. Any questions, then [get in contact](/about/contact).
 
 ### 1. Register with OUUEG
 
-Let the Membership secretary know you have joined OUUEG by e-mail to membership@ouueg.com. Please copy the treasurer into you e-mail <treasurer@ouueg.com>.
-
-- The subject line should be “NEW MEMBERSHIP \[NAME\] APP”
-
-You Email should include:
-
-1. First Name
-2. Last Name
-3. Contact Email Address
-4. If applicable, your university single sign-on (SSO)
-5. The type of your membership [Student (£55), Instructor (£55), Full (£77), Honorary]
-6. If you did a try dive and pay £30 please give the relevant date so we can check our records for the £30 membership discount.
-7. What is your University of Oxford affiliation [Stduent/Staff/Alumnus/No affiliation/other]
-8. Your BSAC membership number (if you already have one)
-9. If applicable, current diving qualification (e.g. PADI Open Water, BSAC Sports Diver, etc.)
-10. Are you a qualified instructor?
-11. Are you Nitrox qualified?
-12. Are you drysuit qualified?
-13. What is your Maximum Qualified Depth (m)?
-
-Please pay your membership fee via bank transfer to     
-
-    Account Name: Oxford University Underwater Exploration Group
-    Sort Code: 54-21-23
-    Account Number: 24555215
-    Reference: “[NAME] MEMBERSHIP APP”
+Fill in the [OUUEG Membership Form 2024–25](https://forms.gle/T2T15V4LXVWMDGe2A).
 
 ### 2. Register online with BSAC
 
@@ -46,13 +22,21 @@ You can register your BSAC membership on the [BSAC membership website](https://w
 
 **Make sure you fill out the Medical Declaration Form also online during the registration process on [BSAC.com](https://www.bsac.com).** **If you answered “yes” to any of the questions, you must seek advice from a medical referee before you dive.**
 
-You may need additional paperwork to dive. Please find more information about this including an up-to-date list of medical referees on the [BSAC Medical Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our Diving Officer ](mailto:divingofficer@ouueg.com)for further info.
+You may need additional paperwork to dive. Please find more information about
+this including an up-to-date list of medical referees on the [BSAC Medical
+Matters pages](http://www.bsac.com/medicalmatters/). You can also [contact our
+Diving Officer ](mailto:divingofficer@ouueg.com)for further info.
 
-But don’t worry – the doctor can certify you as fit for diving unless there is a change in your medical condition. In practice, you’d probably only need to see the referee once and then submit a self-declaration every year alongside that initial certificate authorising you to do so.
+But don’t worry – the doctor can certify you as fit for diving unless there is a
+change in your medical condition. In practice, you’d probably only need to see
+the referee once and then submit a self-declaration every year alongside that
+initial certificate authorising you to do so.
 
 **You are not insured to scuba dive with OUUEG until you provide us with a medical certificate.**
 
-BSAC membership fee is **£33** for Student Members and from **£42** for Full Diving Members. Advanced Divers or Instructors might pay cheaper BSAC rates. Please refer to the BSAC website for accurate information.
+BSAC membership fee is **£37** for Student Members and from **£68.50** for new
+Full Diving Members. Advanced Divers or Instructors might pay cheaper BSAC
+rates. Please refer to the BSAC website for accurate information.
 
 ### 3. Join the mailing list
 
