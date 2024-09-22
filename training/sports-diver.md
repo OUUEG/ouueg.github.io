@@ -15,7 +15,7 @@ If you have any questions about those courses please [contact our training offic
 
 ## Sports Diver Training Package
 
-### £50
+### £50 (2023-24)
 
 Our Sports Diver package includes all BSAC learning materials, seven theory lessons, one instructed pool training dives, and most importantly an excellent opportunity to build up more skills, experience and confidence in diving.
 
