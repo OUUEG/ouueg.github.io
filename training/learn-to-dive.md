@@ -17,7 +17,7 @@ The initial practical lessons will take place at local Oxford pools with enough 
 
 ## Ocean Diver Pack
 
-### £275
+### £275 (2023-24)
 
 Flat training fee
 
