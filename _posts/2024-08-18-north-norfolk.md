@@ -1,5 +1,5 @@
 ---
-title: My first sea dives. North Norfolk, 18 August 2024
+title: My first sea dives. North Norfolk
 date: 2024-08-18
 author: Corey Lehmann
 layout: post
@@ -34,10 +34,6 @@ me and share their passion for the wonders of the underwater world. The entire
 course has been a damn good time. I’m now looking forward to joining many of the
 club trips over the next few years!
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/K657Mo5YT-E" frameborder="0" allowfullscreen> </iframe>
+<iframe width="680" height="383" src="https://www.youtube.com/embed/K657Mo5YT-E" frameborder="0" allowfullscreen> </iframe>
 
 ![](/assets/images/north-norfolk-2024-08-18/20240818_162752_045.jpg)
-
-
-
-
