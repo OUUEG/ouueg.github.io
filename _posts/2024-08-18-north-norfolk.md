@@ -8,7 +8,8 @@ categories:
 excerpt_separator: <!--more-->
 ---
 
-![](/assets/images/north-norfolk-2024-08-18/20240818_072204.jpg)
+![Sheringham Esplanade](/assets/images/north-norfolk-2024-08-18/20240818_072204.jpg)
+*Sheringham Esplanade*
 
 Diving in the ocean for the first time was simply incredible. An entire other
 world exists beneath the waves that works in entirely different ways, and to be
@@ -35,5 +36,7 @@ course has been a damn good time. I’m now looking forward to joining many of t
 club trips over the next few years!
 
 <iframe width="680" height="383" src="https://www.youtube.com/embed/K657Mo5YT-E" frameborder="0" allowfullscreen> </iframe>
+*OUUEG divers on the wreck of Steam Ship Rosalie*
 
 ![](/assets/images/north-norfolk-2024-08-18/20240818_162752_045.jpg)
+*The Team*
