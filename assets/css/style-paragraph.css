@@ -1,0 +1,12 @@
+---
+---
+
+// inter-paragraph spacing
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.post-conent {
+    padding: 35px;
+}
