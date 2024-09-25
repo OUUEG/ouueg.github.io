@@ -12,7 +12,6 @@ img {
   margin: auto;
 }
 
-.post-conent {
-    padding: 35px;
+.post-conent p {
+    padding: 3ex;
 }
-
