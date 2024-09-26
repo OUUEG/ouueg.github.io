@@ -5,6 +5,7 @@
     "tailwindcss": "^3.3.5"
   },
   "dependencies": {
+    "braces": "^3.0.3",
     "postcss-cli": "^10.1.0"
   }
 }
