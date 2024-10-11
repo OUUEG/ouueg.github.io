@@ -24,3 +24,17 @@ img {
 .post-content li {
   padding-bottom: 2ex;
 }
+
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #2020E0;
+}
+a:visited {
+  color: #5050B0;
+}
+a:hover {
+  color: #8080FF;
+}
