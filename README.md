@@ -1,4 +1,7 @@
 ### OUUEG website
+## Source code:
+https://github.com/OUUEG/ouueg.github.io
+
 ## Hosted as
 https://ouueg.github.io, redirection: https://ouueg.com
 
