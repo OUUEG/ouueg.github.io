@@ -122,15 +122,10 @@ Hire fees for kit hire are set out below. These are per day, per item used (e.g.
 - **Full Kit (excl. Suits and Ponys):** £25/day
 - **Full Kit (incl. Dry Suit, Boots, Undersuit):** £40/day
 
-### Boat use
-
-Use of our boat Seahorse is charged at £35/day, to cover the cost of fuel and maintenance.
-
 ### Flat rate
 
-Save on equipment hire and boat costs by paying upfront for the whole year!
+Save on equipment hire by paying upfront for the whole year!
 
-- **Boat flat rate:** £125
 - **Kit flat rate:** £125, or £70 from the beginning of the academic year until Easter and £80 for the summer thereafter.
 
 ## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <kit@ouueg.com>.

@@ -13,9 +13,10 @@ For the past few years she has been based in Plymouth and the club offers as muc
 
 Seahorse is a fabulous asset for any dive club, especially a university club, and gives us the flexibility to go where we want when we want. Using the boat adds so much more to diving. Of course, we need people to drive and tow the boat. If you know how to handle a boat then you will already know how much fun it is. If you don’t already have any experience of boat driving then we can teach you.
 
-#### Sea Elephant
+Use of our boat Seahorse is charged at £25/day, to cover the cost of maintenance. Boat fuel is the responsibility of the divers. Divers must always leave the tank and one spare canister full.
 
-We are also in the process of rehabilitating Sea Elephant. Despite the name elephant she is Seahorse’s smaller sister (named Elephant as she is grey). She had fallen into disrepair but is now fixed and ready to go, all that remains are sea trials ….for anyone brave enough! She is an inflatable boat about 13ft long capable of accommodating ~4 divers. The beauty of Sea Elephant is that she can be packed away in a car boot and thus is far easier to transport, enabling us to dive a greater range of sites.
+If you plan to frequently dive from Seahorse, take the advanvage of the **Boat flat rate:** £125 per academic year.  Save on the boat costs by paying upfront for the whole year!
+
 
 ## Checklists for Seahorse
 
