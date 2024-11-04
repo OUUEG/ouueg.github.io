@@ -7,7 +7,7 @@ https://ouueg.github.io, redirection: https://ouueg.com
 
 ## To serve locally
 ```
-bundle exec jekyll serve --port 4545
+bundle exec jekyll serve --watch --port 4545
 ```
 
 ## Define styles in
