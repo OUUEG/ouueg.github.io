@@ -83,7 +83,7 @@ layout: page
     - Cylinders**,** which should be placed at the back of the hut near the tools and table.
 49. If the repair is urgent, or the damage is severe, contact the Kit Officer.
 
-## Equipment Hire Fees (updated September 2023)
+## Equipment Hire Fees (updated October 2024)
 
 Hire fees for kit hire are set out below. These are per day, per item used (e.g. two regulators used would be charged as two items). It is the trip organiser’s responsibility to collect the money owed for the trip and pay it directly to the treasurer.
 
