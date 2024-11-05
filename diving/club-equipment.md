@@ -122,10 +122,11 @@ Hire fees for kit hire are set out below. These are per day, per item used (e.g.
 - **Full Kit (excl. Suits and Ponys):** £25/day
 - **Full Kit (incl. Dry Suit, Boots, Undersuit):** £40/day
 
-### Flat rate
+### Kit flat rate
 
 Save on equipment hire by paying upfront for the whole year!
 
-- **Kit flat rate:** £125, or £70 from the beginning of the academic year until Easter and £80 for the summer thereafter.
+Kit flat rate: £125, allowing unlimited kit hire for the full year (from 1st of October to 30th of September inclusively),
+excluding drysuits and pony cylinders. Drysuit hire is reduced to £15/day with the kit flat rate.
 
 ## In case you have any questions or comments please don’t hesitate to contact our Kit Officer at <kit@ouueg.com>.
