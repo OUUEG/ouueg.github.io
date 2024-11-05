@@ -83,26 +83,6 @@ layout: page
     - Cylinders**,** which should be placed at the back of the hut near the tools and table.
 49. If the repair is urgent, or the damage is severe, contact the Kit Officer.
 
-### Pub Fines
-
-Pub fines are in place to ensure these rules are met. These are payable to the Kit Officer or committee member who noticed the transgression at his/her discretion. These fines are judged on how annoying it is to sort out or the seriousness the safety violation.
-
-- **Messy regulators:** Some Peanuts
-- **Missing dustcap off regulators:** A pint and a massive apology
-- **BCD hanging the wrong way:** A packet of crisps
-- **BCD full of water:** A pint (as well as getting wet emptying it)
-- **Fins not racked neatly:** Pork scratchings
-- **Weights not removed from weightbelt:** Half pint per block of weight
-- **Not labelling your cylinder pressure:** Some jelly babies
-- **A messy/dirty hut:** At least a pint
-- **Item not put back in the right place:** A flapjack
-- **Drying stuff on the wrong rail:** A packet of crisps
-- **Dirty club kit:** At least a pint
-- **Putting something on the wrong hanger:** Half a pint
-- **Endangering yourself by standing on the racks:** Half a pint and maybe a broken neck
-- **Not filling out the sign out sheet:** 3 course meal with wine
-- **Not saluting and saying “Yes Grand Kit Officer Sir” every time he/she whinges at you:** Priceless
-
 ## Equipment Hire Fees (updated September 2023)
 
 Hire fees for kit hire are set out below. These are per day, per item used (e.g. two regulators used would be charged as two items). It is the trip organiser’s responsibility to collect the money owed for the trip and pay it directly to the treasurer.
