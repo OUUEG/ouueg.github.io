@@ -1,5 +1,5 @@
 ---
-title: 'OUUEG’s Club RHIBs'
+title: 'OUUEG’s Club RHIB'
 date: '2018-05-01T16:58:33+01:00'
 author: 'Marko Jung'
 layout: page
