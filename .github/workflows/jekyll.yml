@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Cache Ruby Gems
         uses: actions/cache@v3
         with:
@@ -36,7 +36,7 @@ jobs:
           restore-keys: |
             setup-ruby-bundler-cache-${{ runner.os }}-ruby-${{ matrix.ruby-version }}-
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4
       # Use ruby/setup-ruby to shorten build times
       - uses: ruby/setup-ruby@v1
         with:
@@ -70,4 +70,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
