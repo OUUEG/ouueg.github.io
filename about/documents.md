@@ -9,7 +9,7 @@ layout: page
 
 See the link below for access to Risk Assessment, Code of Conduct and Constitution.
 
-- [OUUEG Risk Assessment Template (2022)](https://docs.google.com/document/d/1BZQW3fyfKTMp4z2rt_LoTMjjgfGnLtzq/view)
+- [OUUEG Risk Assessment Template (2025)](https://docs.google.com/document/d/1BZQW3fyfKTMp4z2rt_LoTMjjgfGnLtzq/view)
 - [OUUEG Constitution](https://docs.google.com/document/d/1MsgxAaTmYGGfFS7qsuxUIqyE0tP840n4/view)
 - [OUUEG Code of Conduct](https://docs.google.com/document/d/10fZPVQUTKVexur6zK2Hp_ZfMhypO_yh5/view)
 
