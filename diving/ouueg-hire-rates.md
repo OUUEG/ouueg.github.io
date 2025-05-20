@@ -1,5 +1,5 @@
 ---
-title: 'OUUEG Kit Rates'
+title: 'OUUEG Kit and Boat Rates'
 date: '2025-05-20T15:35:00+01:00'
 author: Karim Alaa El-Din
 layout: page
