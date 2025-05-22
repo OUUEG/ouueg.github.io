@@ -1,22 +1,23 @@
 ---
 title: Committee
-date: '2024-09-10'
+date: '2025-05-22'
 author: 'Kirill Palamartchouk'
 layout: page
 ---
 
-| **Role**                   | **Name**                    | **Assistants**                   | **Email**                                                 |
-|----------------------------|-----------------------------|----------------------------------|-----------------------------------------------------------|
-| President                  | Graham Beake                |                                  | [president@ouueg.com](mailto:president@ouueg.com)         |
-| Treasurer                  | Jessie Dolliver             |                                  | [treasurer@ouueg.com](mailto:treasurer@ouueg.com)         |
-| Secretary                  | Mick Gielen                 |                                  | [secretary@ouueg.com](mailto:secretary@ouueg.com)         |
-| Diving Officer             | Holger Schuhmann            |                                  | [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com) |
-| Training Officer           | Marius Weber                | Lidka Ożarowska                  | [training@ouueg.com](mailto:training@ouueg.com)           |
-| Kit Officer                | Karim Alaa El-Din           | Xianming Liu, Che (Jackie) Jiang | [kit@ouueg.com](mailto:kit@ouueg.com)                     |
-| Boat Officer               | Oscar Robson                | Thomas Walter                    | [boat@ouueg.com](mailto:boat@ouueg.com)                   |
-| Expedition Officer         | George Apeitos              | Graham Beake                     | [expedition@ouueg.com](mailto:expedition@ouueg.com)       |
-| IT Officer                 | Nick Hu                     | Kirill Palamartchouk             | [it-officer@ouueg.com](mailto:it-officer@ouueg.com)       |
-| Membership Secretary       | Mick Gielen                 |                                  | [membership@ouueg.com](mailto:membership@ouueg.com)       |
-| Social Secretary           | Che (Jackie) Jiang          | Rosie Young                      | [social@ouueg.com](mailto:social@ouueg.com)               |
+| **Role**                   | **Name**                    | **Email**                                                 |
+|----------------------------|-----------------------------|-----------------------------------------------------------|
+| President                  | Giulia Biasi                | [president@ouueg.com](mailto:president@ouueg.com)         |
+| Treasurer                  | Graham Beake                | [treasurer@ouueg.com](mailto:treasurer@ouueg.com)         |
+| Secretary                  | Luba Maslej                 | [secretary@ouueg.com](mailto:secretary@ouueg.com)         |
+| Diving Officer             | Holger Schuhmann            | [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com) |
+| Training Officer           | Marius Weber                | [training@ouueg.com](mailto:training@ouueg.com)           |
+| Kit Officer                | *vacant*                    | [kit@ouueg.com](mailto:kit@ouueg.com)                     |
+| Boat Officer               | Karim Alaa El-Din           | [boat@ouueg.com](mailto:boat@ouueg.com)                   |
+| Expedition Officer         | Zara Waddy                  | [expedition@ouueg.com](mailto:expedition@ouueg.com)       |
+| IT Officer                 | Ming Liu                    | [it-officer@ouueg.com](mailto:it-officer@ouueg.com)       |
+| Welfare Officer            | Rosie Young                 |                                                           |
+| Membership Secretary       | Sara McHugh                 | [membership@ouueg.com](mailto:membership@ouueg.com)       |
+| Social Secretary           | Che (Jackie) Jiang          | [social@ouueg.com](mailto:social@ouueg.com)               |
 
 If you have any membership or joining inquiries, please go to our [WhatsApp group](https://chat.whatsapp.com/AnZP60BzcGi3tuTkKDBzQl) or email any of us.
