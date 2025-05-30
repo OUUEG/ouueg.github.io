@@ -1,7 +1,7 @@
 ---
 title: 'Documents, Forms & Minutes'
-date: '2013-10-15T22:43:25+01:00'
-author: 'Marko Jung'
+date: '2025-05-30T13:35:25+01:00'
+author: 'Kirill Palamartchouk'
 layout: page
 ---
 
@@ -9,8 +9,10 @@ layout: page
 
 See the link below for access to Risk Assessment, Code of Conduct and Constitution.
 
+- [OUUEG Constitution](https://docs.google.com/document/d/1Qm9C0x9KDEh4ubnpNlfa5JQptAoc0Mi_/view)
+
+
 - [OUUEG Risk Assessment Template (2025)](https://docs.google.com/document/d/1BZQW3fyfKTMp4z2rt_LoTMjjgfGnLtzq/view)
-- [OUUEG Constitution](https://docs.google.com/document/d/1MsgxAaTmYGGfFS7qsuxUIqyE0tP840n4/view)
 - [OUUEG Code of Conduct](https://docs.google.com/document/d/10fZPVQUTKVexur6zK2Hp_ZfMhypO_yh5/view)
 
 For further information contact our [secretary](/about/committee).
