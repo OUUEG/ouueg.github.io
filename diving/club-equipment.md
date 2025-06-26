@@ -72,7 +72,7 @@ contact the kit officer [kit@ouueg.com](kit@ouueg.com).
 ## Kit Hire Charges
 
 We charge a fixed rate for kit on each diving day. Our current charges can be
-found here. If you are diving with us more regularly, you might want to consider
+found [here](/diving/ouueg-hire-rates.html). If you are diving with us more regularly, you might want to consider
 taking out our annual kit flat rate!
 
 
