@@ -43,6 +43,8 @@ The current annual charge is **£125**. All daily charges are waived,
 **except for dry suits**, for which a reduced daily rate applies, as seen in the
 table of daily charges above.
 
+The kit flat rate cannot be pro-rated or taken out retroactively. In order for it to be used for a trip, it must be purchased before the trip bill is finalised.
+
 ### For The Pool
 
 We don’t charge kit hire for the pool, but we will apply a discretionary charge
@@ -66,6 +68,8 @@ on boat handling courses, for whom the charge is waived.
 
 We also offer an annual boat flat rate, aligned with the academic year
 (beginning 1st October). The current annual rate is **£125**, **excluding fuel**.
+
+The boat flat rate cannot be pro-rated or taken out retroactively. In order for it to be used for a trip, it must be purchased before the trip bill is finalised.
 
 ### Fuel Policy
 
