@@ -1,6 +1,6 @@
 ---
 title: 'Documents, Forms & Minutes'
-date: '2025-05-30T13:35:25+01:00'
+date: '2025-06-27T13:46:25+01:00'
 author: 'Kirill Palamartchouk'
 layout: page
 ---
@@ -13,7 +13,7 @@ See the link below for access to Risk Assessment, Code of Conduct and Constituti
 - [OUUEG Code of Conduct](https://docs.google.com/document/d/1r71aZ-ylWt4TAuBDNQwaY3bmUPaZKuNh/view)
 - [OUUEG Safety policy](https://docs.google.com/document/d/1LvAU9fCTrK50rf9i7GfHyNq0iDghT6jY/view)
 - [OUUEG Complaints procedure](https://docs.google.com/document/d/1cPwdnUAfGiLhQqPwlylY8hFdqAyHB1cR/view)
-- [OUUEG Club by-laws](https://docs.google.com/document/d/1mGebg-bWq-G7VVPVTSg8ZTBEBbWNwfRS/view)
+- [OUUEG Club by-laws](https://docs.google.com/document/d/1SdzI9HNtJ7tj7vZvIKUNMmwgRv2-q44j/edit)
 - [OUUEG Risk Assessment Template (2025)](https://docs.google.com/document/d/1BZQW3fyfKTMp4z2rt_LoTMjjgfGnLtzq/view)
 
 For further information contact our [secretary](/about/committee).
