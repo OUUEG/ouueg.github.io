@@ -1,7 +1,7 @@
 ---
 title: 'Frequently Asked Questions'
-date: '2013-10-24T14:41:26+01:00'
-author: ouuegoxford
+date: '2025-06-27T15:51:26+01:00'
+author: Graham Beake.
 layout: page
 ---
 
@@ -15,20 +15,33 @@ Yes you can! We run some [try dives](/diving/try) and offer [entry-level trainin
 
 #### I’m already a qualified diver.
 
-Then come dive with us! We’re happy to have you.
+Then come and dive with us! We’re happy to have you.
 
 Note that OUUEG is affiliated with [BSAC](https://www.bsac.com): if you’ve qualified with another agency then you can still dive with us – see the [cross-over page](/membership/crossing-over).
 
 #### What kind of trips do you run?
 
-We tend to go on weekend trips around the UK, either to the coast or in flooded quarries – usually either every weekend or every other weekend. We also typically run two longer trips every year: the [Easter trip](/diving/easter-trip) to Cornwall, and a trip abroad (for example, to the Red Sea) every winter.
+We tend to go on weekend trips around the UK, either to the coast or in flooded
+quarries – usually either every weekend or every other weekend.
+
+We also typically run two or three longer trips every year: the
+[Easter trip](/diving/easter-trip) to Cornwall or Portland, and a trip abroad (e.g. the
+Egyptian Red Sea in December 2024), and a summer expedition (e.g. Cyprus in July
+2025). Please contact our [Expedition Officer](expedition@ouueg.com) for further
+information.
 
 #### What are the payment options for membership fees?
 
-OUUEG can be paid by debit card, credit card or PayPal. We do not accept bank transfer, cheque or cash as these are hard to keep track of effectively.
+OUUEG prefers to receive membership fees via bank transfer. We also have a
+physical and virtual card reader that accepts debit cards and credit cards. We
+do not accept cheques or cash for membership fees. Please find more information
+on the [Join the Club page](/membership/join.html).
 
-BSAC has to be paid directly via direct debit (preferred), debit card or credit card. One may also send the membership officer a cheque issued at the correct BSAC fee with BSAC as the recipient. We will forward this with the paper documents to BSAC. However, payment by cheque is strongly discouraged by BSAC and OUUEG.
+BSAC must be paid directly via direct debit (preferred), debit card or credit card.
 
 #### Can you pro-rate my membership?
 
-We are more than happy to pro-rate your first membership rate if you join OUUEG after our Easter expedition. We will charge you a pro-rated fee for both OUUEG and BSAC to align your membership year with our common renewal date (1<sup>st</sup> November). Any membership renewal will incur the full OUUEG membership fee, even if joined later during the year.
+Please refer to the Membership section of our
+[by-laws](https://drive.google.com/file/d/14aEY6qYYriToOg1XskG-pCP80phy85xt/view).
+
+Updated on 27/06/2025 by Graham Beake.
