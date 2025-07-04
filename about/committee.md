@@ -1,7 +1,7 @@
 ---
 title: Committee
-date: '2025-05-22'
-author: 'Kirill Palamartchouk'
+date: '2025-07-04'
+author: 'Ming Liu'
 layout: page
 ---
 
@@ -16,7 +16,7 @@ layout: page
 | Boat Officer               | Karim Alaa El-Din           | [boat@ouueg.com](mailto:boat@ouueg.com)                   |
 | Expedition Officer         | Zara Waddy                  | [expedition@ouueg.com](mailto:expedition@ouueg.com)       |
 | IT Officer                 | Ming Liu                    | [it-officer@ouueg.com](mailto:it-officer@ouueg.com)       |
-| Welfare Officer            | Rosie Young                 |                                                           |
+| Welfare Officer            | Rosie Young                 | [welfare@ouueg.com](mailto:welfare@ouueg.com)             |
 | Membership Secretary       | Sara McHugh                 | [membership@ouueg.com](mailto:membership@ouueg.com)       |
 | Social Secretary           | Che (Jackie) Jiang          | [social@ouueg.com](mailto:social@ouueg.com)               |
 
