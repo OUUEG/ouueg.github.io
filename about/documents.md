@@ -13,7 +13,7 @@ See the link below for access to Risk Assessment, Code of Conduct and Constituti
 - [OUUEG Code of Conduct](https://docs.google.com/document/d/1r71aZ-ylWt4TAuBDNQwaY3bmUPaZKuNh/view)
 - [OUUEG Safety policy](https://docs.google.com/document/d/1LvAU9fCTrK50rf9i7GfHyNq0iDghT6jY/view)
 - [OUUEG Complaints procedure](https://docs.google.com/document/d/1cPwdnUAfGiLhQqPwlylY8hFdqAyHB1cR/view)
-- [OUUEG Club by-laws](https://drive.google.com/file/d/14aEY6qYYriToOg1XskG-pCP80phy85xt/view)
+- [OUUEG Club by-laws](https://drive.google.com/file/d/1i5yjmXRwLDgAKUy3ZlbPnDN8CuG-oVcu/view)
 - [OUUEG Risk Assessment Template (2025)](https://docs.google.com/document/d/1BZQW3fyfKTMp4z2rt_LoTMjjgfGnLtzq/view)
 
 For further information contact our [secretary](/about/committee).
