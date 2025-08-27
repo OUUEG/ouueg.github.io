@@ -38,3 +38,22 @@ a:visited {
 a:hover {
   color: #8080FF;
 }
+
+
+.site-nav { float: right; line-height: 24px; }
+
+.my-menu {
+  border: 1px solid #ccc;   /* light grey border */
+  border-radius: 0.4rem;    /* rounded corners */
+  padding: 0.8rem;          /* space inside the box */
+  background-color: #fff;   /* white background */
+}
+.my-menu a {
+  display: block;
+  padding: 0.8rem 0;       /* vertical breathing room */
+  border-bottom: 1px solid #ddd;  /* separator line */
+}
+.my-menu a:last-child {
+  margin-bottom: 0;
+  border-bottom: none;     /* remove line after the last link */
+}

@@ -58,14 +58,14 @@
               <a href="{{ t.url | relative_url }}" class="group-hover:bg-gray-100 font-medium" aria-expanded="false" aria-controls="{{ slug }}-dropdown">
                 {{ slug }}
               </a>
-              <div class="absolute invisible bg-white group-hover:visible">
+              <div class="absolute invisible bg-white group-hover:visible my-menu">
                 {%- for n in nested -%}
                   <a href="{{ n.url | relative_url }}" class="block hover:bg-gray-100 px-3">{{ n.title }}</a>
                 {%- endfor -%}
               </div>
             </div>
           {%- else -%}
-              <div class="inline-block px-3 py-2">
+              <div class="inline-block px-3 py-2 mb-2">
                 <a href="{{ t.url | relative_url }}" class="hover:bg-gray-100 font-medium">
                   {{ slug }}
                 </a>
