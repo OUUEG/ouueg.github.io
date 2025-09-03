@@ -1,5 +1,5 @@
 ---
-title: 'Easter Trip (2024)'
+title: 'Easter Trip Info'
 date: '2016-12-06T00:12:54+00:00'
 author: 'Marko Jung'
 layout: page
@@ -8,19 +8,17 @@ layout: page
 Every Easter, OUUEG goes to the beautiful south coast of Cornwall where there is abundant sealife such as scallops, crabs and seals, good value diving and a super fast club RHIB Seahorse, which you may have the chance to drive. Our main dive locations are Porthkerris and Mullion Cove (Porth Mellin). There’s excellent shore diving at both those places, and we’ll also use Seahorse to explore the nearby wrecks and reefs.
 
 
-## Easter Expedition 2024: Friday 29<sup>th</sup> March to Monday 8<sup>th</sup> April 2024
+## Easter Expedition 
 
+## Summary (2026 ET is to be announced!)
 
-## Summary
+*Dates:* 
 
+*Destination:* 
 
-*Dates:* 29 March – 8 April 2024  
-*Destination:* South Cornwall  
-*Accommodation:* Sea Acres, static caravans  
+*Accommodation:* 
+
 Cost: Bills typically range from £300 to £500 for 7-10 days. This depends on your stay’s duration and how much diving you do.
-
-(may be subject to change)
-
 
 ### Accommodation
 
@@ -29,7 +27,7 @@ We will be staying in [Sea Acres Caravan Park](http://www.parkdeanholidays.co.uk
 
 ### Transport
 
-We will be travelling in members’ own vehicles or possibly a minibus. We will definitively coordinate transport for the key travel days. Some people might decide to drive down to the Lizard on Saturday instead of Friday to avoid taking a day off work (note: Friday 29th is Good Friday, so this is unlikely in 2024). This can usually be accommodated. Alternative travel dates are possible but you might end up with a higher transport bill.
+We will be travelling in members’ own vehicles or possibly a minibus. We will definitively coordinate transport for the key travel days. Some people might decide to drive down to the Lizard on Saturday instead of Friday to avoid taking a day off work. This can usually be accommodated. Alternative travel dates are possible but you might end up with a higher transport bill.
 
 
 ### Diving and Diver Training
