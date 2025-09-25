@@ -12,7 +12,7 @@ layout: page
 | Secretary                  | Luba Maslej                 | [secretary@ouueg.com](mailto:secretary@ouueg.com)         |
 | Diving Officer             | Holger Schuhmann            | [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com) |
 | Training Officer           | Marius Weber                | [training@ouueg.com](mailto:training@ouueg.com)           |
-| Kit Officer                | *vacant*                    | [kit@ouueg.com](mailto:kit@ouueg.com)                     |
+| Kit Officer                | George Apeitos                    | [kit@ouueg.com](mailto:kit@ouueg.com)                     |
 | Boat Officer               | Karim Alaa El-Din           | [boat@ouueg.com](mailto:boat@ouueg.com)                   |
 | Expedition Officer         | Zara Waddy                  | [expedition@ouueg.com](mailto:expedition@ouueg.com)       |
 | IT Officer                 | Ming Liu                    | [it-officer@ouueg.com](mailto:it-officer@ouueg.com)       |
