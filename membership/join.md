@@ -16,7 +16,7 @@ To renew your OUUEG membership, you must complete the membership form (step 1) a
 
 ### 1. Register with OUUEG
 Fill in the OUUEG Membership Form 2024–25:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdTMYwVPjBwzzRRb2h6QOgRZjV65utGmzS9PDdF_4_8i0x4UQ/viewform?embedded=true" 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfR4RTZPtGxkyboHqRgi8vLNiIPEkqeymqw5UqyY42GvZfBKA/viewform?usp=dialog" 
   width="95%" height="3400px" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe>
 
 ### 2. Register with BSAC
