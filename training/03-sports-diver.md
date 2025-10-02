@@ -29,6 +29,6 @@ If you are crossing over from another agency, the price increases by £25 for a 
 
 ## Training schedule
 
-The sports diver course will start in the **Hilary 2020** and the theory lessons will run on Wednesday evenings before our pub night for 6 weeks. Time and location tbc. The one pool session will be organised for a Friday evening at a time convienent for you and an instructor. If you have any questions about this course please do get in touch with our [training officer](/about/committee).
+The sports diver course will start in the **Hilary 2020** and the theory lessons will run on Wednesday evenings before our pub night for 6 weeks. Time and location tbc. The one pool session will be organised for a Friday evening at a time convienent for you and an instructor. If you have any questions about this course please do get in touch with our training officer.
 
 In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.

@@ -9,9 +9,9 @@ One of the exciting opportunities that OUUEG offers is joining on regular dive t
 
 All trips are organised by members for members. Hence, if there is a nice location you always wanted to dive feel free to get in touch and we help you to organise a trip.
 
-### <span style="font-style: inherit;">What to expect from UK Diving?</span>
+### What to expect from UK Diving?
 
-<span style="font-style: inherit;">The UK has an exceptionally rich naval history and its coastline has some of the best diving in the world. OUUEG does lots of diving in the UK throughout the year, and we have a [rigid hull inflatible boat (RHIB), Sea Horse](/diving/rhibs), which enables us to get access to anywhere we’d like to go.</span>
+The UK has an exceptionally rich naval history and its coastline has some of the best diving in the world. OUUEG does lots of diving in the UK throughout the year, and we have a [rigid hull inflatible boat (RHIB), Sea Horse](/diving/rhibs.html), which enables us to get access to anywhere we’d like to go.
 
 There are thousands of shipwrecks to explore, ranging from Roman shipwrecks littered with amphora, to ships-of-the-line with canon and silver coin, to submarines from the Second World War. All of them can be explored and act as habitats for all sorts of marine life – lobsters, grouper, shoaling fish, conger eels and pipefish.
 
@@ -29,6 +29,6 @@ OUUEG trips are based around weekend trips away, staying in comfortable, heated 
 
 Adventurous expedition diving in remote areas of Scotland and islands such as the Isle of White, Lundy and the Shetlands provide endless challenges for the more advanced diver. OUUEG gets involved in wreck penetration, photography, videography, nautical archaeology and marine biology projects.
 
-If you’d like to come on an OUUEG trip, why don’t you check out our [calendar](https://calendar.google.com/calendar/embed?src=ouueg.website%40gmail.com&ctz=Europe%2FLondon). And if you’d like to make a suggestion of somewhere you’d like to visit in particular, you can contact our [expeditions officer](/about/committee). If you’re even ready to plan a trip yourself, check out our [guide](/diving/how-do-i-plan-a-trip/ "How do I plan a trip?").
+If you’d like to come on an OUUEG trip, why don’t you check out our [calendar](https://calendar.google.com/calendar/embed?src=ouueg.website%40gmail.com&ctz=Europe%2FLondon). And if you’d like to make a suggestion of somewhere you’d like to visit in particular, you can contact our [expeditions officer](/about/committee). If you’re even ready to plan a trip yourself, check out our [guide](/diving/how-do-i-plan-a-trip.html "How do I plan a trip?").
 
 To get an idea of what trips are like, check out the reports from past trips as well as pictures in our [flickr! gallery](http://www.flickr.com/photos/ouueg/ "flickr! gallery").
