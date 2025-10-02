@@ -1,7 +1,7 @@
 ---
 title: Membership
-date: '2019-12-08T10:03:25+00:00'
-author: 'Marko Jung'
+date: '2025-10-02'
+author: 'Ming Liu'
 layout: page
 ---
 
@@ -26,16 +26,15 @@ These are just a few of the perks we exclusively offer to our members. Please co
 
 **In addition** to OUUEG memberhsip, you need to be a member of BSAC, the
 national governing body of recreational diving in the United Kingdom. You can
-register or update your membership on the [**BSAC membership website**](https://www.bsac.com/membership/) by clicking “Join via club” and
+register or update your membership on the [**BSAC membership website**](https://www.bsac.com/membership/rejoin-bsac-today/) by clicking “Join via club” and
 searching for OUUEG.
 
 BSAC membership fee is approximately:
 
-- £37 for Student Members
-- £68.50 for new Full Diving Members.
+- £39 for Student Members
+- £71 for new Full Diving Members.
 - BSAC Advanced Divers and above or Instructors might pay cheaper BSAC rates.
 
 ## Next: [Join us!](/membership/join/)
 
 If you have any questions then get in touch with our diving officer via [divingofficer@ouueg.com](mailto:divingofficer@ouueg.com).
-

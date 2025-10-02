@@ -1,7 +1,7 @@
 ---
 title: 'Club Equipment'
-date: '2025-05-20T15:35:00+01:00'
-author: Karim Alaa El-Din
+date: '2025-10-02'
+author: Ming Liu
 layout: page
 ---
 
@@ -34,15 +34,15 @@ a zip tie or similar), and place it on the kit officer's desk (under the
 whiteboard). The kit officer will take care of the rest!
 
 Please report any other health and safety hazards directly to the kit officer,
-either via text or [kit@ouueg.com](kit@ouueg.com). 
+either via text or [kit@ouueg.com](mailto:kit@ouueg.com). 
 
 ## Borrowing Kit
 
 You may **only** borrow kit for use on club trips. To register a trip as a club
 trip, all you need to do is contact the [diving
-officer](divingofficer@ouueg.com) and send them an
+officer](mailto:divingofficer@ouueg.com) and send them an
 appropriate risk assessment. If you have never planned a trip, and want help or
-guidance with the planning, please contact the [expeditions officer](expedition@ouueg.com) first.
+guidance with the planning, please contact the [expeditions officer](mailto:expedition@ouueg.com) first.
 
 Please check all kit for correct functioning before leaving the kit hut, and
 ensure that kit such as cylinders and regulators are still in test / service.
@@ -67,7 +67,7 @@ correct location.
 
 Please wash kit before returning it to the club, and put everything back into
 its place! For specific guidance on how to treat kit, ask your instructor, or
-contact the kit officer [kit@ouueg.com](kit@ouueg.com). 
+contact the kit officer [kit@ouueg.com](mailto:kit@ouueg.com). 
 
 ## Kit Hire Charges
 
@@ -77,7 +77,4 @@ taking out our annual kit flat rate!
 
 
 **In case you have any questions or comments, please don’t hesitate to contact our
-Kit Officer at [kit@ouueg.com](kit@ouueg.com).**
-
-
-Updated on 2025-04-25 by Karim Alaa El-Din.
+Kit Officer at [kit@ouueg.com](mailto:kit@ouueg.com).**

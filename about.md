@@ -19,7 +19,7 @@ The club is fortunate enough to have enough SCUBA equipment to accommodate even 
 
 ### Seahorse – our club boat
 
-The club owns a hard hull boat ‘Seahorse’. It is a 5.8m Tornado RHIB, purchased in 2004, with a Honda 135hp outboard 4-stroke engine, purchased 2014. It is equipped with a GPS/chartplotter, depth sounder and a VHF radio. We always carry full emergency equipment, including oxygen, on board.
+The club owns a hard hull boat ‘[Seahorse](diving/rhibs.html)’. It is a 5.8m Tornado RHIB, purchased in 2004, with a Honda 135hp outboard 4-stroke engine, purchased 2014. It is equipped with a GPS/chartplotter, depth sounder and a VHF radio. We always carry full emergency equipment, including oxygen, on board.
 
 For the past few years she has been based in Plymouth and the club offers as much opportunity as possible to dive from her, normally weekend trips and a couple of week-long trips, the legendary Easter Training and Summer Expeditions. If you would like to use her for your trip and there is nothing already planned then get in touch with the boat and diving officers.
 
