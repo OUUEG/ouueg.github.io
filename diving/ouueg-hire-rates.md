@@ -55,7 +55,7 @@ charges made by OxBSAC for usage of their pool slot at Radley (if applicable).
 ## OUUEG Boat Rates
 
 We currently charge the following for usage of our club RHIB,
-[Seahorse](diving/rhibs.html).
+[Seahorse](rhibs.html).
 
 ### Daily rate
 
