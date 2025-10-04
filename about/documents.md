@@ -27,3 +27,7 @@ Please see [this link](https://drive.google.com/drive/folders/1Y2cWY354BMNhlH-rB
 - [UKSDMC medical forms](https://www.ukdmc.org/downloads/)
 
 A list of UKSDMC approved medical referees is can be found on the [UK Sport Diving Medical Committee](https://www.uksdmc.co.uk/) website.
+
+### Templates
+
+- [Dive trip bill template](../assets/forms/2025-09-05%20OUUEG%20Trip%20Bill%20Template.xlsx)
