@@ -1,31 +1,26 @@
 <header class="site-header" role="banner">
-  <div class="wrapper px-6 md:container flex flex-wrap w-full mx-auto items-center gap-4">
+  <div class="wrapper px-6 md:container flex flex-wrap mx-auto items-center gap-4">
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign toplevel = site.pages
-        | where: "dir", "/"
-        | where_exp: "page", "page.path != 'feed.xml'"
-        | where_exp: "page", "page.path != 'index.html'"
-    -%}
+    {%- assign toplevel = site.pages | where: "dir", "/" | where_exp: "page", "page.path != 'feed.xml'" | where_exp: "page", "page.path != 'index.html'" -%}
 
-    <!-- XL and up: logo + full title on one line (no wrap), left-aligned -->
+    <!-- Long title on one line at xl+ -->
     <a class="site-title hidden xl:block" rel="author" href="{{ "/" | relative_url }}">
-      <span class="inline-flex items-center gap-3 whitespace-nowrap">
+      <span class="whitespace-nowrap">
         <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">
         {{ site.title | escape }}
       </span>
     </a>
 
-    <!-- Below XL: compact title -->
+    <!-- Compact title below xl -->
     <a class="site-title xl:hidden" rel="author" href="{{ "/" | relative_url }}">
-      <span class="inline-flex items-center gap-3">
+      <span>
         <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">
         OUUEG
       </span>
     </a>
 
-    <!-- Make nav break onto its own row and span full width -->
-    <nav class="site-nav relative h-full w-full px-2 sm:px-6 lg:px-8">
-      <!-- Mobile: hamburger + drawer (unchanged) -->
+    <nav class="site-nav relative w-full px-2 sm:px-6 lg:px-8">
+      <!-- Mobile hamburger (unchanged) -->
       <aside class="md:hidden h-full w-full flex justify-end">
         <h2 class="sr-only" id="mobile-navigation">Mobile navigation</h2>
         <label class="flex items-center relative z-40 cursor-pointer px-3 py-6" for="mobile-menu">
@@ -63,13 +58,12 @@
         </label>
       </aside>
 
-      <!-- Desktop / tablet: CENTERED nav UNDER the title -->
-      <div class="trigger hidden md:block mx-auto max-w-7xl px-2 md:px-6 lg:px-8 text-center">
+      <!-- Desktop/tablet: centered nav on its own row -->
+      <div class="trigger hidden md:block mx-auto max-w-7xl px-2 md:px-6 lg:px-8 text-center space-y-0">
         <div class="inline-block px-3 py-2">
           <a href="{{ "/" | relative_url }}" class="hover:bg-gray-100 font-medium">home</a>
         </div>
 
-        <!-- Generate nav based on directory structure, 1 deep -->
         {%- for t in toplevel -%}
           {%- assign slug = t.path | remove: ".md" -%}
           {%- assign directory = slug | prepend: "/" | append: "/" -%}
@@ -87,9 +81,7 @@
             </div>
           {%- else -%}
             <div class="inline-block px-3 py-2">
-              <a href="{{ t.url | relative_url }}" class="hover:bg-gray-100 font-medium">
-                {{ slug }}
-              </a>
+              <a href="{{ t.url | relative_url }}" class="hover:bg-gray-100 font-medium">{{ slug }}</a>
             </div>
           {%- endif -%}
         {%- endfor -%}
