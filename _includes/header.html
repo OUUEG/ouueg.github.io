@@ -7,26 +7,32 @@
         | where_exp: "page", "page.path != 'index.html'"
     -%}
 
-    <!-- XL and up: logo + full title on one line (no wrap), left-aligned -->
-    <a class="site-title hidden xl:block" rel="author" href="{{ "/" | relative_url }}">
-      <span class="inline-flex items-center gap-3 whitespace-nowrap">
-        <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">
-        {{ site.title | escape }}
-      </span>
+    <!-- XL+: logo + full title on ONE line (never wraps) -->
+    <a
+      class="site-title hidden xl:inline-flex items-center gap-3 flex-none whitespace-nowrap"
+      rel="author"
+      href="{{ "/" | relative_url }}"
+    >
+      <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem"
+           style="width:80px;height:auto;vertical-align:middle;">
+      <span>{{ site.title | escape }}</span>
     </a>
 
-    <!-- Below XL: compact title -->
-    <a class="site-title xl:hidden" rel="author" href="{{ "/" | relative_url }}">
-      <span class="inline-flex items-center gap-3">
-        <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem" style="width:80px;height:auto;vertical-align:middle;">
-        OUUEG
-      </span>
+    <!-- < XL: compact title -->
+    <a
+      class="site-title xl:hidden inline-flex items-center gap-3 flex-none"
+      rel="author"
+      href="{{ "/" | relative_url }}"
+    >
+      <img class="inline" src="/assets/images/ouueg-button-padded.png" alt="OUUEG emblem"
+           style="width:80px;height:auto;vertical-align:middle;">
+      <span>OUUEG</span>
     </a>
 
-    <!-- Make nav break onto its own row and span full width -->
-    <nav class="site-nav relative h-full w-full px-2 sm:px-6 lg:px-8">
+    <!-- Force nav onto its own row and center its contents -->
+    <nav class="site-nav relative w-full px-2 sm:px-6 lg:px-8">
       <!-- Mobile: hamburger + drawer (unchanged) -->
-      <aside class="md:hidden h-full w-full flex justify-end">
+      <aside class="md:hidden w-full flex justify-end">
         <h2 class="sr-only" id="mobile-navigation">Mobile navigation</h2>
         <label class="flex items-center relative z-40 cursor-pointer px-3 py-6" for="mobile-menu">
           <input class="peer hidden" type="checkbox" id="mobile-menu" />
@@ -37,6 +43,7 @@
                    peer-checked:bg-transparent before:peer-checked:top-0 before:peer-checked:w-full before:peer-checked:rotate-45 before:peer-checked:transform
                    after:peer-checked:bottom-0 after:peer-checked:w-full after:peer-checked:-rotate-45 after:peer-checked:transform">
           </div>
+
           <div class="fixed top-0 right-0 z-40 h-full w-full translate-x-full overflow-y-auto overscroll-y-none transition duration-500 peer-checked:translate-x-0">
             <div class="float-right min-h-full w-[85%] bg-white px-6 pt-12 shadow-2xl">
               <menu>
@@ -63,13 +70,12 @@
         </label>
       </aside>
 
-      <!-- Desktop / tablet: CENTERED nav UNDER the title -->
+      <!-- Desktop / tablet: centered nav under the title -->
       <div class="trigger hidden md:block mx-auto max-w-7xl px-2 md:px-6 lg:px-8 text-center">
         <div class="inline-block px-3 py-2">
           <a href="{{ "/" | relative_url }}" class="hover:bg-gray-100 font-medium">home</a>
         </div>
 
-        <!-- Generate nav based on directory structure, 1 deep -->
         {%- for t in toplevel -%}
           {%- assign slug = t.path | remove: ".md" -%}
           {%- assign directory = slug | prepend: "/" | append: "/" -%}
@@ -87,9 +93,7 @@
             </div>
           {%- else -%}
             <div class="inline-block px-3 py-2">
-              <a href="{{ t.url | relative_url }}" class="hover:bg-gray-100 font-medium">
-                {{ slug }}
-              </a>
+              <a href="{{ t.url | relative_url }}" class="hover:bg-gray-100 font-medium">{{ slug }}</a>
             </div>
           {%- endif -%}
         {%- endfor -%}
