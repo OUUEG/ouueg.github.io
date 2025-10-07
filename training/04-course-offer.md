@@ -15,7 +15,7 @@ Never dived before and want to see if it's for you? Then this is what you're
 looking for. Our instructors will take you to the pool so you can experience the
 weightless of diving and have fun in a joint underwater session.
 
-Cost: £35 the coming academic year.
+Cost: £33 the coming academic year.
 
 Prerequisite: you must be able to swim and be in good health.
 
