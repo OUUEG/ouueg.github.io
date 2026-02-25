@@ -18,6 +18,13 @@ npm install postcss postcss-cli
 bundle update
 ```
 
+## To update individual dependencies versions (e.g. in response for Dependabot alert)
+```bash
+npm update <packagename>
+# or
+npm update
+```
+
 ## Hosted as
 https://ouueg.github.io, redirection: https://ouueg.com
 
