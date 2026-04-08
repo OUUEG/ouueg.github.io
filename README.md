@@ -18,6 +18,11 @@ npm install postcss postcss-cli
 bundle update
 ```
 
+## To detect outdated dependencies and upgrade them:
+```bash
+npm audit fix
+```
+
 ## To update individual dependencies versions (e.g. in response for Dependabot alert)
 ```bash
 npm update <packagename>
