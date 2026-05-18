@@ -1,6 +1,6 @@
 ---
 title: Committee
-date: '2026-05-'
+date: '2026-05-18'
 author: 'Ming Liu'
 layout: page
 ---
