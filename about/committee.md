@@ -15,7 +15,7 @@ layout: page
 | Kit Officer | George Apeitos | [kit@ouueg.com](mailto:kit@ouueg.com) |
 | Boat Officer | Ben Keitch | [boat@ouueg.com](mailto:boat@ouueg.com) |
 | Expedition Officer | Julia Johnstone | [expedition@ouueg.com](mailto:expedition@ouueg.com) |
-| IT Officer | N/A | [it-officer@ouueg.com](mailto:it-officer@ouueg.com) |
+| IT Officer | Rosie Young | [it-officer@ouueg.com](mailto:it-officer@ouueg.com) |
 | Welfare Officer | Zara Waddy | [welfare@ouueg.com](mailto:welfare@ouueg.com) |
 | Membership Secretary | Sara McHugh | [membership@ouueg.com](mailto:membership@ouueg.com) |
 | Social Secretary | Paige Norton-Edwards | [social@ouueg.com](mailto:social@ouueg.com) |
