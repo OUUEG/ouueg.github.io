@@ -57,3 +57,53 @@ a:hover {
   margin-bottom: 0;
   border-bottom: none;     /* remove line after the last link */
 }
+
+.figure-row {
+  display: flex;
+  align-items: center;      /* centres the actual figure/image heights */
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0 5rem;     /* room for captions below */
+}
+
+.figure-row figure {
+  flex: 1 1 0;
+  position: relative;
+  margin: 0;
+  text-align: center;
+}
+
+.figure-row img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.figure-row figcaption {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  padding-top: 0.6rem;
+  text-align: center;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .figure-row {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .figure-row figure {
+    margin-bottom: 3rem;
+  }
+
+  .figure-row figcaption {
+    position: static;
+    padding-top: 0.6rem;
+  }
+}
