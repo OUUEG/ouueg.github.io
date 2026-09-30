@@ -110,24 +110,15 @@ a:hover {
 }
 
 .instagram-feature {
-  max-width: 540px;
-  margin: 0 auto 45px;
-  text-align: center;
-}
-
-.instagram-feature h2 {
-  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0 40px;
 }
 
 .instagram-feature .instagram-media {
-  margin: 0 auto !important;
-}
-
-.instagram-follow {
-  margin-top: 14px;
-  font-size: 1.05rem;
-}
-
-.instagram-follow a {
-  font-weight: 500;
+  width: 100% !important;
+  max-width: 540px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
