@@ -108,3 +108,26 @@ a:hover {
     padding-top: 0.6rem;
   }
 }
+
+.instagram-feature {
+  max-width: 540px;
+  margin: 0 auto 45px;
+  text-align: center;
+}
+
+.instagram-feature h2 {
+  margin-bottom: 20px;
+}
+
+.instagram-feature .instagram-media {
+  margin: 0 auto !important;
+}
+
+.instagram-follow {
+  margin-top: 14px;
+  font-size: 1.05rem;
+}
+
+.instagram-follow a {
+  font-weight: 500;
+}
