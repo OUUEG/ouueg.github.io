@@ -5,8 +5,6 @@ author: 'Matthew McCabe'
 layout: page
 ---
 
-## Ocean Diver
-
 Want to learn to dive? BSAC Ocean Diver is the place to start. As a member of OUUEG, we offer several opportunities to get your entry-level diving qualification. UK-based training tends to happen in Hilary term, so that you're ready just in time for the warm summer waters! We either run this ourselves directly, or with the help of the BSAC regional team, dependent on demand. If you're not tempted by UK waters, we regularly run international trips in both the Michaelmas and Summer Vac - most of which give you the opportunity to get qualified with all the comforts of a balmy tropical holiday to go along with it!
 
 If you're interested in doing a course with us, ask on our [whatsapp](/about/contact), or get in contact with our [training officer](/about/committee), and we'll get you sorted!
@@ -14,11 +12,11 @@ If you're interested in doing a course with us, ask on our [whatsapp](/about/con
 ## Course fees
 
 As we are a volunteer run club, you only pay the direct costs of training, plus a small (usually around ~£10) charge to keep the club running. This allows us to offer you training for a far lower cost than almost anywhere else. It also means that prices will fluctuate a little, dependent on current costs of things like fuel, gas refills and dive site admission. The total cost of training often comes in to around £300, which is usually comprised of:
-- E-Learning materials
-- Gas refills
-- Transport and entry to dive sites
-- Pool Fees
-- Equipment running costs
+  - E-Learning materials
+  - Gas refills
+  - Transport and entry to dive sites
+  - Pool Fees
+  - Equipment running costs
 
 ## Training Schedule
 
