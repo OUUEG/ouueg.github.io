@@ -1,43 +1,37 @@
 ---
-title: 'Ocean Diver'
-date: '2014-09-07T04:57:29+01:00'
-author: 'Marko Jung'
+title: 'Learn To Dive'
+date: '2026-10-05T01:54:29+01:00'
+author: 'Matthew McCabe'
 layout: page
 ---
 
-## Learn to Dive
+## Ocean Diver
 
-BSAC has continuously developed its training programme for divers since its formation in 1953. The training programme reflects the requirements for safe diving in the conditions encountered in UK waters but is equally applicable throughout the world.
+Want to learn to dive? BSAC Ocean Diver is the place to start. As a member of OUUEG, we offer several opportunities to get your entry-level diving qualification. UK-based training tends to happen in Hilary term, so that you're ready just in time for the warm summer waters! We either run this ourselves directly, or with the help of the BSAC regional team, dependent on demand. If you're not tempted by UK waters, we regularly run international trips in both the Michaelmas and Summer Vac - most of which give you the opportunity to get qualified with all the comforts of a balmy tropical holiday to go along with it!
 
-The British Sub Aqua Club offers five different qualifications which are described in depth on the [BSAC website](http://www.bsac.com/page.asp?section=1053&sectionTitle=Diver+Grade+Training+Courses). The two most common training packages offered by OUUEG are the initial Ocean Diver training where one does not need to have any diving experience. This course will qualify you to dive to a maximum depth of 20 metres anywhere in the world with a qualified buddy. After completing your Ocean Diver training you may decide to advance to the [Sports Diver](/03-sports-diver.html) training where you practice many additional skills and progress your maximum diving depth up to 35 metres.
+If you're interested in doing a course with us, ask on our [whatsapp](/about/contact), or get in contact with our [training officer](/about/committee), and we'll get you sorted!
 
-The Ocean Diver package has everything required to get diving including theory sessions, pool sessions and open water lessons, equipment rental and pool bookings. It would be useful to get some personal kit like a mask and fins.
+## Course fees
 
-The initial practical lessons will take place at local Oxford pools with enough depth for basic training. Open water training will take place on a training trip in Michaelmas term and on our Easter Training trip. Costs for the trips such as transport, food and accommodation are not included in the training packages. If you have any questions about those courses please contact our training officer.
+As we are a volunteer run club, you only pay the direct costs of training, plus a small (usually around ~£10) charge to keep the club running. This allows us to offer you training for a far lower cost than almost anywhere else. It also means that prices will fluctuate a little, dependent on current costs of things like fuel, gas refills and dive site admission. The total cost of training often comes in to around £300, which is usually comprised of:
+- E-Learning materials
+- Gas refills
+- Transport and entry to dive sites
+- Pool Fees
+- Equipment running costs
 
-## Ocean Diver Pack
+## Training Schedule
 
+The course begins with a series of e-learning lessons to teach you the theory of diving. We often also run theory lectures in Michaelmas or Hilary - these are a more social way to learn, and are often more hands-on than the lectures you're used to! BSAC also charges less for theory-lecture packs than e-learning, which means we can offer the training for an even lower price! Following this you sit a short multi-choice theory test, to make sure you haven't forgotten the most important bits!
 
-- - - - - -
+After that, you'll then take part in five sheltered-water pool dives, where you'll be taught the basic skills, and start to get more comfortable in the underwater environment. Here you'll learn how to set up and use your equipment, and get practice in helping your dive-buddy navigate theirs. Once you're comfortable with that, we move out into open-water sessions, which often take place in a lake or flooded quarry - these give you a taste of what diving can be like in the UK and often have a variety of both wrecks and aquatic life for you to explore!
 
-Our Ocean Diver package includes all BSAC learning materials, five theory lessons, five instructed pool training dives, all pool fees, five open water dives, equipment rental, and most importantly a lot of fun.
+Once you've completed these sessions, you can officially call yourself an Ocean Diver! Your qualification will be recorded on the BSAC system, and you can even ask for a card showing your certification if you like! 
 
-- - - - - -
+## What Next?
 
-Not included in the package are expenses for training trips and drysuit hire. Please note that you have to become a member of OUUEG and BSAC. The total cost for training package and both memberships is £335.50 for students and £397.00 for other members.
+Once you're Ocean Diver qualified, you'll be able to join us on any of our dive trips, and will be certified to a maximum depth of 20 metres. This allows you to experience much of the marine life the UK has to offer, as well as explore a wide range of sites, both inland and offshore. You'll be able to come along on our boat trips, where we explore shipwrecks from a range of time periods out in the English Channel, and, since your certification is internationally recognised, you'll even be able to dive on holiday as well!
 
-## Training schedule
+However, as we get towards the colder months here in the UK, many divers find themselves most comfortable with extra thermal protection. This is where the drysuit comes in. Not only does it allow you to enjoy diving in colder waters, the drysuit is also preferred by many divers as it allows for finer buoyancy control, and prevents you from getting chilly between dives. Most of our Ocean Divers do their open water sessions in a drysuit, and so we often offer it as an additional qualification towards the end of the course. This is also open to already qualified divers who want to start exploring UK waters!
 
-Ocean Diver and Sports Diver training happens at fixed dates each year: Ocean Diver and Sports Diver in Hilary term (January – March). Ocean Divers also *must* keep the easter break free to finish training. If you are thinking of doing a course please contact our [training officer](/about/committee).
-
-We sometimes run a block course for Ocean Diver in spring/early summer so please register your interest now to get the invitation if you can not attend the upcoming Michaelmas training.
-
-### Pool sessions and lectures
-
-Before open water training, a number of sessions must be held in the swimming pool to learn the techniques used in SCUBA diving, before transferring them to a quarry/the sea. In addition, there are theory sessions followed by a short multi-choice exam.
-
-### Open water sessions
-
-Your first open water experience is likely to be a training trip to a quarry late in Michaelmas term. Thereafter, most Ocean Diver and Sports Diver open water training is conducted during our Easter Trip. This is our largest training trip and aims to get all the qualifications done conveniently at the beginning of the diving season! Participating in this trip is the easiest way to get qualified and it is highly recommended if you would like to take advantage of as much of the UK diving season as you can. However if you cannot make it to the Easter training trip you will still be able to complete your training. In this case, it would be more down to you and you would be required to contact instructors who will teach you on any of the club’s regular dive trips and expeditions.
-
-In case you have any questions or comments please don’t hesitate to contact our training officer at <training@ouueg.com>.
+As you start diving more, you might encounter other divers using specialised equipment, like the DSMB. You might also find that the 20 metre depth limit becomes a little restrictive for exploring deeper wrecks. Or you might even be interested in progressing your diving career towards becoming an instructor, or a more engaged member of the club. If that sounds like you, your next step should be to look at the [Sports Diver](/03-sports-diver.html) course, which teaches you how to use a range of more advanced equipment, allows you to dive up to 40 metres depth, and is a necessary prerequisite for becoming an instructor!
