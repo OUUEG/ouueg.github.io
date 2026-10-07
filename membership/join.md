@@ -1,6 +1,6 @@
 ---
 title: 'Join the Club'
-date: '2025-10-02'
+date: '2026-10-07'
 author: 'Ming Liu'
 layout: page
 ---
@@ -55,7 +55,7 @@ Most of the club activity is advertised via the mailing list. **To join please [
 
 ### 4. Join the [WhatsApp group](https://chat.whatsapp.com/JSQbXGhaopm6hOobraO6hU)
 
-![](/assets/images/qr.png)
+![](/assets/images/qr_2026.jpeg)
 
 #### **Pub nights**
 
